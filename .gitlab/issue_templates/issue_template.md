@@ -2,8 +2,8 @@
 
 Please check the following:
 
- - This is not a graphical issue
- - This issue is not already known.
+ - [ ] This is not a graphical issue
+ - [ ] This issue is not already known.
 
 
 ## HDOS version:
