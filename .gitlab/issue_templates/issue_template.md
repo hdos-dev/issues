@@ -1,5 +1,6 @@
-
  Provide a general summary of the issue in the Title above
+
+ - [ ] I have checked this issue does not already exist.
 
 ## HDOS version:
 The HDOS client version you experienced your problem on.
