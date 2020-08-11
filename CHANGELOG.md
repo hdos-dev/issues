@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [65] - 2020-08-11
+### Changes
+- fix auth problems
+
 ## [64] - 2020-08-11
 ### Changes
 - refine updating mechanisms
