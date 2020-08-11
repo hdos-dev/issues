@@ -5,7 +5,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
-## [62] - 2020-09-2020
+## [63] - 2020-08-11
+### Changes
+- new version control backend
+
+## [62] - 2020-08-09
 ### Added
 - `:issue` command to help report a issue
 
