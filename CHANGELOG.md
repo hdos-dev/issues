@@ -5,6 +5,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [66] - 2020-08-12
+### Fixed
+- [Idle Logout Timer](hdos/issues#4)
+- [Account Type Icons](hdos/issues#2)
+- [item on player](hdos/issues#8)
+- soundfx packet
+- [follower option priority](hdos/issues#5)
+
 ## [65] - 2020-08-11
 ### Changes
 - fix auth problems
@@ -22,4 +30,4 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - `:issue` command to help report a issue
 
 ### Fixed
-- [Tab Key](#6)
+- [Tab Key](hdos/issues#6)
