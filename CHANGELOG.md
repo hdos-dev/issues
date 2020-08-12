@@ -5,6 +5,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [67] - 2020-08-12
+### Changes
+- update cache
 
 ## [66] - 2020-08-12
 ### Fixed
