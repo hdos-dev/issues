@@ -5,6 +5,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [68] - 2020-08-13
+### Added
+- god wars items
+- spirit shields
+
 ## [67] - 2020-08-12
 ### Changes
 - update cache
