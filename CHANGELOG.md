@@ -4,9 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Added
+- `:afk` command to disable idle-logout
 
 ## [70] - 2020-08-18
-- update jogl to 2.3.2
+### Changed
+- update JOGL to 2.3.2
 
 ## [69] - 2020-08-18
 ### Fixed
