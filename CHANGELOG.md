@@ -4,8 +4,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+## [71] - 2020-08-22
 ### Added
-- `:afk` command to disable idle-logout
+- `:afk` command to toggle idle-logout
+- `:unsafe` command to toggle unsafe animations (enables more HD, might need to re-log)
+### Fixed
+- fix player animations that were downgraded in v69
+### Changed
+- graphics backend improvements, and stability.
+  This provides a wide range of upgrades to objects and npcs:
+    - notable objects: fires, lights, rocks, flags
+    - notable npcs: (unsafe) TzHaar, some slayer monsters, fishing pools
 
 ## [70] - 2020-08-18
 ### Changed
