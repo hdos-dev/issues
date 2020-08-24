@@ -12,6 +12,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
    - `:zoom` will increase the limit by 48 (default)
    - `:zoom X` will increase the limit by X (caped to 64)
    - `:zoom 0` will reset the limit back to normal
+- error display (ex: cashes)
 ### Fixed
 - feet clipping on most objects
 ### Changed
