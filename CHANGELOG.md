@@ -6,7 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Added
 - Discord Presence
-- `:zoom` command. This will increase the max zoom-out of the client.
+- [`:zoom` command](hdos/issues#27). 
+    This will increase the max zoom-out of the client.
     You can configure how much to increase, and reset the limit:
    - `:zoom` will increase the limit by 48 (default)
    - `:zoom X` will increase the limit by X (caped to 64)
