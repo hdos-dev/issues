@@ -4,6 +4,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Added
+- Discord Presence
+- `:zoom` command. This will increase the max zoom-out of the client.
+    You can configure how much to increase, and reset the limit:
+   - `:zoom` will increase the limit by 48 (default)
+   - `:zoom X` will increase the limit by X (caped to 64)
+   - `:zoom 0` will reset the limit back to normal
+### Fixed
+- feet clipping on most objects
+### Changed
+- HD GE NPCs
 
 ## [71] - 2020-08-22
 ### Added
