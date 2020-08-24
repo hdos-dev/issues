@@ -13,6 +13,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
    - `:zoom X` will increase the limit by X (caped to 64)
    - `:zoom 0` will reset the limit back to normal
 - error display (ex: cashes)
+- `:aa` command. Set the MSAA sample buffers.
+    - `:aa 0` will disable anti-aliasing
+    - `:aa 1` MSAAx2
+    - `:aa 2` MSAAx4
+    - `:aa 3` MSAAx8
+    - `:aa 4` MSAAx16
+    - `:aa 5` MSAAx32
 ### Fixed
 - feet clipping on most objects
 ### Changed
