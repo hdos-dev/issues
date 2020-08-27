@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [73] - 2020-08-26
+### Fixed
+- update protocol to 191
+
 ## [72] - 2020-08-24
 ### Added
 - Discord Presence
