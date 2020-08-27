@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Fixed
+- [game links](hdos/issues#65)
+- [auto chat](hdos/issues#61)
+- [system update time](hdos/issues#63)
 
 ## [73] - 2020-08-26
 ### Fixed
