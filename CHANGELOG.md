@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [75] - 2020-09-2
+### Fixed
+- update cache
+
 ## [74] - 2020-08-27
 ### Fixed
 - [game links](hdos/issues#65)
