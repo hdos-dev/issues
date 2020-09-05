@@ -5,6 +5,31 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [76] - 2020-09-5
+### Fixed
+- [equipment options](hdos/issues#66)
+### Changed
+- **MANY** graphical improvements.
+This milestone marks the restoration at **95%** complete.
+This does *not* include 'backports' (GE,GWD,Corp), though
+they are restored to some random extents, they were not the focus
+of this update. (They will all be added very soon!)
+
+| type | total | percent |
+|------|--------|---------|
+| OBJECTS | 24,589 | 96.02% |
+| NPCS  | 5,782 | 95.80% |
+| ANIMATIONS | 6,503 | 93.75% |
+| ITEMS  | 11,751 | 100% |
+| KITS  | 152 | 100% |
+| GRAPHICS  | 1,120 | 94.22% |
+
+_Floors will be completed on in the next update._
+
+If you guys want even more HD, dont forget about the `:unsafe` command.
+
+
+
 ## [75] - 2020-09-2
 ### Fixed
 - update cache
