@@ -5,6 +5,27 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [77] - 2020-09-7
+### Fixed
+- home teleport animation
+### Changed
+- upgrade teleport animation
+- Floors are now **100%** restored!
+
+*Current Progress*:
+
+| type | total | percent |
+|------|--------|---------|
+| OBJECTS | 24,589 | 96.02% |
+| NPCS | 5,782 | 95.80% |
+| ANIMATIONS | 6,503 | 93.75% |
+| ITEMS | 11,751 | 100% |
+| KITS | 152 | 100% |
+| GRAPHICS | 1,120 | 94.22% |
+| UNDERLAY | 97 | 100% |
+| OVERLAY | 173 | 100% |
+
+
 ## [76] - 2020-09-5
 ### Fixed
 - [equipment options](hdos/issues#66)
