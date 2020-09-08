@@ -5,12 +5,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [78] - 2020-09-8
+### Fixed
+- ectophial teleport crash
+
 ## [77] - 2020-09-7
 ### Fixed
 - home teleport animation
 ### Changed
 - upgrade teleport animation
-- Floors are now **100%** restored!!
+- Floors are now **100%** restored!
 
 *Current Progress*:
 
