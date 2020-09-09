@@ -5,7 +5,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Changed
-- GE is now HD
+- **GE is now HD**
+- Restore original water color
 
 ## [78] - 2020-09-8
 ### Fixed
