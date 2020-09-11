@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Changed
+- **God Wars (and associated items) is now fully\* restored**
+- Crossbow movements are now HD
+- Punching is now HD
+- (*) Bloodveld, Pyrefiend, Icefiend were downgraded to fix glitches.
+  They will be restored later on.
+
 
 ## [79] - 2020-09-10
 ### Changed
