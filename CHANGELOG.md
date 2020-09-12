@@ -5,6 +5,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [81] - 2020-09-12
+### Changed
+- **Corp is now HD**
+### Fixed
+- Lumbridge has landscaped its roof (no more random grass spawns)
+
 ## [80] - 2020-09-11
 ### Changed
 - **God Wars (and associated items) are now fully\* restored**
