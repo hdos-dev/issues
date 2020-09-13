@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Fixed
+- Lumbridge has landscaped its floors (no more random grass spawns)
+- Saradomin Sword has been upgraded
+- Saradomin GodSword has been upgraded
+- Missing tiles inside Corp have been fixed
+### Changed
+- **Dragon Claws are now HD**
+
 
 ## [81] - 2020-09-12
 ### Changed
