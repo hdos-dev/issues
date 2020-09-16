@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Added
+- HDR (High Detail Rendering)
+- Bloom (Makes things glow)
+* _HDR and Bloom can be toggled using the `:hdr` command (it will be persisted)_
 ### Fixed
 - Minimap scene icons have been restored
 - Corp pet scaling issue
@@ -11,10 +15,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - improve GL model rendering performance
 - improve mipmap generation
 - removed rain temporarily from corp lair
-### Added
-- HDR
-- Bloom
-* _HDR and Bloom can be enabled using the `:hdr` command_
 
 ## [82] - 2020-09-13
 ### Fixed
