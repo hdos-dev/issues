@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Fixed
 - _white water_ when High Water Detail is enabled.
+- various floors have been fixed (Overlay/Underlay)
+- the landscapers have come again, various unwanted grass objects have been removed
+
+### Changed
+- overgrown cats have been replaced with normal cats for the time being.
 
 ## [84] - 2020-09-16
 ### Changed
