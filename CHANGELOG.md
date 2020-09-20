@@ -4,10 +4,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+## [85] - 2020-09-20
+### Added
+- World hopping
+
 ### Fixed
 - _white water_ when High Water Detail is enabled.
+- players now have most of their limbs in the correct places!
 - various floors have been fixed (Overlay/Underlay)
 - the landscapers have come again, various unwanted grass objects have been removed
+- fixed the door leading to West Ardy(hdos/issues#75)
 
 ### Changed
 - overgrown cats have been replaced with normal cats for the time being.
@@ -15,8 +22,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [84] - 2020-09-16
 ### Changed
 - update cache
-- fixed the door leading to West Ardy(hdos/issues#75)
-
 
 ## [83] - 2020-09-16
 ### Added
