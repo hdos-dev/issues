@@ -5,8 +5,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [87] - 2020-09-21
 ### Added
 - hd interfaces
+
+### Fixed
+- z-ordering problems on interfaces
 
 ## [86] - 2020-09-20
 ### Fixed
