@@ -4,10 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+## [89] - 2020-09-24
+### Added
+- **Linux support**
 ### Changed
 - update cache
 ### Fixed
-- SD mode
+- SD mode (_WIP, zoom next update_)
 
 ## [88] - 2020-09-22
 ### Added
