@@ -3,7 +3,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
-## [Unreleased]
+## [91] - 2020-09-28
+### Fixed
+- clicked tile when in HD mode
+- crashing when switching between fullscreen
 
 ## [90] - 2020-09-26
 ### Added
