@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - clicked tile when in HD mode
 - crashing when switching between fullscreen
+- `:afk` command now works correctly
 
 ## [90] - 2020-09-26
 ### Added
