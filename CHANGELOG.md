@@ -4,12 +4,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ##[Unreleased]
+
+## [92] - 2020-09-29
 ### Added
 - **Mac support**
 ### Changed
 - update jogl to 2.4.0-rc-20200429
 - swap out standard water color to the lighter one.
 - disable castle wars high-water-detail for now.
+- improve default environment/atmosphere (ex: bright caves, wintertod)
 
 ## [91] - 2020-09-28
 ### Fixed
