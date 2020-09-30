@@ -4,12 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ##[Unreleased]
-### Fixed
-- dark lighting in varrock 
 
-## [93] - 2020-09-16
+
+## [93] - 2020-09-30
 ### Changed
 - update cache
+### Fixed
+- dark lighting in varrock 
 
 ## [92] - 2020-09-29
 ### Added
