@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+## [95] - 2020-10-05
 ## Fixed
 - crashing on world hop
 - crashing in LMS
