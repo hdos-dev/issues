@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [96] - 2020-10-07
+### Changed
+- update cache
+
 ## [95] - 2020-10-05
 ## Fixed
 - crashing on world hop
