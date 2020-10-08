@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Added
+- preparations for new launcher
 
 ## [96] - 2020-10-07
 ### Changed
@@ -17,7 +19,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [94] - 2020-10-03
 ### Changed
 - refine compilation output
-## Fixed
+### Fixed
 - fixed floating npcs in the login screen (fixes hdos/issues#13)
 - custom login responses
 
