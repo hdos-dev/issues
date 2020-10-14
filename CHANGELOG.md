@@ -5,6 +5,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [98] - 2020-10-14
+### Changed
+- update cache
+### Added
+-further preparations for new launcher 
+
 ## [97] - 2020-10-08
 ### Added
 - preparations for new launcher
