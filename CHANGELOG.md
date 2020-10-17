@@ -5,6 +5,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [99] - 2020-10-14
+### Added
+- **New Launcher!**  
+Please see the [issues release](https://gitlab.com/hdos/issues/-/releases/) for more information.
+
 ## [98] - 2020-10-14
 ### Changed
 - update cache
