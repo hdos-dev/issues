@@ -4,8 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Changed
+- update launcher to v1.0.4
+- the client will now open in the center of the screen instead of the top-left
 ### Fixed
-- memory leak whenever windows users try to stream with discord.
+- memory leak whenever windows users try to stream with discord. (fixes hdos/issues#87)
 
 ## [99] - 2020-10-14
 ### Added
