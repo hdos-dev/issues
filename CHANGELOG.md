@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Fixed
+- JVM crash on close
+- Closing is now faster and more responsive
+- Discord presence should clear sooner on close
 
 ## [100] - 2020-10-22
 ### Added
