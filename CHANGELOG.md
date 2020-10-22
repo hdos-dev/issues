@@ -5,6 +5,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Changed
+- update protocol to 192
 - update launcher to v1.0.4
 - the client will now open in the center of the screen instead of the top-left
 ### Fixed
