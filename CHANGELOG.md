@@ -4,9 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+## [100] - 2020-10-22
 ### Changed
 - update protocol to 192
 - update launcher to v1.0.4
+- update cache
 - the client will now open in the center of the screen instead of the top-left
 ### Fixed
 - memory leak whenever windows users try to stream with discord. (fixes hdos/issues#87)
