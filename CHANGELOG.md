@@ -8,6 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - JVM crash on close
 - Closing is now faster and more responsive
 - Discord presence should clear sooner on close
+- networking bug when opening specific web pages
 
 ## [100] - 2020-10-22
 ### Added
