@@ -4,11 +4,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Added
+- Dark/Light Theme setting
+### Changed
+- Use Dark Theme by default in the UI
 ### Fixed
 - JVM crash on close
 - Closing is now faster and more responsive
 - Discord presence should clear sooner on close
-- networking bug when opening specific web pages
+- Networking bug when opening specific web pages
+- LAF not loading when ran in direct mode from the launcher (native-launcher)
 
 ## [100] - 2020-10-22
 ### Added
