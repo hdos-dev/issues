@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Added
 - Dark/Light Theme setting
+- Ability to change windows modes from the toolbar
+- Options [Bloom(hdr), No Logout, Zoom Limit, Draw FPS, Toggle HUD, Render Self, Custom Fog]
 ### Changed
 - Use Dark Theme by default in the UI
 ### Fixed
