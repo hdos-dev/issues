@@ -12,6 +12,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - Tab key
 - Crash screen
+- Shanty pass tent 
+- Fremennik Slayer Dungeon 
 
 ## [101] - 2020-10-24
 ### Added
