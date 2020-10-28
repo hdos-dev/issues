@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Added
 - Force HDR option
+- Unsafe operations option
 - UI Tooltips
 ### Changed
 - Force tweening will no longer apply to HD animations
@@ -13,7 +14,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Tab key
 - Crash screen
 - Shanty pass tent 
-- Fremennik Slayer Dungeon 
+- Fremennik Slayer Dungeon
+- Misc see-through floor (mainly around Zeah)
 
 ## [101] - 2020-10-24
 ### Added
