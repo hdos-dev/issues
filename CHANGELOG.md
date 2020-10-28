@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [104] - 2020-10-28
+### Fixed
+- fix script crashing due to instruction limits.
+
 ## [103] - 2020-10-28
 ### Changed
 - update cache
