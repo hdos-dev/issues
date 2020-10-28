@@ -7,6 +7,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Added
 - Force HDR option
 - UI Tooltips
+### Changed
+- Force tweening will no longer apply to HD animations
+### Fixed
+- Tab key
+- Crash screen
 
 ## [101] - 2020-10-24
 ### Added
