@@ -4,12 +4,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Added
+- GL debug data to FPS debug.
+### Changed
+- Collapse About menu
+- Performance improvements for dense areas
+### Fixed
+- Duplicate KeyBinds
+
 
 ## [105] - 2020-10-28
 ### Added
 - added acknowledgement section (credits) 
 ### Changed
--removed various unneeded logs
+- removed various unneeded logs
 
 
 ## [104] - 2020-10-28
