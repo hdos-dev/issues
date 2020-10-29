@@ -5,12 +5,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Added
-- GL debug data to FPS debug.
+- Add GL debug data to FPS debug
 ### Changed
 - Collapse About menu
 - Performance improvements for dense areas
 ### Fixed
-- Duplicate KeyBinds
+- Remove duplicate Keybindings
 
 
 ## [105] - 2020-10-28
