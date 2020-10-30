@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [108] - 2020-10-30
+### Fixed
+- Fix Zulrah atmosphere
+
 ## [107] - 2020-10-30
 ### Fixed
 - Correct Theater Of Blood and Darkmeyer environments
