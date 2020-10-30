@@ -4,8 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+## [107] - 2020-10-30
 ### Fixed
 - Correct Theater Of Blood and Darkmeyer environments
+- Fixed stack-able items (Fletching items [arrows/bolts] appearing as pink skirts)(fixes hdos/issues#95)
 
 ## [106] - 2020-10-29
 ### Added
