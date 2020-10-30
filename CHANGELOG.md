@@ -10,8 +10,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Collapse About menu
 - Performance improvements for dense areas
 ### Fixed
-- Remove duplicate Keybindings
-
+- Remove duplicate keybindings
+- Fix random crashing when teleporting from POH to GE (_finally_!)
+- Fix Tutorial Island crashing (fixes hdos/issues#89)
 
 ## [105] - 2020-10-28
 ### Added
