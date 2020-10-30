@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+## [106] - 2020-10-29
 ### Added
 - Add GL debug data to FPS debug
 ### Changed
@@ -13,6 +15,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Remove duplicate keybindings
 - Fix random crashing when teleporting from POH to GE (_finally_!)
 - Fix Tutorial Island crashing (fixes hdos/issues#89)
+- Fixed fairy ring interface showing pants as (r) (fixes hdos/issues#90)
+- Fixed various overlays (fixes hdos/issues#91)
+
 
 ## [105] - 2020-10-28
 ### Added
