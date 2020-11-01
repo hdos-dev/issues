@@ -4,12 +4,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+## [109] - 2020-10-31
 ### Fixed
 - Corrected the water inside of DKS and other various places
 - Disable HDR in Fixed-HD window mode (temporary solution) (fixes hdos/issues#94)
 - HP bar
 ### Changed
-- Temporarily removed the waterfall in the Enchanted Valley 
+- Temporarily removed the waterfall in the Enchanted Valley  
+- Rename `Force Tween` to `Tween` in the menu UI
 
 ## [108] - 2020-10-30
 ### Fixed
