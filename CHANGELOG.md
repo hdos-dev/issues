@@ -8,7 +8,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Purged pink skirt issues. All pink skirts should now be resolved.(fixes hdos/issues#99)
 - Fixed trap door in HAM hideout, quest is now completable. (fixes hdos/issues#103)
 - Fixed world list, now displaying the correct flag (fixes hdos/issues#100)
-- Fixed invisible door issue leading into East Ardy(fixes hdos/issues#75)
+- Fixed invisible door issue leading into East Ardy (fixes hdos/issues#75)
+- Interface button (fixes hdos/issues#110 hdos/issues#64 hdos/issues#11)
 
 ## [109] - 2020-10-31
 ### Fixed
