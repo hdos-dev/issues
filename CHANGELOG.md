@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Added
+- Add Hide Username setting
+- Add Save Username setting
+- The following settings will now save between restarts
+  - Hide Username
+  - Force HDR
+  - Tween
 ### Fixed
 - Purged pink skirt issues. All pink skirts should now be resolved.(fixes hdos/issues#99)
 - Fixed trap door in HAM hideout, quest is now completable. (fixes hdos/issues#103)
