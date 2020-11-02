@@ -11,6 +11,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Fixed invisible door issue leading into East Ardy (fixes hdos/issues#75)
 - Fixed broken interface buttons (fixes hdos/issues#110 hdos/issues#64 hdos/issues#11)
 - Fixed Environment in Ferox Enclave (fixes hdos/issues#115)
+- Fixed Alpha issue with OS Models (fixes hdos/issues#84)
+- Fixed Lumbridge basement tunnels(fixes hdos/issues#117)
+- Clue Scrolls have been updated to use the new sprites over the old(fixes hdos/issues#102)
+- Fixed appearance of COX door. (Click box WIP)
+- Fixed Vorkath's nest flickering issue. (fixes hdos/issues#96)
+
 
 ## [109] - 2020-10-31
 ### Fixed
