@@ -4,6 +4,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+## [110] - 2020-11-2
+
 ### Added
 - Add Hide Username setting
 - Add Save Username setting
@@ -12,15 +15,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - Force HDR
   - Tween
 ### Fixed
-- Purged pink skirt issues. All pink skirts should now be resolved.(fixes hdos/issues#99)
+- Purged pink skirt issues. All pink skirts should now be resolved. (fixes hdos/issues#99)
 - Fixed trap door in HAM hideout, quest is now completable. (fixes hdos/issues#103)
 - Fixed world list, now displaying the correct flag (fixes hdos/issues#100)
 - Fixed invisible door issue leading into East Ardy (fixes hdos/issues#75)
 - Fixed broken interface buttons (fixes hdos/issues#110 hdos/issues#64 hdos/issues#11)
 - Fixed Environment in Ferox Enclave (fixes hdos/issues#115)
 - Fixed Alpha issue with OS Models (fixes hdos/issues#84)
-- Fixed Lumbridge basement tunnels(fixes hdos/issues#117)
-- Clue Scrolls have been updated to use the new sprites over the old(fixes hdos/issues#102)
+- Fixed Lumbridge basement tunnels (fixes hdos/issues#117)
+- Clue Scrolls have been updated to use the new sprites over the old (fixes hdos/issues#102)
 - Fixed appearance of COX door. (Click box WIP)
 - Fixed Vorkath's nest flickering issue. (fixes hdos/issues#96)
 
