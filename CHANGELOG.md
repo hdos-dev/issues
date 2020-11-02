@@ -10,6 +10,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Fixed world list, now displaying the correct flag (fixes hdos/issues#100)
 - Fixed invisible door issue leading into East Ardy (fixes hdos/issues#75)
 - Fixed broken interface buttons (fixes hdos/issues#110 hdos/issues#64 hdos/issues#11)
+- Fixed Environment in Ferox Enclave (fixes hdos/issues#115)
 
 ## [109] - 2020-10-31
 ### Fixed
