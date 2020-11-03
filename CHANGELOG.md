@@ -4,9 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Added
+- Hint arrows (fixes hdos/issues#122)
+### Fixed
+- Remove duplicate keybind: `Control T`
 
 ## [110] - 2020-11-2
-
 ### Added
 - Add Hide Username setting
 - Add Save Username setting
