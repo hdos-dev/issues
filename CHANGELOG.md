@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 ## [112] - 2020-11-3
+### Fixed
 - **Fixed Make-X**  
 
 This bug was the most allusive so far!  
