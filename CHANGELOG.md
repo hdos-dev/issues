@@ -5,8 +5,20 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [113] - 2020-11-4
+### Added
+- Added `Lock fullscreen` setting (fixes hdos/issues#114)
+### Changed
+- The client can now exit fullscreen by pressing CTRL+F 
+### Removed
+- Removed `Light Theme` setting keybind
+- Removed `Show MenuBar` setting keybind
 ### Fixed
 - The Stealing creation guys wanted their nets back... (fixes hdos/issues#126)
+- Fix private message name spacing (fixes hdos/issues#9)
+- Fix league clan chat (fixes hdos/issues#124)
+- MenuBar clicking is now more responsive, and should not ignore clicks (fixes hdos/issues#125)
+- KeyBinds now work when in fullscreen
 
 ## [112] - 2020-11-3
 ### Fixed
@@ -32,7 +44,6 @@ We would like to thank our testers who helped directly:
 - Remove duplicate keybind: `Control T`
 
 ## [110] - 2020-11-2
-
 ### Added
 - Add Hide Username setting
 - Add Save Username setting
