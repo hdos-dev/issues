@@ -13,7 +13,7 @@ It's only thanks our community of testers that it was fix.
 This brings us great joy to see and experience.  
 We would like to thank our testers who helped directly:  
 
-| **Handle** |
+| **TESTER** |
 |----------|
 |Birthday Cat|
 |Surg1n|
