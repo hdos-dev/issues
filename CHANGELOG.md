@@ -5,6 +5,22 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [112] - 2020-11-3
+- **Fixed Make-X**  
+
+This bug was the most allusive so far!  
+It's only thanks our community of testers that it was fix.  
+This brings us alot of joy to see and experience.  
+We would like to thank our testers who helped directly:  
+
+| **Handle** |
+|----------|
+|Birthday Cat|
+|Surg1n|
+|Ling|
+|Gloc|
+
+
 ## [111] - 2020-11-2
 ### Added
 - Hint arrows (fixes hdos/issues#122)
@@ -12,6 +28,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Remove duplicate keybind: `Control T`
 
 ## [110] - 2020-11-2
+
 ### Added
 - Add Hide Username setting
 - Add Save Username setting
