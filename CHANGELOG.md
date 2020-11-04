@@ -7,7 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [112] - 2020-11-3
 ### Fixed
-- **Fixed Make-X**  (fixes hdos/isses#127)
+- **Fixed Make-X**  (fixes hdos/issues#127)
 
 This bug was the most allusive so far!  
 It's only thanks our community of testers that it was fix.  
