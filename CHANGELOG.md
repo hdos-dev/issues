@@ -10,7 +10,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 This bug was the most allusive so far!  
 It's only thanks our community of testers that it was fix.  
-This brings us alot of joy to see and experience.  
+This brings us great joy to see and experience.  
 We would like to thank our testers who helped directly:  
 
 | **Handle** |
