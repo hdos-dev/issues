@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [116] - 2020-11-5
+### Changed
+- update cache
+
 ## [115] - 2020-11-5
 ### Changed
 - Exiting the client will now prompt to confirm (fixes hdos/issues#135)
