@@ -5,6 +5,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [115] - 2020-11-5
+### Changed
+- Exiting the client will now prompt to confirm (fixes hdos/issues#135)
+### Fixed
+- Fullscreen now works with displays > 1080p
+
 ## [114] - 2020-11-5
 ### Changed
 - Improve scene rendering performance (+15% FPS boost)
