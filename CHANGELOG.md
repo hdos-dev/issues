@@ -4,8 +4,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-
-## [116] - 2020-11-5
+### Added
+- Add `Draw Debug` option for verbose debug information
 ### Fixed
 | Taverly Dungeon |
 |----------|
@@ -14,7 +14,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 - fixed Prifddinas portals
 - wilderness building is now looking accurate
-
 ### Changed
 - disabled full screen world map (temp fix hdos/issues#130)
 
