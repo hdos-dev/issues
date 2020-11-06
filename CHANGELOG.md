@@ -6,6 +6,20 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 ## [116] - 2020-11-5
+### Fixed
+| Taverly Dungeon |
+|----------|
+|fixed the gate leading to the Cauldron of Thunder|
+|fixed the tiles inside of the black dragon area|
+
+- fixed Prifddinas portals
+- wilderness building is now looking accurate
+
+### Changed
+- disabled full screen world map (temp fix hdos/issues#130)
+
+
+## [116] - 2020-11-5
 ### Changed
 - update cache
 
