@@ -7,12 +7,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Added
 - Add `Draw Debug` option for verbose debug information
 ### Fixed
-| Taverly Dungeon |
-|----------|
-|fixed the gate leading to the Cauldron of Thunder|
-|fixed the tiles inside of the black dragon area|
-|fixed the agility shortcut pipe|
-
+##### Taverly Dungeon
+    - fixed the gate leading to the Cauldron of Thunder
+    - fixed the tiles inside of the black dragon area
+    - fixed the agility shortcut pipe
 - fixed Prifddinas portals
 - wilderness building is now looking accurate
 - fixed all godwars doors, they are now enterable
@@ -21,6 +19,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ### Changed
 - disabled full screen world map (temp fix hdos/issues#130)
+- Bloom will now work in dark areas just as well as light
 
 
 ## [116] - 2020-11-5
