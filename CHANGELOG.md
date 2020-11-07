@@ -4,8 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+## [117] - 2020-11-7
 ### Added
-- Add `Draw Debug` option for verbose debug information
+- add `Draw Debug` option for verbose debug information
+### Changed
+- bloom will now work in dark areas just as well as light
 ### Fixed
 ##### Taverly Dungeon
     - fixed the gate leading to the Cauldron of Thunder
@@ -16,10 +20,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - fixed all godwars doors, they are now enterable
 - necklaces may now be seen through OS bodies 
 - fixed Wintertodt and corrected Vorkath
-
-### Changed
-- disabled full screen world map (temp fix hdos/issues#130)
-- Bloom will now work in dark areas just as well as light
+- fix full screen world map stall (fix hdos/issues#130)
 
 
 ## [116] - 2020-11-5
