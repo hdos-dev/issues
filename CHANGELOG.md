@@ -4,12 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Fixed
+- Fix layered animations (fixes hdos/issues#158)
 
 ## [118] - 2020-11-9
 ### Fixed
-- fixed spell-on-object interactions (fixes hdos/issues#191)
+- Fixed spell-on-object interactions (fixes hdos/issues#191)
 - you may now leave the Spirit Grotto after entering (fix hdos/issues#157)
-- fixed zulrah gnome glitching out (fix hdos/issues#161)
+- Fixed zulrah gnome glitching out (fix hdos/issues#161)
 - Charge spell now has the correct graphic (fix hdos/issues#164)
 - You may now see players underneath yourself when not self rendering (fix hdos/issues#207)
 - fixed an issue with the wall kits inside the dwarven mines (fix hdos/issues#206)
