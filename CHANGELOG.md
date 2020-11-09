@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Changed
+- Remove keybinds from the Help menu (fixes hdos/issues#227)
 ### Fixed
 - Fix layered animations (fixes hdos/issues#158)
 
