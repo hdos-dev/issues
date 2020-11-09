@@ -6,6 +6,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Fixed
 - fixed spell-on-object interactions (fixes hdos/issues#191)
+- you may now leave the Spirit Grotto after entering (fix hdos/issues#157)
+- fixed zulrah gnome glitching out (fix hdos/issues#161)
+- Charge spell now has the correct graphic (fix hdos/issues#164)
+- You may now see players underneath yourself when not self rendering (fix hdos/issues#207)
+- fixed an issue with the wall kits inside the dwarven mines (fix hdos/issues#206)
+- Arrows now display correctly on the ground (fix hdos/issues#211)
+- Fixed an issue with rotated pillars at g.e. (fix hdos/issues#215)
+- Olaf Hradson's fire is now animating as it should (fix hdos/issues#196)
+- Cats in POH pet house are now upgraded (fix hdos/issues#205)
+- Fixed various overlays (fix hdos/issues#169)
 
 ## [117] - 2020-11-7
 ### Added
