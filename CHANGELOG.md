@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+## [118] - 2020-11-9
 ### Fixed
 - fixed spell-on-object interactions (fixes hdos/issues#191)
 - you may now leave the Spirit Grotto after entering (fix hdos/issues#157)
