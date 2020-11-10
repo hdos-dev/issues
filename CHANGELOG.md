@@ -4,10 +4,22 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+## [119] - 2020-11-10
 ### Changed
 - Remove keybinds from the Help menu (fixes hdos/issues#227)
 ### Fixed
 - Fix layered animations (fixes hdos/issues#158)
+- The viewport is now fully visible in the smoke dungeon (fixes hdos/issues#223)
+- Messages will now stay cleared, when hopping or relogging (fixes hdos/issues#133)
+- Jungle potion cave can now be exited (fixes hdos/issues#229)
+- Fally has been once again set right ((fixes hdos/issues#229) )
+##### Last Man Standing
+- items are now HD (fixes hdos/issues#175)
+- A crash has been resolved
+- fog now rendering correctly in SD mode
+- fog is now working in HD mode (fixes hdos/issues#174)
+
 
 ## [118] - 2020-11-9
 ### Fixed
