@@ -8,7 +8,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Fixed
 - Fixed a straggler cat
+- Fixed the stairs leading to the viewing platform at Castle Wars
 - World map surface now preforming much better (fixes hdos/issues#3)
+- It must be May, roses have reappeared at Edge Monastery (fixes hdos/issues#264) 
+- Fixed fire near Eagle' Peak Mountain (fixes hdos/issues#265) 
+- Canafis floors are no longer moving (fixes hdos/issues#263)
+- Fixed the missing shortcut on the north side of Yanille (fixes hdos/issues#262)
 
 
 - ***FIXED PLAYER TELEPORT ON REGION LOAD***  (fixes hdos/issues#37) 
