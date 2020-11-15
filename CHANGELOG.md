@@ -3,9 +3,9 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
-
-
 ## [Unreleased]
+
+## [121] - 2020-11-14
 ### Fixed
 - Fixed a straggler cat
 - Fixed the stairs leading to the viewing platform at Castle Wars
