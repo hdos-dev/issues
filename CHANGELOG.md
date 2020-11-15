@@ -16,12 +16,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Fixed the missing shortcut on the north side of Yanille (fixes hdos/issues#262)
 
 
+- ***AA BLOOM*** (fixes hdos/issues#107) 
+    > Anti-Aliasing now work in post processess (BLOOM)
+
 - ***FIXED PLAYER TELEPORT ON REGION LOAD***  (fixes hdos/issues#37) 
     > This issue was another allusive one!  
       Thanks to **GottaSlay** for helping us reproduce the issue consistently!
 
 - ***AUDIO HAS BEEN FIXED!*** (fixes hdos/issues#106 hdos/issues#172) 
-    >the audio engine has been reworked, and no longer persists crackling!
+    > The audio engine has been reworked, and no longer persists crackling!
 
 ## [120] - 2020-11-11
 ### Changed
