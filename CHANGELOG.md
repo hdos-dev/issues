@@ -17,7 +17,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 - ***AA BLOOM*** (fixes hdos/issues#107) 
-    > Anti-Aliasing now work in post processess (BLOOM)
+    > Multisampling now work in post processing (BLOOM)
 
 - ***FIXED PLAYER TELEPORT ON REGION LOAD***  (fixes hdos/issues#37) 
     > This issue was another allusive one!  
