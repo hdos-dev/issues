@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Fixed
+- Eadgar's Ruse: Kitchen drawers have been restored (fixes hdos/issues#280)
+- You will no longer get stuck when leaving troll stronghold (fixes hdos/issues#278)
+- Fixed the intended visuals of gauntlet floors. Disco room improved. (fixes hdos/issues#270)
+- Skybox color has been upgraded, when going deep into the jungle (fixes hdos/issues#259)
+- Fixed Father Urhney's roof (fixes hdos/issues#254)
+- The pharaohs have called apon the gods (me and brain) to fix their doors (fixes hdos/issues#256)
+- Fixed the icon of rock-climbing boots (fixes hdos/issues#247)
+
 
 ## [121] - 2020-11-14
 ### Fixed
