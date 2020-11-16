@@ -12,6 +12,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Fixed Father Urhney's roof (fixes hdos/issues#254)
 - The pharaohs have called apon the gods (me and brain) to fix their doors (fixes hdos/issues#256)
 - Fixed the icon of rock-climbing boots (fixes hdos/issues#247)
+- Fixed animation sound effect audio (fixes hdos/issues#274)
 
 
 ## [121] - 2020-11-14
