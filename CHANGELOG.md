@@ -4,7 +4,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-
+### Changed
+- Set the minimum size of the client to fixed-size (765 x 503)
 
 ## [122] - 2020-11-16
 ### Fixed
@@ -19,7 +20,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Fixed a crash caused by models translations within interfaces (fixes hdos/issues#284)
 - Fixed animation sound effect audio (fixes hdos/issues#274)
 - Many NPC's have regrown their limbs (fixes hdos/issues#257 hdos/issues#151 hdos/issues#286 hdos/issues#214 hdos/issues#212)
-- Even more body parts have been acquired (fixes hdos/issues#150 hdos/issues#152 )
+- Even more body parts have been acquired (fixes hdos/issues#150 hdos/issues#152)
 
 ## [121] - 2020-11-14
 ### Fixed
