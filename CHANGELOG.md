@@ -4,6 +4,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [122] - 2020-11-16
 ### Fixed
 - Eadgar's Ruse: Kitchen drawers have been restored (fixes hdos/issues#280)
 - You will no longer get stuck when leaving troll stronghold (fixes hdos/issues#278)
@@ -12,8 +15,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Fixed Father Urhney's roof (fixes hdos/issues#254)
 - The pharaohs have called apon the gods (me and brain) to fix their doors (fixes hdos/issues#256)
 - Fixed the icon of rock-climbing boots (fixes hdos/issues#247)
+- Abyss entrances are no longer gates... (fixes hdos/issues#248)
+- Fixed a crash caused by models translations within interfaces (fixes hdos/issues#284)
 - Fixed animation sound effect audio (fixes hdos/issues#274)
-
+- Many NPC's have regrown their limbs (fixes hdos/issues#257 hdos/issues#151 hdos/issues#286 hdos/issues#214 hdos/issues#212)
+- Even more body parts have been acquired (fixes hdos/issues#150 hdos/issues#152 )
 
 ## [121] - 2020-11-14
 ### Fixed
