@@ -6,6 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Changed
 - Set the minimum size of the client to fixed-size (765 x 503)
+- The tile where the menu was opened, is where it will be clicked. This is to match standard client behavior. (fixes hdos/issues#289)
+- General interactions will no longer verify the target is reachable. This is to match standard client behavior.
+
 
 ## [122] - 2020-11-16
 ### Fixed
