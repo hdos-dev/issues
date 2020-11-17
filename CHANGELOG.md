@@ -9,7 +9,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - The `Walk here` action will now use the tile where the menu was opened. This is to match standard client behavior. (fixes hdos/issues#289)
 - General interactions will no longer verify the target is reachable. This is to match standard client behavior.
 ### Fixed
-- The `:aa` command now clamps to your GPUs maximum supported sampling (fixes hdos/issues#290)
+- The `:aa` command will now clamp to your GPUs maximum supported sampling (fixes hdos/issues#290)
+- Fix linux freezing when entering HD mode on boot. (fixes hdos/issues#137)
+- Fix linux 2fa prompt not displaying. (fixes hdos/issues#140)
 
 ## [122] - 2020-11-16
 ### Fixed
