@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+## [123] - 2020-11-16
 ### Changed
 - Set the minimum size of the client to fixed-size (765 x 503)
 - The `Walk here` action will now use the tile where the menu was opened. This is to match standard client behavior. (fixes hdos/issues#289)
@@ -12,6 +14,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - The `:aa` command will now clamp to your GPUs maximum supported sampling (fixes hdos/issues#290)
 - Fix linux freezing when entering HD mode on boot. (fixes hdos/issues#137)
 - Fix linux 2fa prompt not displaying. (fixes hdos/issues#140)
+- HP bar is now 100% accurate (fixes hdos/issues#287 hdos/issues#144)
 
 ## [122] - 2020-11-16
 ### Fixed
