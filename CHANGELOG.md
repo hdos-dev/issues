@@ -5,6 +5,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [124] - 2020-11-18
+### Changed
+- Updated cache
+- The `:aa` command will now be saved between restarts
+
 ## [123] - 2020-11-16
 ### Changed
 - Set the minimum size of the client to fixed-size (765 x 503)
