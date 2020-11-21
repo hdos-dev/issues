@@ -4,6 +4,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [125] - 2020-11-20
 ### Fixed
 - Crossbow animations are now HD
 - The MenuBar should render in the correct spot on MacOS? (hdos/issues#307)
@@ -11,7 +14,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Fix Tab key in Fullscreen (fixes hdos/issues#302)
 - The camel's roller blades have been removed (fixes hdos/issues#317)
 - Fixed straggler hand issue (fixes hdos/issues#286)
-
 
 ## [124] - 2020-11-18
 ### Changed
