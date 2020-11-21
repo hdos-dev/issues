@@ -6,6 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Fixed
 - Crossbow animations are now HD
+- The MenuBar should render in the correct spot on MacOS? (hdos/issues#307)
+- Keyboard shortcuts on macOS will now use the Command key. (fixes hdos/issues#308)
+- Fix Tab key in Fullscreen (fixes hdos/issues#302)
 
 ## [124] - 2020-11-18
 ### Changed
