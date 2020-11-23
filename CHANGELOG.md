@@ -5,6 +5,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+
+## [127] - 2020-11-23
+### Fixed
+- Players have visited the chiropractor again!  
+  They now have their heads in feet in the correct spots!
+### Added
+- Artist: The players gender can be toggled with the `:gender` command (how progressive!)
+- Artist: HD models can now be hot-swapped
+- Artist: HD models can now use OS textures
+
 ## [126] - 2020-11-22
 ### Added
 - Art mode
