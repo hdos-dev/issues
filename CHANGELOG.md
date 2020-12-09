@@ -6,6 +6,27 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [130] - 2020-12-8
+### Changed
+#### **CASTLE WARS HAS BEEN RESTORED!**
+
+        This is marks our first area restore, as we begin to finish off the restoration!  
+        We were designing and refining our tooling, along with engine work, as we did castle wars,  
+        so this update took some time to do! Future updates should not take nearly as long.  
+        Thank you for your patients!
+
+We collected some spoiler images.  
+We will replace this with a offical gallery soon!  
+- OS: https://imgur.com/Th4SN2k
+- v129 (before): https://imgur.com/KaNZMGZ
+- v130 (after): https://imgur.com/cv9BQzV
+- 2008 (goal): https://imgur.com/F9pVyQS
+
+### Added
+- Free Cam (Orb Of Oculus)
+### Changed
+- `Unsafe Mode` should now permit more things to HD.
+
 ## [129] - 2020-12-2
 ### Changed
 - Updated cache
