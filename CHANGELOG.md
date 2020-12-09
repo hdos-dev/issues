@@ -13,7 +13,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
         This is marks our first area restore, as we begin to finish off the restoration!  
         We were designing and refining our tooling, along with engine work, as we did castle wars,  
         so this update took some time to do! Future updates should not take nearly as long.  
-        Thank you for your patients!
+        Thank you for your patience!
 
 We collected some spoiler images.  
 We will replace this with a offical gallery soon!  
