@@ -17,10 +17,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 We collected some spoiler images.  
 We will replace this with a offical gallery soon!  
-- OS: https://imgur.com/Th4SN2k
-- v129 (before): https://imgur.com/KaNZMGZ
-- v130 (after): https://imgur.com/cv9BQzV
-- 2008 (goal): https://imgur.com/F9pVyQS
+- [OS](https://imgur.com/Th4SN2k)
+- [v129 (before)](https://imgur.com/KaNZMGZ)
+- [v130 (after)](https://imgur.com/cv9BQzV)
+- [2008 (goal)](https://imgur.com/F9pVyQS)
 
 ### Added
 - Free Cam (Orb Of Oculus)
