@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [132] - 2020-12-10
+### Changed
+- **The Monastery near Edgeville has been restored!** 
+
 ## [131] - 2020-12-9
 ### Changed
 - update protocol to 193
