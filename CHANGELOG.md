@@ -4,8 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+## [131] - 2020-12-9
 ### Changed
 - update protocol to 193
+### Fixed
+- castle wars: fix balcony tile heights (fixes hdos/issues#410)
+- castle wars: delete extra box above spawn rooms (fixes hdos/issues#409)
+- castle wars: moved the skeleton causing teleporting issues in zammy lobby (fixes hdos/issues#412)
 
 ## [130] - 2020-12-8
 ### Changed
