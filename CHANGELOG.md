@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [134] - 2020-12-11
+### Fixed
+- castle wars: fix the stairs?! (fixes hdos/issues#415)
+- castle wars: fix misplaced overlays along the east pathway
+
 ## [133] - 2020-12-10
 ### Changed
 - update the cache
