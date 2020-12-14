@@ -5,6 +5,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+
+## [136] - 2020-12-14
+### Fixed
+- Fix random sound effects in restored areas
+- Edgeville Dungeon: improve `odd looking door`
+- Edgeville: fix missplaced lights in platebody shop
+
 ## [135] - 2020-12-13
 ### Changed
 **The following has been restored**
