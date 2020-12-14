@@ -5,6 +5,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [135] - 2020-12-13
+### Changed
+**The following has been restored**
+- Edgeville (wip)
+- Edgeville Dungeon
+- Falador Party Room (wip)
+- Ice Mountain
+- Black Knight's Fortress
+- Barbarian Village
+
 
 ## [134] - 2020-12-11
 ### Fixed
