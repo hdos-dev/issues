@@ -9,7 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [137] - 2020-12-14
 ### Changed
-- Varrock Sewers
+- Varrock Sewers has been restored
 ### Fixed
 - Edgeville: fix floor near barbarian village
 - You may now add the correct amount of users to your friends list in members worlds (fixes hdos/issues#380)
