@@ -3,11 +3,23 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
+## [137] - 2020-12-14
+### Changed
+- Varrock Sewers
+### Fixed
+- Edgeville: fix floor near barbarian village
+- You may now add the correct amount of users to your friends list in members worlds (fixes hdos/issues#380)
+- Fixed issues in fally party room
+
 ## [Unreleased]
 ### Changed
 - Restored [Animation Pack 1](https://runescape.fandom.com/wiki/Update:Blog_-_Animation_Update:_Pack_1)
+- Varrock Sewers
 ### Fixed
 - Edgeville: fix floor near barbarian village
+- Members items now display as so in free to play worlds (fixes hdos/issues#60)
+- You may now add the correct amount of users to your friends list in members worlds (fixes hdos/issues#380)
+- Fixed issues in fally party room
 
 ## [136] - 2020-12-14
 ### Fixed
