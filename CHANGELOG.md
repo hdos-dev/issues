@@ -7,9 +7,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Changed
 - Restored [Animation Pack 1](https://runescape.fandom.com/wiki/Update:Blog_-_Animation_Update:_Pack_1)
 
+## [138] - 2020-12-14
+### Fixed
+- Hotfix : fixed the red, and green marked squares floating around the map.
+
 ## [137] - 2020-12-14
 ### Changed
-- Varrock Sewers has been restored
+- Varrock Sewers
 ### Fixed
 - Edgeville: fix floor near barbarian village
 - You may now add the correct amount of users to your friends list in members worlds (fixes hdos/issues#380)
