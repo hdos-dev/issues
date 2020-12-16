@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Changed
 - Restored [Animation Pack 1](https://runescape.fandom.com/wiki/Update:Blog_-_Animation_Update:_Pack_1)
+### Fixed
+- Edgeville Dungeon: improve `odd looking door` when it's opened
+- Varrock Sewers: improve cave roofing near Bryophyta 
+- Corp: fix atmosphere, re-enable rain
+- Falador Party Room: re-enable flickering lights
 
 ## [138] - 2020-12-14
 ### Fixed
