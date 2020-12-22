@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Changed
 - Restored [Animation Pack 1](https://runescape.fandom.com/wiki/Update:Blog_-_Animation_Update:_Pack_1)
+- Change Debug KeyBind to `Alt D` (from `Shift D`)
 ### Fixed
 - Lumbridge: Place the correct cannon on top of castle entrance
 
