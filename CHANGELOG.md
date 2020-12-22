@@ -16,6 +16,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Upscaled textures now animate at the correct speeds
 - Lumbridge: fix ham trapdoor (fixes hdos/issues#467)
 - Lumbridge: delete extra wall in swamp (fixes hdos/issues#466)
+- Lumbridge: remove dirt over Deaths Domain (fixes hdos/issues#463)
 
 ## [139] - 2020-12-18
 ### Changed
