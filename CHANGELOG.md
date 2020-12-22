@@ -10,10 +10,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Add options: `Hide Players`, `Hide NPCs`, `Hide Graphics`, `Take Look`
 ### Changed
 - Organized the UI to be less cluttered
-- The `Take Look` option is now disabled by default,  
+- The `Take Look` option has been disabled by default,  
   and can be enabled using the new option.
 - Texture Upscale no longer applies to interfaces
-- Upscaled textures now move at the correct speeds
+- Upscaled textures now animate at the correct speeds
 
 ## [139] - 2020-12-18
 ### Changed
@@ -27,6 +27,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Falador Party Room: re-enable flickering lights
 - Castle Wars: torches in the waiting room are now fixed to the wall (fixes hdos/issues#411)
 - Fixed Minimap in restored areas
+- Lumbridge: fix ham trapdoor (fixes hdos/issues#467)
 
 ## [138] - 2020-12-14
 ### Fixed
