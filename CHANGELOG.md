@@ -14,13 +14,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   and can be enabled using the new option.
 - Texture Upscale no longer applies to interfaces
 - Upscaled textures now animate at the correct speeds
-- Lumbridge: fix ham trapdoor (fixes hdos/issues#467)
-- Lumbridge: delete extra wall in swamp (fixes hdos/issues#466)
-- Lumbridge: remove dirt over Deaths Domain (fixes hdos/issues#463)
-- Fixed random overlay on the grass near lumby church
-- Fixed issue with a tile in lumby basement
-- Restored the path leading to the north farm in lumby, towards draynor
-- Fixed the color of the wall surrounding wheat on the same path
+- Lumbridge: Fix ham trapdoor (fixes hdos/issues#467)
+- Lumbridge: Delete extra wall in swamp (fixes hdos/issues#466)
+- Lumbridge: Remove dirt over Deaths Domain (fixes hdos/issues#463)
+- Lumbridge: Fix church door (fixes hdos/issues#462)
+- Lumbridge: Fixed random overlay on the grass near lumby church
+- Lumbridge: Fixed issue with a tile in basement
+- Lumbridge: Restored the path leading to the north farm, towards draynor
+- Lumbridge: Fixed the color of the wall surrounding wheat on the same path
 
 ## [139] - 2020-12-18
 ### Changed
