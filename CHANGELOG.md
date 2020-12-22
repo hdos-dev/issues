@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Changed
 - Restored [Animation Pack 1](https://runescape.fandom.com/wiki/Update:Blog_-_Animation_Update:_Pack_1)
+### Fixed
+- Lumbridge: Place the correct cannon on top of castle entrance
 
 ## [140] - 2020-12-21
 ### Added
@@ -15,6 +17,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - The `Take Look` option has been disabled by default,  
   and can be enabled using the new option.
 - Texture Upscale no longer applies to interfaces
+### Fixed
 - Fix dynamic objects in restored areas
 - Upscaled textures now animate at the correct speeds
 - Lumbridge:
