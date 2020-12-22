@@ -17,6 +17,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Lumbridge: fix ham trapdoor (fixes hdos/issues#467)
 - Lumbridge: delete extra wall in swamp (fixes hdos/issues#466)
 - Lumbridge: remove dirt over Deaths Domain (fixes hdos/issues#463)
+- Fixed random overlay on the grass near lumby church
+- Fixed issue with a tile in lumby basement
+- Restored the path leading to the north farm in lumby, towards draynor
+- Fixed the color of the wall surrounding wheat on the same path
 
 ## [139] - 2020-12-18
 ### Changed
@@ -30,6 +34,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Falador Party Room: re-enable flickering lights
 - Castle Wars: torches in the waiting room are now fixed to the wall (fixes hdos/issues#411)
 - Fixed Minimap in restored areas
+- Lumbridge: fix ham trapdoor (fixes hdos/issues#467)
 
 ## [138] - 2020-12-14
 ### Fixed
