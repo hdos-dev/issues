@@ -14,6 +14,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   and can be enabled using the new option.
 - Texture Upscale no longer applies to interfaces
 - Upscaled textures now animate at the correct speeds
+- Lumbridge: fix ham trapdoor (fixes hdos/issues#467)
+- Lumbridge: delete extra wall in swamp (fixes hdos/issues#466)
 
 ## [139] - 2020-12-18
 ### Changed
@@ -27,7 +29,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Falador Party Room: re-enable flickering lights
 - Castle Wars: torches in the waiting room are now fixed to the wall (fixes hdos/issues#411)
 - Fixed Minimap in restored areas
-- Lumbridge: fix ham trapdoor (fixes hdos/issues#467)
 
 ## [138] - 2020-12-14
 ### Fixed
