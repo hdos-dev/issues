@@ -15,24 +15,25 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Texture Upscale no longer applies to interfaces
 - Fix dynamic objects in restored areas
 - Upscaled textures now animate at the correct speeds
-- Lumbridge: Fix ham trapdoor (fixes hdos/issues#467)
-- Lumbridge: Deleted an extra wall in swamp (fixes hdos/issues#466)
-- Lumbridge: Remove dirt over Deaths Domain (fixes hdos/issues#463)
-- Lumbridge: Fix church door (fixes hdos/issues#462)
-- Lumbridge: Fixed random overlay on the grass near lumby church
-- Lumbridge: Fixed issue with a tile in basement
-- Lumbridge: Restored the path leading to the north farm, towards draynor
-- Lumbridge: Fixed the color of the wall surrounding wheat on the same path
-- Lumbridge: Restore `Death to the Dorgeshuun` area under the watermill (fixes hdos/issues#459)
-- Lumbridge: Fix chest and doors when opened (fixes hdos/issues#458)
-- Lumbridge: Fix ham trapdoor (fixes hdos/issues#467)
-- Lumbridge: Fixed misc. fencing to have less gaps
-- Lumbridge: Add lights to the passage west of the castle
-- Lumbridge: Fixed misc. fencing to have less gaps
-- Lumbridge: Fixed castle doors (fixes hdos/issues#457)
-- Lumbridge: Enabled environment for basement (fixes hdos/issues#455)
-- Lumbridge: Fixed light position at the general store
-- Lumbridge: Upgraded the tavern (fixes hdos/issues#456)
+- Lumbridge:
+    - Fix ham trapdoor (fixes hdos/issues#467)
+    - Deleted an extra wall in swamp (fixes hdos/issues#466)
+    - Remove dirt over Deaths Domain (fixes hdos/issues#463)
+    - Fix church door (fixes hdos/issues#462)
+    - Fixed random overlay on the grass near lumby church
+    - Fixed issue with a tile in basement
+    - Restored the path leading to the north farm, towards draynor
+    - Fixed the color of the wall surrounding wheat on the same path
+    - Restore `Death to the Dorgeshuun` area under the watermill (fixes hdos/issues#459)
+    - Fix chest and drawers when opened (fixes hdos/issues#458)
+    - Fix ham trapdoor (fixes hdos/issues#467)
+    - Fixed misc. fencing to have less gaps
+    - Add lights to the passage west of the castle
+    - Fixed misc. fencing to have less gaps
+    - Fixed castle doors (fixes hdos/issues#457)
+    - Enabled environment for basement (fixes hdos/issues#455)
+    - Fixed light position at the general store
+    - Upgraded the tavern (fixes hdos/issues#456)
 
 ## [139] - 2020-12-18
 ### Changed
