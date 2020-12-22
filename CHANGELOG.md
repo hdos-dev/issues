@@ -13,6 +13,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - The `Take Look` option has been disabled by default,  
   and can be enabled using the new option.
 - Texture Upscale no longer applies to interfaces
+- Fix dynamic objects in restored areas
 - Upscaled textures now animate at the correct speeds
 - Lumbridge: Fix ham trapdoor (fixes hdos/issues#467)
 - Lumbridge: Delete extra wall in swamp (fixes hdos/issues#466)
