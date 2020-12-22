@@ -24,6 +24,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Lumbridge: Fixed the color of the wall surrounding wheat on the same path
 - Lumbridge: Restore `Death to the Dorgeshuun` area under the watermill (fixes hdos/issues#459)
 - Lumbridge: Fix chest and doors when opened (fixes hdos/issues#458)
+- Lumbridge: fix ham trapdoor (fixes hdos/issues#467)
+- Lumbridge: fixed misc. fencing to have less gaps
 
 ## [139] - 2020-12-18
 ### Changed
@@ -37,7 +39,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Falador Party Room: re-enable flickering lights
 - Castle Wars: torches in the waiting room are now fixed to the wall (fixes hdos/issues#411)
 - Fixed Minimap in restored areas
-- Lumbridge: fix ham trapdoor (fixes hdos/issues#467)
 
 ## [138] - 2020-12-14
 ### Fixed
