@@ -23,6 +23,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Lumbridge: Restored the path leading to the north farm, towards draynor
 - Lumbridge: Fixed the color of the wall surrounding wheat on the same path
 - Lumbridge: Restore `Death to the Dorgeshuun` area under the watermill (fixes hdos/issues#459)
+- Lumbridge: Fix chest and doors when opened (fixes hdos/issues#458)
 
 ## [139] - 2020-12-18
 ### Changed
