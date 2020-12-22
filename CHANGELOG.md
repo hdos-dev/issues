@@ -26,7 +26,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Lumbridge: Restore `Death to the Dorgeshuun` area under the watermill (fixes hdos/issues#459)
 - Lumbridge: Fix chest and doors when opened (fixes hdos/issues#458)
 - Lumbridge: fix ham trapdoor (fixes hdos/issues#467)
-- Lumbridge: fixed misc. fencing to have less gaps
+- Lumbridge: Fixed misc. fencing to have less gaps
+- Lumbridge: Fixed castle doors (fixes hdos/issues#457)
+- Lumbridge: Enabled environment for basement (fixes hdos/issues#455)
 
 ## [139] - 2020-12-18
 ### Changed
