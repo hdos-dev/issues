@@ -28,6 +28,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Lumbridge: fix ham trapdoor (fixes hdos/issues#467)
 - Lumbridge: fixed misc. fencing to have less gaps
 - Lumbridge: add lights to the passage west of the castle
+- Lumbridge: Fixed misc. fencing to have less gaps
+- Lumbridge: Fixed castle doors (fixes hdos/issues#457)
+- Lumbridge: Enabled environment for basement (fixes hdos/issues#455)
+- Lumbridge: Fixed light position at the general store
+- Lumbridge: Upgraded the tavern (fixes hdos/issues#456)
 
 ## [139] - 2020-12-18
 ### Changed
