@@ -6,8 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Changed
 - **Restored [Animation Pack 1](https://runescape.fandom.com/wiki/Update:Blog_-_Animation_Update:_Pack_1)**
+    - 331 items (mostly polishing)
+    - 584 animations (mostly audio improvements, and tweening/smoothing)
 - Restored Dragon Platebody
 - Restored Dagon'hai
+- Restored Santa Outfit
 - Restored Zamorakian spear animations
 - The Ghrazi rapier attack animation has been improved
 - Change Debug KeyBind to `Alt D` (from `Shift D`)
@@ -37,9 +40,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
     - Restore `Death to the Dorgeshuun` area under the watermill (fixes hdos/issues#459)
     - Fix chest and drawers when opened (fixes hdos/issues#458)
     - Fix ham trapdoor (fixes hdos/issues#467)
-    - Fixed misc. fencing to have less gaps
+    - Fix misc. fencing to have less gaps
     - Add lights to the passage west of the castle
-    - Fixed misc. fencing to have less gaps
     - Fixed castle doors (fixes hdos/issues#457)
     - Enabled environment for basement (fixes hdos/issues#455)
     - Fixed light position at the general store
