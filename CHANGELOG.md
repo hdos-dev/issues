@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [142] - 2020-12-23
+### Changed
+- Restored graphics assets from [Animation Pack 1](https://runescape.fandom.com/wiki/Update:Blog_-_Animation_Update:_Pack_1)
+- Improve Dragon scimitar special attack
+### Fixed
+- Fixed flickering problems in login screen animation
+- Fixed ZGS special attack
+
 ## [141] - 2020-12-23
 ### Changed
 - **Restored [Animation Pack 1](https://runescape.fandom.com/wiki/Update:Blog_-_Animation_Update:_Pack_1)**
