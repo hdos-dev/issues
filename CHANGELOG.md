@@ -4,18 +4,26 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [141] - 2020-12-23
 ### Changed
 - **Restored [Animation Pack 1](https://runescape.fandom.com/wiki/Update:Blog_-_Animation_Update:_Pack_1)**
     - 331 items (mostly polishing)
-    - 584 animations (mostly audio improvements, and tweening/smoothing)
-- Restored Dragon Platebody
+    - 584 animations (mostly audio improvements, and smoothing/tween)
+- Restored Dragon platebody
 - Restored Dagon'hai
-- Restored Santa Outfit
+- Restored Santa outfit
 - Restored Zamorakian spear animations
 - The Ghrazi rapier attack animation has been improved
 - Change Debug KeyBind to `Alt D` (from `Shift D`)
 ### Fixed
 - Lumbridge: Place the correct cannon on top of castle entrance
+- Improve performance in crowded areas
+- Removed carpet in the Motherlode Mine
+- Fix Bank/Equipment lag (fixes hdos/issues#491)
+- Varrock Sewers: Fix random torches (fixes hdos/issues#465)
+- Ice Mountain restore has been put back (whoopsie) (fixes hdos/issues#464)
 
 ## [140] - 2020-12-21
 ### Added
