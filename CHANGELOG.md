@@ -5,10 +5,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [144] - 2020-12-24
+### Fixed
+ - Enable Texture3D support (it has disabled since v81, whoopsie!)  
+   This greatly improves the water and lava!   
 
 ## [143] - 2020-12-24
 ### Fixed
-- Fix the 'shine' effect in textures!
+- Fix specular highlighting (the 'shine' effect) in textures!
 - Lumbridge: fix a `Suit of armour` in the entrance
 - Lumbridge: fix the east bank booth to match the rest
 
