@@ -5,11 +5,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Changed
-- **Restore Audio** (music tracks, jingles, and sound effects)
+- **Restore Audio**
+
+    | type | total | percent |
+    |------|--------|---------|
+    | TRACKS | 523 | 100% |
+    | JINGLES | 273 | 100% |
+    | SOUNDFX | 3,664 | 95.74% |
+
 - Restore: Canifis Tunnel
 - Restore: Silvarea
 - Improve the `:dark` command so that you can still see things
 ### Fixed
+- Music jingles now work (ex: level up sounds)
 - Fix Texture3D support detection for Mac
 - Lumbridge: delete an extra piece of bridge (fixes hdos/issues#506)
 
