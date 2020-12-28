@@ -5,6 +5,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Changed
+- **Restore Audio** (music tracks, jingles, and sound effects)
 - Restore: Canifis Tunnel
 - Restore: Silvarea
 - Improve the `:dark` command so that you can still see things
