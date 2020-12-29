@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Restore: Silvarea
 - Restore: H.A.M. Lair
 ### Fixed
+- Anti-Aliasing and the `:aa` command finally saves correctly
 - Fix lag spike in some areas when users switch from SD to HD mode
 - Fix H.A.M doors (fixes hdos/issues#475 hdos/issues#476)
 
