@@ -22,6 +22,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - Music jingles now work (ex: level up sounds)
 - Fix Texture3D support detection for Mac
+- Improve Texture Upscale in interfaces (fixes hdos/issues#531) 
+- Fix the Dharok attack animations
 - Lumbridge: delete an extra piece of bridge (fixes hdos/issues#506)
 - Lumbridge: fix Al Kharid gate (fixes hdos/issues#625 hdos/issues#601)
 
