@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Changed
+- Restore: Canifis Tunnel
+- Restore: Silvarea
+
+
+## [145] - 2020-12-28
 ### Added
 - `Born Login` setting (plays "Born to do this" when in the login screen)
 ### Changed
@@ -15,12 +21,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 | JINGLES | 273 | 100% |
 | SOUNDFX | 3,664 | 95.74% |
 
-- Restore: Canifis Tunnel
-- Restore: Silvarea
 - Improve the `:dark` command so that you can still see things
 - Remove the `Cancel` option in the exit confirmation dialog
 ### Fixed
-- Music jingles now work (ex: level up sounds)
+- Music jingles (ex: level up sounds) now work (they were never implemented!, whoopsie)
 - Fix Texture3D support detection for Mac
 - Improve Texture Upscale in interfaces (fixes hdos/issues#531) 
 - Fix the Dharok attack animations
