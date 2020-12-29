@@ -5,13 +5,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Changed
-- **Restore Audio**
+**Restore Audio**
 
-    | type | total | percent |
-    |------|--------|---------|
-    | TRACKS | 523 | 100% |
-    | JINGLES | 273 | 100% |
-    | SOUNDFX | 3,664 | 95.74% |
+| type | total | percent |
+|------|--------|---------|
+| TRACKS | 523 | 100% |
+| JINGLES | 273 | 100% |
+| SOUNDFX | 3,664 | 95.74% |
 
 - Restore: Canifis Tunnel
 - Restore: Silvarea
