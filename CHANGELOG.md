@@ -18,6 +18,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Restore: Canifis Tunnel
 - Restore: Silvarea
 - Improve the `:dark` command so that you can still see things
+- Remove the `Cancel` option in the exit confirmation dialog
 ### Fixed
 - Music jingles now work (ex: level up sounds)
 - Fix Texture3D support detection for Mac
