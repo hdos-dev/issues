@@ -29,7 +29,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Improve Texture Upscale in interfaces (fixes hdos/issues#531) 
 - Fix the Dharok attack animations
 - Lumbridge: delete an extra piece of bridge (fixes hdos/issues#506)
-- Lumbridge: fix Al Kharid gate (fixes hdos/issues#625 hdos/issues#601)
+- Lumbridge: fix Al Kharid gate (fixes hdos/issues#525 hdos/issues#501)
 
 ## [144] - 2020-12-24
 ### Fixed
