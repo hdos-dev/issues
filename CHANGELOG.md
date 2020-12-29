@@ -22,6 +22,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Music jingles now work (ex: level up sounds)
 - Fix Texture3D support detection for Mac
 - Lumbridge: delete an extra piece of bridge (fixes hdos/issues#506)
+- Lumbridge: fix Al Kharid gate (fixes hdos/issues#625 hdos/issues#601)
 
 ## [144] - 2020-12-24
 ### Fixed
