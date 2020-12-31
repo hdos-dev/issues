@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Restore: Canifis Tunnel
 - Restore: Silvarea
 - Restore: H.A.M. Lair
+- Restore: Taverly
+- Restore: White Wolf Mountain
+- Restore: Catherby
 - Improve `Verbose Debug`
 - Add lighting to lumbridge church
 ### Fixed
