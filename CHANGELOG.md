@@ -12,14 +12,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Restore: White Wolf Mountain
 - Restore: Catherby
 - Improve `Verbose Debug`
-- Add lighting to lumbridge church
+- Barbarian Village: fix lighting in village, add lighting to fishing spot fire.
+- Lumbridge: improve the passage west of the castle
+- Lumbridge: improve lighting in the church
+- Improve default fog in undergroud areas to be easier to see
 ### Fixed
 - Anti-Aliasing and the `:aa` command finally saves correctly
 - Fix lag spike in some areas when users switched from SD to HD mode
 - Fix H.A.M doors (fixes hdos/issues#475 hdos/issues#476)
 - Freminnik Slayer Dungeon: put rocks back, fix Kurasks expansion (fixes hdos/issues#485)
 - Fix broken/incorrect music tracks (fixes hdos/issues#536)
-
+- Exclude the remaining scroll baackgrounds from texture up scaling
+- Fix custom fog in dynamic regions
+- Fix the gauntlet fog so its no longer bright
 
 ## [145] - 2020-12-28
 ### Added
