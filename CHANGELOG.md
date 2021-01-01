@@ -5,6 +5,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+
+## [147] - 2020-12-31
+### Fixed
+- Fixed PVP priority rendering (fixes hdos/issues#337)
+
 ## [146] - 2020-12-31
 ### Changed
 - Restore: Canifis Tunnel
