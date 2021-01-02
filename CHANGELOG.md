@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Changed
 - Restore: South Faldor Farm
+- Fixed a few minor object issues in Taverly
 
 ## [147] - 2020-12-31
 ### Fixed
