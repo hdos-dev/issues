@@ -5,12 +5,20 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Changed
+
+## [148] - 2020-1-1
+### Changed
 - Restore: South Faldor Farm
 - Restore: Draynor Village (wip)
 - Restore: Draynor Sewers
 - Disable interaction while Free Cam is active
 - Idle Logout no longer last forever, and is now limited to 15 minutes (from 5 minutes)
-- Fixed a few minor object issues in Taverly
+
+### Fixed
+- Fixed skybox in the Witch's house (fixes hdos/issues#549)
+- Fixed Sanfew's table in upstairs Taverly (fixes hdos/issues#553)
+- Fixed the carpet under the poll booth in Taverly (fixes hdos/issues#552)
+- Flipped a bench in Taverly to be facing the correct way
 
 ## [147] - 2020-12-31
 ### Fixed
