@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Changed
 - Restore: South Falador Farm
+### Fixed
+- WASD Camera chat lock no longer applies when logging in
 
 ## [148] - 2020-1-1
 ### Added
@@ -15,7 +17,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Restore: Draynor Sewers
 - Disable interaction while Free Cam is active
 - Idle Logout no longer last forever, and is now limited to 15 minutes (from 5 minutes)
-
 ### Fixed
 - Taverly: Fixed the skybox in the Witch's house (fixes hdos/issues#549)
 - Taverly: Sanfew's table has been upgraded (fixes hdos/issues#553)
