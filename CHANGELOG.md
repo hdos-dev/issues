@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Changed
 - Restore: South Falador Farm
+
+## [149] - 2020-1-1
 ### Fixed
 - WASD Camera chat lock no longer applies when logging in
 
