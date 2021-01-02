@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Changed
 - Restore: South Faldor Farm
+- Restore: Draynor Village (wip)
+- Restore: Draynor Sewers
+- Disable interaction while Free Cam is active
+- Idle Logout no longer last forever, and is now limited to 15 minutes (from 5 minutes)
 - Fixed a few minor object issues in Taverly
 
 ## [147] - 2020-12-31
