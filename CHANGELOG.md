@@ -4,13 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-
+### Changed
+- Restore: South Faldor Farm
 
 ## [148] - 2020-1-1
 ### Added
 - WASD Camera
 ### Changed
-- Restore: South Faldor Farm
 - Restore: Draynor Village (wip)
 - Restore: Draynor Sewers
 - Disable interaction while Free Cam is active
