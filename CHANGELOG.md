@@ -4,8 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+### Added
+- Experimental: New Occluders (Graphics option)
 ### Changed
 - Restore: South Falador Farm
+### Fixed
+- Fix object area sound effects
+- Fix a performance bug when the camera is aimed up
 
 ## [149] - 2020-1-1
 ### Fixed
