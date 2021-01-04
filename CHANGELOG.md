@@ -12,6 +12,22 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - Fix object area sound effects
 - Fix a performance bug when the camera is aimed up
+- Taverly: Fixed a missing wall at fishing quest start (fixes hdos/issues#566)
+- Taverly: Improved fencing (fixes hdos/issues#564)
+- Taverly: Smoothed out paths (fixes hdos/issues#565)
+- Taverly: Drawers now remain the same when opening and closing (fixes hdos/issues#544)
+- Catherby : Improved drawers peeking through the walls (fixes hdos/issues#556)
+- Catherby : Moved improperly placed stone (fixes hdos/issues#567)
+- White Wolf Mountain : Restored south side (fixes hdos/issues#554)
+- Canifis Tunnel : Gates now are HD when open (fixes hdos/issues#543)
+- Lumbridge : Touched up the flour mill (fixes hdos/issues#511)
+- Lumbridge : Cleaned up Hay Storage Wall (fixes hdos/issues#513)
+- Lumbridge : Repaired Furnace building (fixes hdos/issues#508)
+- Lumbridge : Removed random ice berg (fixes hdos/issues#493)
+- EdgeVille : Fixed crack in floor near G.E. (fixes hdos/issues#495)
+- EdgeVille : Fixed backwards door (fixes hdos/issues#461)
+- Varrock : Fixed tunnels from G.E to EdgeVille (fixes hdos/issues#450)
+- Varrock : G.E. now has the proper roof texture
 
 ## [149] - 2020-1-1
 ### Fixed
