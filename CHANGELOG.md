@@ -12,6 +12,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - Fix object area sound effects
 - Fix a performance bug when the camera is aimed up
+- Fix `Many Idle Animations` setting
 - Taverly: Fixed a missing wall at fishing quest start (fixes hdos/issues#566)
 - Taverly: Improved fencing (fixes hdos/issues#564)
 - Taverly: Smoothed out paths (fixes hdos/issues#565)
