@@ -5,12 +5,26 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+### Added
+- Experimental: New Occluders (Graphics option)
 ### Changed
 - Restore: South Falador Farm
 ### Fixed
 - Fix object area sound effects
 - Fix a performance bug when the camera is aimed up
 - Fix `Many Idle Animations` setting
+- Fixed the under-lighting in Mor Ui Rek (inferno) (fixes hdos/issues#342)
+- Fixed the pillars around the Astral rune alter  (fixes hdos/issues#341)
+- Fixed the gaping holes in the wilderness agility area (fixes hdos/issues#228)
+- Salarin the Twisted's cave now has walls (fixes hdos/issues#355)
+- Hellcat now stays one once he gets overgrown (fixes hdos/issues#576)
+- Fixed the flames in Burgh de Rott (fixes hdos/issues#338)
+- Hans hands are back (fixes hdos/issues#151)
+- Because we removed them from Thessalia's shop (fixes hdos/issues#150)
+- Added floor overlays to the Tower of Life (fixes hdos/issues#220)
+- All Lumbridge combat tutors have been upgraded (fixes hdos/issues#383)
+- Lunar Isle : the pond
+- Lunar Isle : repaired the roofs
 - Taverly: Fixed a missing wall at fishing quest start (fixes hdos/issues#566)
 - Taverly: Improved fencing (fixes hdos/issues#564)
 - Taverly: Smoothed out paths (fixes hdos/issues#565)
@@ -26,7 +40,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Lumbridge : Restore RFD instance (fixes hdos/issues#442)
 - EdgeVille : Fixed crack in floor near G.E. (fixes hdos/issues#495)
 - EdgeVille : Fixed backwards door (fixes hdos/issues#461)
-- Varrock : Fixed tunnels from G.E to EdgeVille (fixes hdos/issues#450)
+- Silvarea : Removed extra objects (fixes hdos/issues#541)
+- Varrock : Fixed tunnels from G.E to EdgeVille (fixes hdos/issues#450 hdos/issues#226)
 - Varrock : G.E. now has the proper roof texture
 
 ## [149] - 2020-1-1
