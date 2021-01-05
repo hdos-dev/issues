@@ -5,8 +5,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
-### Added
-- Experimental: New Occluders (Graphics option)
 ### Changed
 - Restore: South Falador Farm
 ### Fixed
@@ -25,6 +23,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Lumbridge : Cleaned up Hay Storage Wall (fixes hdos/issues#513)
 - Lumbridge : Repaired Furnace building (fixes hdos/issues#508)
 - Lumbridge : Removed random ice berg (fixes hdos/issues#493)
+- Lumbridge : Restore RFD instance (fixes hdos/issues#442)
 - EdgeVille : Fixed crack in floor near G.E. (fixes hdos/issues#495)
 - EdgeVille : Fixed backwards door (fixes hdos/issues#461)
 - Varrock : Fixed tunnels from G.E to EdgeVille (fixes hdos/issues#450)
