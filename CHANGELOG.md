@@ -6,9 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 ### Added
-- Experimental: New Occluders (Graphics option)
+- Add `Anti-Aliasing` option to Graphics
 ### Changed
 - Restore: South Falador Farm
+- GL only menu options will now be disabled when not in HD mode
 ### Fixed
 - Fix object area sound effects
 - Fix a performance bug when the camera is aimed up
