@@ -6,7 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Changed
 - Restore: South Falador Farm
+### Fixed
+- Fix floating in GE
 
+
+## [151] - 2021-1-6
+### Changed
+- Update cache
 
 ## [150] - 2021-1-5
 ### Added
