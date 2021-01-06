@@ -13,6 +13,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Fix object area sound effects
 - Fix a performance bug when the camera is aimed up
 - Fix `Many Idle Animations` setting
+- Fix castle wars bad wall on sara side.
 - Fixed the under-lighting in Mor Ui Rek (inferno) (fixes hdos/issues#342)
 - Fixed the pillars around the Astral rune alter  (fixes hdos/issues#341)
 - Fixed the gaping holes in the wilderness agility area (fixes hdos/issues#228)
