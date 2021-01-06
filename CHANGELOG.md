@@ -4,11 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Changed
+- Restore: South Falador Farm
 
+
+## [150] - 2021-1-5
 ### Added
 - Add `Anti-Aliasing` option to Graphics
 ### Changed
-- Restore: South Falador Farm
 - GL only menu options will now be disabled when not in HD mode
 ### Fixed
 - Fix object area sound effects
@@ -47,11 +50,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Varrock : Fixed tunnels from G.E to EdgeVille (fixes hdos/issues#450 hdos/issues#226)
 - Varrock : G.E. now has the proper roof texture
 
-## [149] - 2020-1-1
+## [149] - 2021-1-1
 ### Fixed
 - WASD Camera chat lock no longer applies when logging in
 
-## [148] - 2020-1-1
+## [148] - 2021-1-1
 ### Added
 - WASD Camera
 ### Changed
