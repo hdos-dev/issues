@@ -9,6 +9,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - Fix floating in GE
 
+## [152] - 2021-1-8
+### Changed
+- Engine cleanup
+### Fixed
+- Fixed space rendering is player names (fixes hdos/issues#309 hdos/issues#10 hdos/issues#9)
 
 ## [151] - 2021-1-6
 ### Changed
