@@ -6,9 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Changed
 - Restore: South Falador Farm
+- Restore: Barbarian Assault/Outpost
+- Restore: Baxtorian Fallse
 ### Fixed
 - Fix floating in GE
-
+- Burgh de Rot : more accurate lighting
+- Seer's Village : updated the bank floor
+- Jatizo : updated floors, removed bad lights
+- Al Kharid : improved flooring in the temple (full restoration on hold until open beta)
 ## [152] - 2021-1-8
 ### Changed
 - Update the whip animations 
