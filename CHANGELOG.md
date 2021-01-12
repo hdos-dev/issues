@@ -5,6 +5,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Changed
+- Engine cleanup
+- Update the whip animations 
+    - Thanks to `jimqc` for finding the compatible ones
 - Restore: South Falador Farm
 - Restore: Barbarian Assault/Outpost
 - Restore: Baxtorian Fallse
@@ -16,13 +19,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - Fix floating in GE
 - Fix invisible object rendering (fixes hdos/issues#311 hdos/issues#509 hdos/issues#76 hdos/issues#118)
-
-## [152] - 2021-1-8
-### Changed
-- Update the whip animations 
-    - Thanks to `jimqc` for finding the compatible ones
-- Engine cleanup
-### Fixed
 - Fixed space rendering is player names (fixes hdos/issues#309 hdos/issues#10 hdos/issues#9)
 
 ## [151] - 2021-1-6
