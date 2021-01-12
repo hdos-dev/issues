@@ -4,8 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Changed
+- Upgrade idle animations (smoother)
 ### Fixed
 - Fix text spacing (I hope)
+- Fix idle animation
 
 ## [152] - 2021-1-11
 ### Changed
