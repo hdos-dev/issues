@@ -4,13 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+## [152] - 2021-1-11
 ### Changed
 - Engine cleanup
 - Updated the whip
     - Thanks to `jimqc` for finding the compatible ones
-- Restore: South Falador Farm
 - Restore: Barbarian Assault/Outpost
-- Restore: Baxtorian Fallse
+- Restore: Baxtorian Falls
 - Woodcutting Guild: improve path overlay
 - Burgh de Rot : more accurate lighting
 - Seer's Village : updated the bank floor
