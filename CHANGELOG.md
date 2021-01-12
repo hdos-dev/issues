@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Changed
 - Engine cleanup
-- Update the whip animations 
+- Updated the whip
     - Thanks to `jimqc` for finding the compatible ones
 - Restore: South Falador Farm
 - Restore: Barbarian Assault/Outpost
@@ -18,10 +18,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Al Kharid : improved flooring in the temple (full restoration on hold until open beta)
 ### Fixed
 - Fix floating in GE
-- Fix invisible object rendering (fixes hdos/issues#311 hdos/issues#509 hdos/issues#76 hdos/issues#118)
+- Fix invisible model rendering (fixes hdos/issues#311 hdos/issues#509 hdos/issues#76 hdos/issues#118)
 - Fixed space rendering is player names (fixes hdos/issues#309 hdos/issues#10 hdos/issues#9)
 - Fixed home teleport animation (fixes hdos/issues#417)
 - Fixed members world detection (fixes hdos/issues#577 hdos/issues#571 hdos/issues#60)
+
 ## [151] - 2021-1-6
 ### Changed
 - Update cache
