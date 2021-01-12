@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - Fix text spacing (I hope)
 - Fix idle animation
+- Slayer tower basement environment has been brightened
 
 ## [152] - 2021-1-11
 ### Changed
