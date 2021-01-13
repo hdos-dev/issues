@@ -5,6 +5,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+
+## [154] - 2021-1-12
+### Fixed
+- Fixed AMD artifacts!!
+
 ## [153] - 2021-1-12
 ### Changed
 - Upgrade idle animations (smoother)
