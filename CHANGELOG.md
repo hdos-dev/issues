@@ -7,7 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [157] - 2021-1-14
 ### Fixed
-- POH fix: re-deploy??
+- Fix bad deploy (POH)
 
 
 ## [156] - 2021-1-14
