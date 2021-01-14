@@ -5,6 +5,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [156] - 2021-1-14
+### Fixed
+- Fixed 95% of Z-Fighting cases(flickering) (fixes hdos/issues#326 hdos/issues#104 hdos/issues#56 hdos/issues#40 hdos/issues#148)
+- Fixed feet going through floors (fixes hdos/issues#502 )
+
 ## [155] - 2021-1-13
 ### Changed
 - Update cache
