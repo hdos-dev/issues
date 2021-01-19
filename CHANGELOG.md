@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Added
 - Added "Scape Theme" to login music choices.
+### Changed
+- Upgrade/Fixed the `Abyssal Tenticle`
+### Fixed
+- Fixed whip attack sounds
 
 ## [157] - 2021-1-14
 ### Fixed
