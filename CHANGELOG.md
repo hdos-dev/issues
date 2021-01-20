@@ -4,14 +4,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+## [158] - 2021-1-20
 ### Added
-//TODO DONT RELEASE WITHOUT FIXING VARROCK MAPPINGS 
 - Added "Scape Theme" to login music choices.
-- Fixed various issues with npcs and their animations (fixes hdos/issues#73 hdos/issues#142)
+- The new area in Taverly (WIP)
 ### Changed
+- Updated cache
 - Upgrade/Fixed the `Abyssal Tenticle`
 ### Fixed
 - Fixed whip attack sounds
+- Varrock: fixed the floors in banks
+- Camels no longer die every hit (fixes hdos/issues#624 hdos/issues#322)
+- Fixed various issues with npcs and their animations (fixes hdos/issues#73 hdos/issues#142)
 
 ## [157] - 2021-1-14
 ### Fixed
