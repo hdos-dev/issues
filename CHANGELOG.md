@@ -5,8 +5,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Changed
-- Restored `Animation Pack 1.5`
-    - Improved idle and movement animations.
+- Improve idle and movement animations
+- Rename `Hide HUD` to `Hide Interfaces`, remove `Hide` prefix.
+### Fixed
+- `Hide Players` now hides player overheads also
+- Fix poll booth in Edgeville (fixes hdos/issues#649)
+- Fix `Abyssal Tentacle` for female players (fixes hdos/issues#647)
 
 ## [158] - 2021-1-20
 ### Added
