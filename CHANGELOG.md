@@ -11,6 +11,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - `Hide Players` now hides player overheads also
 - Fix poll booth in Edgeville (fixes hdos/issues#649)
 - Fix `Abyssal Tentacle` for female players (fixes hdos/issues#647)
+- Fixed the urns inside pyrimid plunder (fixes hdos/issues#641)
+- Fixed Shadow Giants (Ice Giants are now back to ice) (fixes hdos/issues#533)
 
 ## [158] - 2021-1-20
 ### Added
