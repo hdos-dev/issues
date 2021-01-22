@@ -7,12 +7,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Changed
 - Improve idle and movement animations
 - Rename `Hide HUD` to `Hide Interfaces`, remove `Hide` prefix.
+- Restore: Slayer Helmet
 ### Fixed
-- `Hide Players` now hides player overheads also
+- `Hide Players` now hides player overheads also (fixes hdos/issues#617)
 - Fix poll booth in Edgeville (fixes hdos/issues#649)
 - Fix `Abyssal Tentacle` for female players (fixes hdos/issues#647)
 - Fixed the urns inside pyrimid plunder (fixes hdos/issues#641)
 - Fixed Shadow Giants (Ice Giants are now back to ice) (fixes hdos/issues#533)
+- Players (mostly female) have visited the chiropractor again, and had their heads re-attached to their body!
 
 ## [158] - 2021-1-20
 ### Added
