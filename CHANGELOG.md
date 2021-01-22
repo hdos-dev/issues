@@ -4,15 +4,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [159] - 2021-1-22
 ### Changed
 - Improve idle and movement animations
+- Upgrade/Fixed the `Frozen abyssal whip` and `Volcanic abyssal whip`
+- Restore: `Slayer Helmet`
 - Rename `Hide HUD` to `Hide Interfaces`, remove `Hide` prefix.
-- Restore: Slayer Helmet
 ### Fixed
 - `Hide Players` now hides player overheads also (fixes hdos/issues#617)
 - Fix poll booth in Edgeville (fixes hdos/issues#649)
 - Fix `Abyssal Tentacle` for female players (fixes hdos/issues#647)
-- Fixed the urns inside pyrimid plunder (fixes hdos/issues#641)
+- Fixed the urns inside pyramid plunder (fixes hdos/issues#641)
 - Fixed Shadow Giants (Ice Giants are now back to ice) (fixes hdos/issues#533)
 - Players (mostly female) have visited the chiropractor again, and had their heads re-attached to their body!
 
@@ -32,7 +36,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [157] - 2021-1-14
 ### Fixed
 - Fix bad deploy (POH)
-
 
 ## [156] - 2021-1-14
 ### Fixed
