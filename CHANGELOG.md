@@ -7,7 +7,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Changed
 - Restore: Abyss (fixes hdos/issues#498)
 - Added a check to prevent users from trying to change windows mode before the client initializes (fixes hdos/issues#238)
-
+### Fixed
+- Artifacting in interfaces caused by x16 anti-aliasing has been resolved(fixes hdos/issues#483)
 
 ## [159] - 2021-1-22
 ### Changed
