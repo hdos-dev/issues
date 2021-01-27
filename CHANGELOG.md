@@ -9,7 +9,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Added a check to prevent users from trying to change windows mode before the client initializes (fixes hdos/issues#238)
 ### Fixed
 - Artifacting in interfaces caused by x16 anti-aliasing has been resolved (fixes hdos/issues#483)
-- Braziers in Enakhra's Temple are now animating properly (fixes hdos/issues#402)
+- Braziers in Enakhra's Temple are now animating properly (fixes hdos/issues#402 hdos/issues#81)
+- Fixed the stove in Goblin Tunnel (Observatory Quest) (fixes hdos/issues#291)
 
 ## [159] - 2021-1-22
 ### Changed
