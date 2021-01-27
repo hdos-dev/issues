@@ -5,6 +5,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Changed
+- Restore: Abyss (fixes hdos/issues#498)
 - Added a check to prevent users from trying to change windows mode before the client initializes (fixes hdos/issues#238)
 
 
