@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [161] - 2021-1-27
+### Fixed
+- Fix peekaboo chairs in Edgeville
+- Fix window mode switching
+- Fix crashing near Wizard Tower
+
 ## [160] - 2021-1-27
 ### Changed
 - Update cache
