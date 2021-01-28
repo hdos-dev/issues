@@ -4,7 +4,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-
+### Fixed
+- Fixed the crystal ball glitching out in Varrock (fixes hdos/issues#662)
+- Fixed incorrect stairs in East Ardy mansion (fixes hdos/issues#581)
 
 ## [162] - 2021-1-27
 ### Fixed
