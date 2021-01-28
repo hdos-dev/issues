@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [162] - 2021-1-27
+### Fixed
+- Fixed remaining map load crashes (oopsie)
+
 ## [161] - 2021-1-27
 ### Fixed
 - Fix peekaboo chairs in Edgeville
