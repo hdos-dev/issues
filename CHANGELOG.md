@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [164] - 2021-1-30
+### Fixed
+- Fix crashing after updating from 163 (whoopsie)
+
 ## [163] - 2021-1-30
 ### Changed
 - Increase the memory limit of the client to 512m (from 384m)
