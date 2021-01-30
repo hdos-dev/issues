@@ -4,12 +4,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [163] - 2021-1-30
 ### Changed
 - Increase the memory limit of the client to 512m (from 384m)
+- Update the login screen sprites
+- Verbose Debug will now render your current zoom
 ### Fixed
 - Fixed the crystal ball glitching out in Varrock (fixes hdos/issues#662)
 - Fixed incorrect stairs in East Ardy mansion (fixes hdos/issues#581)
-
+- Upgrade the twisted bow (fixes hdos/issues#664)
 
 ## [162] - 2021-1-27
 ### Fixed
