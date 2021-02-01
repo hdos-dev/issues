@@ -9,6 +9,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - Fix capacity check when adding to the friends or the ignore list
 - Fix a crash if trying to turn Unsafe Mode on while the client is loading
+- The whip has been disciplined to no longer stretch your hand off when it is idle
+
 
 ## [164] - 2021-1-30
 ### Fixed
