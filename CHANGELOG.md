@@ -4,9 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Added
+- Add commands 
+    - :recommended - sets the graphics to a happy medium recommended settings.
+    - :streaming   - sets the canvas to 720p HD screen res, and ramps up the settings.
+    - :lowDetail   - sets the graphics to the lowest possible settings.
 ### Fixed
 - The teleport scrolls in Zulrah Shine has returned (fixed hdos/issues#703)
-
 
 ## [165] - 2021-2-3
 ### Changed
