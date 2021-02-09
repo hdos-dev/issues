@@ -9,6 +9,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
     - :recommended - sets the graphics to a happy medium recommended settings.
     - :streaming   - sets the canvas to 720p HD screen res, and ramps up the settings.
     - :lowDetail   - sets the graphics to the lowest possible settings.
+### Changed
+- Many projectiles there were not restored, should now be HD
 ### Fixed
 - The teleport scrolls in Zulrah Shine has returned (fixed hdos/issues#703)
 - Fixed the roof in Sisterhood sanctuary(fixed hdos/issues#708)
