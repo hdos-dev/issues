@@ -4,6 +4,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [166] - 2021-2-9
 ### Added
 - Add commands 
     - :recommended - sets the graphics to a happy medium recommended settings.
@@ -36,7 +39,7 @@ Major effected npcs:
 ```
 - Lighting, and environment has been added to the areas to create a more immersive feeling
 - - - -
-- Many projectiles there were not restored, should now be HD
+- Many projectiles that were not restored, should now be HD
 ### Fixed
 - The teleport scrolls in Zulrah Shine has returned (fixed hdos/issues#703)
 - Fixed the roof in Sisterhood sanctuary(fixed hdos/issues#708)
