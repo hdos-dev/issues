@@ -13,7 +13,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
     - :streaming   - sets the canvas to 720p HD screen res, and ramps up the settings.
     - :lowDetail   - sets the graphics to the lowest possible settings.
 ### Changed
-- - - -
 - #### HD Pack 1
     
     This version marks our first *upgraded* area **Zulrah**  
@@ -41,7 +40,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
         - Snakeling
         ```
     - Lighting, and environment has been added to the areas to create a more immersive feeling
-- - - -
 - Many projectiles that were not restored, should now be HD
 ### Fixed
 - The teleport scrolls in Zulrah Shine has returned (fixed hdos/issues#703)
