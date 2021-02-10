@@ -39,7 +39,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
         - Zulrah (all forms)
         - Pet Snakeling
         - Snakeling
-        - Zul-Gwenwynig
+        - Priestess Zul-Gwenwynig
         ```
     - Lighting, and environment has been added to the areas to create a more immersive feeling
 - Many projectiles that were not restored, should now be HD
