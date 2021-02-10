@@ -10,6 +10,32 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
     - :streaming   - sets the canvas to 720p HD screen res, and ramps up the settings.
     - :lowDetail   - sets the graphics to the lowest possible settings.
 ### Changed
+- - - - - 
+- This version marks our first upgraded area **Zulrah**
+
+Major effected items: 
+```
+- Zulrah scales 
+- Magic fang
+- Tridant of the seas & Tridant of the swamp
+- Staff of the dead & Toxic staff of the dead
+- Tanzanite fang
+- Toxic blowpipe
+- Serpentine visage
+- Serpentine helmet
+- Magma helmet
+- Tanzanite helmet
+- Zul-andra teleport scroll
+```
+
+Major effected npcs:
+```
+- Zulrah (all forms)
+- Pet Snakeling
+- Snakeling
+```
+- Lighting, and environment has been added to the areas to create a more immersive feeling
+- - - -
 - Many projectiles there were not restored, should now be HD
 ### Fixed
 - The teleport scrolls in Zulrah Shine has returned (fixed hdos/issues#703)
