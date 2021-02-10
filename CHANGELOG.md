@@ -15,8 +15,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Changed
 - #### HD Pack 1
     
-    This version marks our first *upgraded* area **Zulrah**  
-    Wel will call these `HD Packs`
+    This version marks our first _HD PACK_  
+    HD Packs aim to *upgrade* a group of models.  
+    This HD Pack targets **Zulrah**  
 
     - Major effected items: 
         ```
@@ -38,6 +39,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
         - Zulrah (all forms)
         - Pet Snakeling
         - Snakeling
+        - Zul-Gwenwynig
         ```
     - Lighting, and environment has been added to the areas to create a more immersive feeling
 - Many projectiles that were not restored, should now be HD
