@@ -11,7 +11,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
     - :lowDetail   - sets the graphics to the lowest possible settings.
 ### Changed
 - - - - - 
-- This version marks our first upgraded area **Zulrah**
+- This version marks our first *upgraded* area **Zulrah**
 
 Major effected items: 
 ```
