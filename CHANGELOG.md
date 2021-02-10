@@ -16,7 +16,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - #### HD Pack 1
     
     This version marks our first _HD PACK_  
-    HD Packs aim to *upgrade* a group of models.  
+    HD Packs aim to *upgrade* a group of OS models with custom assets, so they align with the HD art style.   
     This HD Pack targets **Zulrah**  
 
     - Major effected items: 
