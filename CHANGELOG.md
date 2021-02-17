@@ -5,6 +5,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [168] - 2021-2-17
+### Changed
+- Fix birthday event
 
 ## [167] - 2021-2-17
 ### Changed
