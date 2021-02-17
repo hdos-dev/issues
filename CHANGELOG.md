@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [167] - 2021-2-17
+### Changed
+- Update cache
+
 ## [166] - 2021-2-9
 ### Added
 - Add commands 
