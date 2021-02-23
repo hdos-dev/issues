@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Fixed
+- misc. spot animations/projectiles that were wrong are now correct (fixed hdos/issues#720)
+- Fixed cursed banana related issues (fixed hdos/issues#730 hdos/issues#732)
+- Holding down a key bind for UI toggles no longer deadlocks the client (fixed hdos/issues#712)
+
+
 
 ## [168] - 2021-2-17
 ### Changed
