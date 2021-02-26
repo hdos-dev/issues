@@ -4,7 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Added
 
+- HD Game Frame
+- HD Hit splats 
+- HD Health bars 
+- HD Chat box 
+- HD Spells 
+- HD Skill Icons 
 
 ## [169] - 2021-2-24
 ### Changed
