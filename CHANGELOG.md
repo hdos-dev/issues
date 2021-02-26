@@ -4,14 +4,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-### Added
-
-- HD Game Frame
-- HD Hit splats 
-- HD Health bars 
-- HD Chat box 
-- HD Spells 
-- HD Skill Icons 
+### Changed
+- The following UI elements have been restored
+   - Game Frame
+   - Hit splats 
+   - Health bars 
+   - Chat box 
+   - Modern Spells 
+   - Skill Icons 
+   - Choose Option (right click menu)
+- Many OS npcs now have HD movements
 
 ## [169] - 2021-2-24
 ### Changed
