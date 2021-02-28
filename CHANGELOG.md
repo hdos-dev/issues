@@ -13,7 +13,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
    - Chat box 
    - Normal Spells 
    - Skill Icons 
-- Many OS npcs now have HD movements
+- OS Humanoid npcs now have HD animations
 
 ## [169] - 2021-2-24
 ### Changed
