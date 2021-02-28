@@ -7,12 +7,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Changed
 - The following UI elements have been restored
    - Game Frame
+   - Choose Option (right click menu)
    - Hit splats 
    - Health bars 
    - Chat box 
-   - Modern Spells 
+   - Normal Spells 
    - Skill Icons 
-   - Choose Option (right click menu)
 - Many OS npcs now have HD movements
 
 ## [169] - 2021-2-24
