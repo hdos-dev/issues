@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Fixed
+- Glitching animations introduced in 170
+- Fishing pools are no longer playing go fish
+- Goblins have rejoined the HD clan
 
 
 ## [170] - 2021-2-28
