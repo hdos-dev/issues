@@ -4,8 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [170] - 2021-2-28
 ### Changed
 - The following UI elements have been restored
+  ```
    - Game Frame
    - Choose Option (right click menu)
    - Hit splats 
@@ -16,6 +20,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
    - Ancient Spells
    - Skill Icons 
    - Default Cursor (golden)
+
 - OS Humanoid npcs now have HD animations
 
 ## [169] - 2021-2-24
