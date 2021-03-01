@@ -15,6 +15,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
    - Lunar Spells
    - Ancient Spells
    - Skill Icons 
+   - Default Cursor (golden)
 - OS Humanoid npcs now have HD animations
 
 ## [169] - 2021-2-24
