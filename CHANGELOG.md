@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [172] - 2021-3-3
+### Changed
+- Update cache
+
 ## [171] - 2021-3-1
 ### Added
 - Restore large HP bars
