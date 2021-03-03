@@ -4,7 +4,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-
+### Fixed
+- Improve hitsplat rendering (fixes hdos/issues#749)
 
 ## [172] - 2021-3-3
 ### Changed
@@ -14,9 +15,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Added
 - Restore large HP bars
 ### Fixed
-- Glitching animations introduced in v170
-- The menu selection is now accurate
-- Fishing pools have been put back into the water
+- Glitching animations introduced in v170 (fixes hdos/issues#745)
+- The menu selection is now accurate (fixes hdos/issues#746)
+- Fishing pools have been put back into the water (fixes hdos/issues#742)
 - Goblins have rejoined the HD tribe
 
 ## [170] - 2021-2-28
