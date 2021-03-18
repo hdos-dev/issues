@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [174] - 2021-3-17
+### Changed
+- Fix crashing from shooting stars (fixes hdos/issues#770)
+
 ## [173] - 2021-3-17
 ### Changed
 - Updated cache
