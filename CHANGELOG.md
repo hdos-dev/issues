@@ -8,6 +8,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Various broken HD Textures have been fixed
 ### Added
 - Restored custom context cursors
+### Changed
+- Custom cursors now persist into the entire application
 
 
 ## [174] - 2021-3-17
