@@ -6,6 +6,39 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [176] - 2021-3-30
+### Added
+- **Auto Updating**  
+    ```
+    The client should now be able to auto-magically deal with random cache updates from Jagex.  
+    The client will adapt itself accordingly based on detected changes, and attempt to retain  
+    content integrity and upgrades. This means there should be no downtime for non-protocol updates. 
+    This feature is bound to cause some new bugs, so be on the lookout! 
+    ``` 
+- Added Lvl-7 Enchant spell icon and cursor
+- Restored remaining HD cursors
+- Restored teletab teleport
+### Changed
+- Improved the accuracy on context cursors
+- Restored the crush animation for the Zamorakian Spear
+- Corrected the Defend and Smash animations for 2-handed weaponry
+### Fixed
+- Lots of items impersonating the pink skirt have been whipped into submission (fixes hdos/issues#283 hdos/issues#231 hdos/issues#139)
+- The snow in Goblin Village has melted
+- The darkness from camelot castle has been vanquished
+- Context cursors now work in fullscreen (fixes hdos/issues#775)
+- The wooden doors in Morton have been taught how to open properly (fixes hdos/issues#682)
+- The dark energy core no longer turns incorporeal when jumping to other players (fixes hdos/issues#691)
+- The leaf-bladed battleaxe animations are now HD, and no longer make you invisible (fixes hdos/issues#452)
+- The black squares in the pyramid plunder entrance have been resolved (fixes hdos/issues#305)
+- When using the NPC Contact spell, the dark mage no longer hides in a chest (fixes hdos/issues#517)
+- The mischievous fairy that replaced the letter R with green pants in the fairy ring interface has been forced to return it (fixes hdos/issues#288)
+- The blood shard has been pulled out of the shadow realm, and has taken on a new visible form (fixes hdos/issues#713)
+- The correct icon in the level up window for prayer has been found in the heavens (fixes hdos/issues#673)
+- Animations within interfaces now tween (fixes hdos/issues#653)
+- The monkey council has banned smoke bombs, you can no longer turn invisible while using a greegree (fixes hdos/issues#675 hdos/issues#676)
+
+
 ## [175] - 2021-3-24
 ### Changed
 - Update cache
