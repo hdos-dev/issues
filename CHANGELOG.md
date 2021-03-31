@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Added
+- New skill: Summoning
+- Drop context cursor
+### Changed
+- Improved the accuracy on context cursors even more (fixes hdos/issues#782)
 
 
 ## [176] - 2021-3-30
