@@ -4,12 +4,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [177] - 2021-4-1
 ### Added
 - New skill: Summoning
 - Drop context cursor
 ### Changed
 - Improved the accuracy on context cursors even more (fixes hdos/issues#782)
-
+- The defend and jab animations for spears and halberds have been improved
 
 ## [176] - 2021-3-30
 ### Added
@@ -131,7 +134,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
         ```
         - Zulrah scales 
         - Magic fang
-        - Tridant of the seas & Tridant of the swamp
+        - Trident of the seas & Trident of the swamp
         - Staff of the dead & Toxic staff of the dead
         - Tanzanite fang
         - Toxic blowpipe
