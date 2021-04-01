@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Fixed
+- The Wizards have cleaned up the Asgarnian Ice Dungeon after an accident underneath their tower (fixes hdos/issues#680)
+- Improved Unsafe Mode for NPCs (fixes hdos/issues#783)
+- Duradel has been so kind as to apply a magical salve to a variety of monsters, which has calmed their animations (fixes hdos/issues#678 hdos/issues#652 hdos/issues#771 hdos/issues#661 hdos/issues#255 hdos/issues#656)
 
 
 ## [177] - 2021-4-1
