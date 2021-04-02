@@ -9,7 +9,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Improved Unsafe Mode for NPCs (fixes hdos/issues#783)
 - Duradel has been so kind as to apply a magical salve to a variety of monsters, which has calmed their animations (fixes hdos/issues#678 hdos/issues#652 hdos/issues#771 hdos/issues#661 hdos/issues#255 hdos/issues#656)
 - Fixed a crash due to corrupt jagex_cl.dat files (it even crashes the official client, go figure)
-- Fix AMD detection when using ATI drivers
+- Fixed AMD detection when using ATI drivers
+### Changed
+- The following weapon animations have been upgraded:
+    ```
+    - Dragon Sword special -> Vesta's Longsword special
+    - Dragon Warhammer special -> Statius' Warhammer special
+    - Abyssal Dagger -> Dragon Dagger (except stab attack)
+    - Elder maul & Abyssal Bludgeon -> Chaotic Maul
+    ```
+- The Dharok's Greataxe running animation has been restored
+- The context cursor for 'Climb' now only shows the ladder cursor on stairs and ladders,
+  in other cases (e.g. climbing rocks) it will show the agility cursor
+- Tweening for some old fire animations has been disabled
 
 ## [177] - 2021-4-1
 ### Added
