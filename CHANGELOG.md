@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+## [178] - 2021-4-3
+### Removed
+- Due to a minor coding error, Summoning has been rescheduled to 2022
 ### Fixed 
 - The Wizards have cleaned up the Asgarnian Ice Dungeon after an accident underneath their tower (fixes hdos/issues#680)
 - Improved Unsafe Mode for NPCs (fixes hdos/issues#783)
@@ -12,16 +16,32 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Fixed AMD detection when using ATI drivers
 ### Changed
 - The following weapon animations have been upgraded:
-    ```
-    - Dragon Sword special -> Vesta's Longsword special
-    - Dragon Warhammer special -> Statius' Warhammer special
-    - Abyssal Dagger -> Dragon Dagger (except stab attack)
-    - Elder maul & Abyssal Bludgeon -> Chaotic Maul
-    ```
+
+    | Affected | Upgraded to |
+    |------|-------|
+    | Dragon Sword (special) | Vesta's Longsword (special) |
+    | Dragon Warhammer (special) | Statius' Warhammer (special) |
+    | Abyssal Dagger | Dragon Dagger (except stab) |
+    | Elder Maul | Chaotic Maul |
+    | Abyssal Bludgeon | Chaotic Maul |
+    | Scythe of Vitur | Generic Spear |
+    
+- The following weapon models have been upgraded: 
+
+    | Affected | Upgraded to |
+    |------|-------|
+    | Zamorakian Hasta    |   Zamorakian Spear   |
+    | Magic Shortbow (i)   |   Magic Shortbow   |
+    | Amulet of glory (5/6) | Amulet of glory |
+    
+
 - The Dharok's Greataxe running animation has been restored
+- The Leaf-bladed sword have been restored
 - The context cursor for 'Climb' now only shows the ladder cursor on stairs and ladders,
   in other cases (e.g. climbing rocks) it will show the agility cursor
 - Tweening for some old fire animations has been disabled
+- Added missing mods to the acknowledgements
+
 
 ## [177] - 2021-4-1
 ### Added
