@@ -4,11 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [179] - 2021-4-14
+### Changed
+- Update protocol to 195
+- The Ivandis Flail has been restored, and subsequently, the Blisterwood Flail has been upgraded
 ### Fixed 
 - Fixed the XP tracker (fixes hdos/issues#7)
-### Changed
-- The Ivandis Flail has been restored, and subsequently, the Blisterwood Flail has been upgraded
-
 
 ## [178] - 2021-4-3
 ### Removed
