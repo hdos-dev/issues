@@ -6,6 +6,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [180] - 2021-4-16
+### Added
+- The `:mog` command is now available to users!  
+This command allows you to change into any NPC in the game!  
+For example: `:mog 3127` will turn you into Jad!  
+A nice free and public database for looking up NPCs is [osrsbox](https://www.osrsbox.com/tools/npc-search/)  
+**Disclaimer: This command is just for fun and is expected to be glitchy and unstable, please do not report any problems**
+### Fixed 
+- Fixed NPCs that were downgraded due to the latest cache update (fixes hdos/issues#790)
+
 ## [179] - 2021-4-14
 ### Changed
 - Update protocol to 195
