@@ -4,6 +4,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Fixed
+- Whip idle animation now works in LMS (fixes hdos/issues#608)
+- The Ancient Doors in the Legend's Quest have been corrected (fixes hdos/issues#670) 
 
 
 ## [180] - 2021-4-16
