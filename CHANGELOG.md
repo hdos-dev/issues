@@ -13,6 +13,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Seren now renders when in HD Mode (fixes hdos/issues#378)
 - Seren environment has been fixed
 - Water near TOB had been upgraded to HD water (fixes hdos/issues#701)
+- Trap door has been restored in Old Man Ral's Hideout (fixes hdos/issues#535)
 
 ## [180] - 2021-4-16
 ### Added
