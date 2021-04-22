@@ -11,6 +11,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - World Map: fix lag when zoomed out (fixes hdos/issues#728)
 - World Map: fix Left click options (fixes hdos/issues#209)
 - Seren now renders when in HD Mode (fixes hdos/issues#378)
+- Seren environment has been fixed
+- Water near TOB had been upgraded to HD water (fixes hdos/issues#701)
 
 ## [180] - 2021-4-16
 ### Added
