@@ -10,6 +10,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - World Map: fix label rendering (fixes hdos/issues#479) 
 - World Map: fix lag when zoomed out (fixes hdos/issues#728)
 - World Map: fix Left click options (fixes hdos/issues#209)
+- Seren now renders when in HD Mode (fixes hdos/issues#378)
 
 ## [180] - 2021-4-16
 ### Added
