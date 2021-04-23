@@ -11,9 +11,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - World Map: fix lag when zoomed out (fixes hdos/issues#728)
 - World Map: fix Left click options (fixes hdos/issues#209)
 - Seren now renders when in HD Mode (fixes hdos/issues#378)
-- Seren environment has been fixed
+- Seren environment has been fixed (fixes hdos/issues#582)
 - Water near TOB had been upgraded to HD water (fixes hdos/issues#701)
 - Trap door has been restored in Old Man Ral's Hideout (fixes hdos/issues#535)
+- Troll Stronghold staircase has been fixed (fixes hdos/issues#401)
+- Windows mode now saves when changed in menu (fixes hdos/issues#663)
+- Lil' Creator pet should now be fixed (fixes hdos/issues#615)
 
 ## [180] - 2021-4-16
 ### Added
