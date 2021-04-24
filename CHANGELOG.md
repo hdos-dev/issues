@@ -4,6 +4,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [181] - 2021-4-23
 ### Fixed
 - Whip idle animation now works in LMS (fixes hdos/issues#608)
 - The Ancient Doors in the Legend's Quest have been corrected (fixes hdos/issues#670) 
@@ -11,6 +14,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - World Map: fix lag when zoomed out (fixes hdos/issues#728)
 - World Map: fix Left click options (fixes hdos/issues#209)
 - Seren now renders when in HD Mode (fixes hdos/issues#378)
+- The Security Guard has decided to give users the key to unlock the gate (fixes hdos/issues#357)
 - Seren environment has been fixed (fixes hdos/issues#582)
 - Water near TOB had been upgraded to HD water (fixes hdos/issues#701)
 - Trap door has been restored in Old Man Ral's Hideout (fixes hdos/issues#535)
