@@ -4,7 +4,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-
+### Fixed
+- Misc. NPC rotations have been fixed (fixes hdos/issues#792)
 
 ## [181] - 2021-4-23
 ### Fixed
