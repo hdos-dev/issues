@@ -10,6 +10,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [182] - 2021-4-26
 ### Fixed
 - Misc. NPC rotations have been fixed (fixes hdos/issues#792)
+- Fix downgrades caused by the latest cache update
 
 ## [181] - 2021-4-23
 ### Fixed
