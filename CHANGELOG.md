@@ -6,8 +6,23 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Removed
 - Removed the `Allocating Memory` loading step (should make startup times faster)
+- Removed the `Idle Logout` feature
 ### Fixed
 - The ground no longer cracks when you use the Dragon Warhammer spec
+### Changed
+- Organized the menu bar UI
+- Hiding interfaces now applies to the login screen (Useful for recording the background)
+### Added
+- The following plugins have been added:
+
+    | Plugin | Description |
+    |------|-------|
+    | Tile Hover | Draws the tile the mouse is hovering |
+    | Tile Click | Draws the tile your player is moving to |
+    | Ground Marker | Draws information about items that are on the ground |
+    | Player Marker | Draws information about players |
+    
+
 
 
 ## [182] - 2021-4-26
