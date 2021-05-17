@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Removed
 - Removed the `Allocating Memory` loading step (should make startup times faster)
 - Removed the `Idle Logout` feature
+- Removed the `Unsafe Mode` feature
 ### Fixed
 - The ground no longer cracks when you use the Dragon Warhammer spec
 ### Changed
