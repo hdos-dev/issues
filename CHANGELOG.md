@@ -4,7 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-
+### Removed
+- Removed the `Allocating Memory` loading step (should make startup times faster)
+### Fixed
+- The ground no longer cracks when you use the Dragon Warhammer spec
 
 
 ## [182] - 2021-4-26
