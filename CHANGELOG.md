@@ -10,9 +10,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Removed the `Unsafe Mode` feature
 ### Fixed
 - The ground no longer cracks when you use the Dragon Warhammer spec
+- Fixed chatheads and other downgrades due to the last cache update
 ### Changed
 - Organized the menu bar UI
 - Hiding interfaces now applies to the login screen (Useful for recording the background)
+- Replace the command prefix with `::` instead of `:` (ex: `::issue` instead of `:issue`)
 ### Added
 - The following plugins have been added:
 
