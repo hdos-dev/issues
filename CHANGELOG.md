@@ -24,6 +24,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
     | Tile Click | Draws the tile your player is moving to |
     | Ground Marker | Draws information about items that are on the ground |
     | Player Marker | Draws information about players |
+
+
+- Plugins now save their settings
     
 
 
