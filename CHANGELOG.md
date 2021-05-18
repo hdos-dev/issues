@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+## [183] - 2021-5-17
 ### Removed
 - Removed the `Allocating Memory` loading step (should make startup times faster)
 - Removed the `Idle Logout` feature
@@ -27,9 +29,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 - Plugins now save their settings
-    
-
-
 
 ## [182] - 2021-4-26
 ### Fixed
