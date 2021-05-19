@@ -5,6 +5,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [184] - 2021-5-19
+### Changed
+- Update protocol to 196
+- Improved "Player Marker" plugin, settings may now change independently
+
 ## [183] - 2021-5-17
 ### Removed
 - Removed the `Allocating Memory` loading step (should make startup times faster)
