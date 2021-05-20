@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+## [185] - 2021-5-20
+### Fixed
+- Player Markers plugin's clan logic has been fixed
+- Player Markers settings will now save
 
 ## [184] - 2021-5-19
 ### Changed
