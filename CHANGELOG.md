@@ -9,6 +9,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - Player Markers plugin's clan logic has been fixed
 - Player Markers settings will now save
+- The scroll texture is no longer upscaled in interfaces
+- HP bars no longer red bar when they are low
 
 ## [184] - 2021-5-19
 ### Changed
