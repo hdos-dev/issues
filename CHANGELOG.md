@@ -6,12 +6,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Added
 - UI Scaling
+### Changed
+- Upgrade `Poll Booth` models
 ### Fixed
-- Player Markers plugin's clan logic has been fixed
-- Player Markers settings will now save
+- Plugin: Player Markers plugin's clan logic has been fixed
+- Plugin: Player Markers settings will now save
+- Plugin: Ground Markers will now account for items that are on top of objects
+- Plugin: Tile Hover and Tile Click no longer randomly hide when in GL mode 
 - The scroll texture is no longer upscaled in interfaces
 - HP bars no longer red bar when they are low
 - Roofing in the barrows chambers has been fixed
+- Dead clicks no longer occur when the Tile Hover plugin is enable
 
 ## [184] - 2021-5-19
 ### Changed
