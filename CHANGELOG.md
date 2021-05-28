@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - UI Scaling
 ### Changed
 - Upgrade `Poll Booth` models
+- The first favorited world now defaults selected on launch.
+    - pvp worlds will are ignored
+    - worlds over 512 won't work due to script limitations
 ### Fixed
 - Plugin: Player Markers plugin's clan logic has been fixed
 - Plugin: Player Markers settings will now save
@@ -17,6 +20,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - HP bars no longer red bar when they are low
 - Roofing in the barrows chambers has been fixed
 - Dead clicks no longer occur when the Tile Hover plugin is enable
+- Scuffed alters have been restored
+- Fixed the path between Lumbridge and Varrock
 
 ## [184] - 2021-5-19
 ### Changed
