@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [186] - 2021-5-28
+### Changed
+__***!!!OPEN BETA!!!***__
+
 ## [185] - 2021-5-27
 ### Added
 - UI Scaling
