@@ -4,10 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [185] - 2021-5-27
 ### Added
 - UI Scaling
 ### Changed
 - Upgrade `Poll Booth` models
+- Scuffed alters have been restored
 - The first favorited world now defaults selected on launch.
     - pvp worlds will are ignored
     - worlds over 512 won't work due to script limitations
@@ -20,7 +24,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - HP bars no longer red bar when they are low
 - Roofing in the barrows chambers has been fixed
 - Dead clicks no longer occur when the Tile Hover plugin is enable
-- Scuffed alters have been restored
+- Possible fix for freezing in linux
 - Fixed the path between Lumbridge and Varrock
 
 ## [184] - 2021-5-19
