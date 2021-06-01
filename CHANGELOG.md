@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Changed
+- The `F-Keys`, `Esc`, and `Space` keys can be used when the chat lock is enabled in the WASD Plugin
 
 ## [187] - 2021-5-28
 ### Fixed
