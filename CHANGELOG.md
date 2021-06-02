@@ -6,6 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Changed
 - The `F-Keys`, `Esc`, and `Space` keys can be used when the chat lock is enabled in the WASD Plugin
+### Fixed
+- Implement the new clan system (fixes hdos/issues#820 hdos/issues#834)
+- Camera zoom now persists (fixes hdos/issues#863)
+- Resolve a bug that would corrupt the jagex_cl.dat files
+- Players can now finally escape Petes Prison! (fixes hdos/issues#181)
+    - Thanks to @Im2Hi2Play#7412 for letting us use his account!
+
 
 ## [187] - 2021-5-28
 ### Fixed
