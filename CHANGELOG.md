@@ -10,20 +10,21 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Added
 - 2FA will now ask if you want to authorize for 30 days or one time
 ### Fixed
-- Chatting within clans now works
+- Chatting within clans now works (fixes hdos/issues#897)
+- Favorite worlds now applies correctly (fixes hdos/issues##826)
 
 ## [188] - 2021-6-2
 ### Changed
 - The `F-Keys`, `Esc`, and `Space` keys can be used when the chat lock is enabled in the WASD Plugin
 - Upgraded the new clan icons in the UI
-    - Thanks to @Adam#9751 for making them, and @Zukitwo#3440 for testing them!
+    - Thanks to `@Adam#9751` for making them, and `@Zukitwo#3440` for testing them!
 ### Fixed
 - Implement the new clan system (fixes hdos/issues#820 hdos/issues#834)
 - Improve dpi-scaling for high resolution displays
 - Camera zoom now persists (fixes hdos/issues#863)
 - Resolve a bug that would corrupt the jagex_cl.dat files
 - Players can now finally escape Petes Prison! (fixes hdos/issues#181)
-    - Thanks to @Im2Hi2Play#7412 for letting us use his account!
+    - Thanks to `@Im2Hi2Play#7412` for letting us use his account!
 - Remove the gap at the bottom of the context menu
 - Father Aereck and Donie have switched back to their correct bodies
 
