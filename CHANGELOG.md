@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Added
 - 2FA will now ask if you want to authorize for 30 days or one time
+### Fixed
+- Chatting within clans now works
 
 
 ## [188] - 2021-6-2
