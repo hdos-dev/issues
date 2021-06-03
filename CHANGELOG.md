@@ -11,7 +11,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - 2FA will now ask if you want to authorize for 30 days or one time
 ### Fixed
 - Chatting within clans now works (fixes hdos/issues#897)
-- Favorite worlds now applies correctly (fixes hdos/issues##826)
+- Favorite worlds now applies correctly (fixes hdos/issues#826)
 
 ## [188] - 2021-6-2
 ### Changed
