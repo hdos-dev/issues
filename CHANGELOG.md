@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Added
+- 2FA will now ask if you want to authorize for 30 days or one time
 
 
 ## [188] - 2021-6-2
