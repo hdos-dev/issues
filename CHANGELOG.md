@@ -7,10 +7,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 ## [190] - 2021-6-5
+### Changed
+- Revert the `Scythe of vitur` attack animation
 ### Fixed
 - Fixed misc crashes
 - The client can now enter HD mode when using Java 16
-- improve highDPI scaling
+- Improve highDPI scaling
 
 ## [189] - 2021-6-2
 ### Added
