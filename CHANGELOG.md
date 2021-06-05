@@ -4,9 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [190] - 2021-6-5
 ### Fixed
 - Fixed misc crashes
-- The client can now enter HD mode when using Java 16+
+- The client can now enter HD mode when using Java 16
+- improve highDPI scaling
 
 ## [189] - 2021-6-2
 ### Added
