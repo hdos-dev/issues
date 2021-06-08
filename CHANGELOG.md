@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Fixed
 - Fix a bug where the buggy sacks near buggie in the kalphite cave would display as a floating tile (fixes hdos/issues#376)
+- The motherlode mine no longer makes the dragon pickaxe cower in fear (fixes hdos/issues#841 hdos/issues#828 hdos/issues#787 hdos/issues#489)
+
 
 ## [190] - 2021-6-5
 ### Changed
