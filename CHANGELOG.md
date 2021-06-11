@@ -4,13 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+## [191] - 2021-6-11
 ### Changed
 - Update the LAF (fixes hdos/issues#419 hdos/issues#620)
 - Restore the Air Guitar animation (fixes hdos/issues#918)
 - The `Verac's flail` idle animation now tweens
 - Upgrade the `Viggora' chainmace` to the `Verac's flail` (excluding attack) (fixes hdos/issues#748)
 - Upgrade the `Agility skillcape` (fixes hdos/issues#395 hdos/issues#907)
-
 ### Fixed
 - Fix a bug where the buggy sacks near buggie in the kalphite cave would display as a floating tile (fixes hdos/issues#376)
 - The motherlode mine no longer makes the dragon pickaxe cower in fear (fixes hdos/issues#841 hdos/issues#828 hdos/issues#787 hdos/issues#489)
