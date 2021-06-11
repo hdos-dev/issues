@@ -6,10 +6,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Changed
 - Update the LAF (fixes hdos/issues#419 hdos/issues#620)
+- Restore the Air Guitar animation (fixes hdos/issues#918)
+- The `Verac's flail` idle animation now tweens
+- Upgrade the `Viggora' chainmace` to the `Verac's flail` (excluding attack) (fixes hdos/issues#748)
+- Upgrade the `Agility skillcape` (fixes hdos/issues#395 hdos/issues#907)
+
 ### Fixed
 - Fix a bug where the buggy sacks near buggie in the kalphite cave would display as a floating tile (fixes hdos/issues#376)
 - The motherlode mine no longer makes the dragon pickaxe cower in fear (fixes hdos/issues#841 hdos/issues#828 hdos/issues#787 hdos/issues#489)
-
+- Performing the spin emote will no longer haunt you with the crafting context cursor (fixes hdos/issues#785)
+- Spells/Item now cancel when you click on a tile (fixes hdos/issues#871)
+- Fix an oversight where unpowered orbs would have the same model colour as air orbs ([this was fixed in 2009](https://runescape.wiki/w/Update:Patch_Notes_(6_May_2009))) 
 
 ## [190] - 2021-6-5
 ### Changed
