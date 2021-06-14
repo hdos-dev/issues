@@ -4,11 +4,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Changed
+- Revert the pickaxe models back the OS style
+- Upgraded the orange `Ket-Zek` in the fight caves (fixes hdos/issues#660)
+### Fixed
+- Excluded the `Basilisk Knight` attack from tweening and should no longer twirl (fixes hdos/issues#184)
+- Excluded the `Mogre` death animation from tweening (fixes hdos/issues#299)
+
 
 ## [191] - 2021-6-11
 ### Changed
 - Update the LAF (fixes hdos/issues#419 hdos/issues#620)
-- Restore the Air Guitar animation (fixes hdos/issues#918)
+- Restore the `Air Guitar` animation (fixes hdos/issues#918)
 - The `Verac's flail` idle animation now tweens
 - Upgrade the `Viggora' chainmace` to the `Verac's flail` (excluding attack) (fixes hdos/issues#748)
 - Upgrade the `Agility skillcape` (fixes hdos/issues#395 hdos/issues#907)
