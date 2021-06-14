@@ -13,7 +13,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Excluded the `Basilisk Knight` attack from tweening and should no longer twirl (fixes hdos/issues#184)
 - Excluded the `Mogre` death animation from tweening (fixes hdos/issues#299)
 
-
 ## [191] - 2021-6-11
 ### Changed
 - Update the LAF (fixes hdos/issues#419 hdos/issues#620)
