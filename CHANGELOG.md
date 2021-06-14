@@ -7,6 +7,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Changed
 - Revert the pickaxe models back the OS style
 - Upgraded the orange `Ket-Zek` in the fight caves (fixes hdos/issues#660)
+- Upgraded health bars to HD (fixes hdos/issues#320 hdos/issues#788)
+- Improved texture upscaling slightly
 ### Fixed
 - Excluded the `Basilisk Knight` attack from tweening and should no longer twirl (fixes hdos/issues#184)
 - Excluded the `Mogre` death animation from tweening (fixes hdos/issues#299)
