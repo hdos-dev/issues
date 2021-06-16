@@ -4,14 +4,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+## [192] - 2021-6-16
 ### Changed
+- Update protocol to 197
 - Revert the pickaxe models back the OS style
 - Upgraded the orange `Ket-Zek` in the fight caves (fixes hdos/issues#660)
 - Upgraded health bars to HD (fixes hdos/issues#320 hdos/issues#788)
 - Improved texture upscaling slightly
+- Improved bloom on the `Twisted Bow`
 ### Fixed
 - Excluded the `Basilisk Knight` attack from tweening and should no longer twirl (fixes hdos/issues#184)
 - Excluded the `Mogre` death animation from tweening (fixes hdos/issues#299)
+- Various NPCs can no longer go stiff (fixes hdos/issues#587 hdos/issues#700)
 
 ## [191] - 2021-6-11
 ### Changed
