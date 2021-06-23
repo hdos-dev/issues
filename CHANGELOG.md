@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [194] - 2021-6-23
+### Fixed
+- Fix the chatbox (fixes hdos/issues#942)
+- Fix the chatbox color settings
+
 ## [193] - 2021-6-23
 ### Fixed
 - Fixed some checker flooring (fixes hdos/issues#928)
