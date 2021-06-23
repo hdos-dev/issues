@@ -4,9 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [193] - 2021-6-23
 ### Fixed
 - Fixed some checker flooring (fixes hdos/issues#928)
 - Fixed gargoyle animations (untextured death is intended for now) (fixes hdos/issues#786)
+- Fix the chatbox
 
 ## [192] - 2021-6-16
 ### Changed
