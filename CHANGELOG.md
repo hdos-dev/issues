@@ -4,7 +4,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-
+### Fixed
+- Overhead messages now last the standard time before vanishing (fixes hdos/issues#940)
+- Fix misc. crashes
 
 ## [194] - 2021-6-23
 ### Fixed
