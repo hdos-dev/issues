@@ -4,9 +4,23 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Changed
+- Restored Shilo Village (fixes hdos/issues#930)
+- Restored Law Altar (fixes hdos/issues#908)
+- ```::dark``` now has a second parameter (1 to 100) to adjust the brightness ex.(::dark 75) (fixes hdos/issues#875)
+- The eat animation has been restored (fixes hdos/issues#639)
+- The Graceful top and bottom are now using the Agile models (rest soon to be done) (fixes hdos/issues#936)
 ### Fixed
+- Fix the camera zoom when in HD mode (fixes hdos/issues#163 hdos/issues#537 hdos/issues#640 hdos/issues#795 hdos/issues#801 hdos/issues#818)
+- Thordur's Blackholes are darker than ever (fixes hdos/issues#880 hdos/issues#155)
+- Message's first letter is now capitalized (fixes hdos/issues#835)
+- Goblins in Lumbridge basement now are longer on hover boards (fixes hdos/issues#806)
+- The wheat field in Catherby has been fixed up (fixes hdos/issues#862)
+- Watered seedlings/saplings should now have the correct item sprite (fixes hdos/issues#860)
+- Fluffy's Kitten finally decided to stop hiding inside a book (fixes hdos/issues#622 hdos/issues#919)
 - Overhead messages now last the standard time before vanishing (fixes hdos/issues#940)
 - Fix misc. crashes
+
 
 ## [194] - 2021-6-23
 ### Fixed
