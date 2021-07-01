@@ -10,6 +10,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - ```::dark``` now has a second parameter (1 to 100) to adjust the brightness ex.(::dark 75) (fixes hdos/issues#875)
 - The eat animation has been restored (fixes hdos/issues#639)
 - The Graceful top and bottom are now using the Agile models (rest soon to be done) (fixes hdos/issues#936)
+- The infernal axe is now represented by the inferno adze (fixes hdos/issues#929)
 ### Fixed
 - Fix the camera zoom when in HD mode (fixes hdos/issues#163 hdos/issues#537 hdos/issues#640 hdos/issues#795 hdos/issues#801 hdos/issues#818)
 - Thordur's Blackholes are darker than ever (fixes hdos/issues#880 hdos/issues#155)
@@ -20,7 +21,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Fluffy's Kitten finally decided to stop hiding inside a book (fixes hdos/issues#622 hdos/issues#919)
 - Overhead messages now last the standard time before vanishing (fixes hdos/issues#940)
 - Fix misc. crashes
-
+- Fixed all issues at tempeross (fixes hdos/issues#931 hdos/issues#927)
+- Bandage tables are now back in soul wars (fixes hdos/issues#838 hdos/issues#665)
+- Repaired the signs outside seers (fixes hdos/issues#808)
+- Removed random light from man house in Edgeville (fixes hdos/issues#878)
+- Fix audio and brightness settings (fixes hdos/issues#950)
 
 ## [194] - 2021-6-23
 ### Fixed
