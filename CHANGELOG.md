@@ -4,8 +4,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-- Fixed the troll npc animations within the Pinball random event (fixes hdos/issues#954) 
 
+
+## [196] - 2021-7-28
+### Changed
+- Update protocol to 198
+### Fixed
+- Fixed the troll npc animations within the Pinball random event (fixes hdos/issues#954)
+- Address downgraded assets from recent cache updates
+- Fix brightness in SD mode
 
 ## [195] - 2021-7-1
 ### Changed
