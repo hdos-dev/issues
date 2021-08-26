@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [198] - 2021-8-25
+### Fixed
+- Chat messages now work as expected
+- Fix tutorial island crashing
+
 ## [197] - 2021-8-25
 ### Changed
 - Update protocol to 199
