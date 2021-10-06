@@ -4,10 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [199] - 2021-10-6
+### Changed
+- Update protocol to 200
 ### Fixed
 - HD Chatbox
 - Misc. crashes
-
 
 ## [198] - 2021-8-25
 ### Fixed
