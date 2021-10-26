@@ -5,6 +5,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+
+## [201] - 2021-10-25
+### Fixed
+- The in-game brightness setting is no longer backwards
+- Steam plugins no longer appear
+- Searching in the settings windows has been fixed/improved
+- Fixed chatheads and other downgrades due to the last cache update
+- Fix GIM chat icons
+
 ## [200] - 2021-10-6
 ### Fixed
 - GIM clans now work
