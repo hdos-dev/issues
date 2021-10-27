@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Fixed
+- Client reconnection no longer kicks you to the login screen
 
 
 ## [201] - 2021-10-25
