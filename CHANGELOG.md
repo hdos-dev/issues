@@ -6,6 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [205] - 2021-12-16
+### Changed
+- Fix camera animation
+- Fix random lag spikes around populated areas
+- Fix downgrades from latest update
+- Touchup Falador a bit
+
 ## [204] - 2021-12-9
 ### Changed
 - Update protocol to 202
