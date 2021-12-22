@@ -6,6 +6,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [206] - 2021-12-22
+### Changed
+**NEW CLIENT**
+- rewrote the old fixed function rendering pipeline to use GL3.2 core
+- unlocked the clients tick rate, and frame rate
+- added multi-threading
+- improve performance by orders of magnitude
+- migrate from JOGL to LWJGL
+
 ## [205] - 2021-12-16
 ### Changed
 - Fix camera animation
