@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [209] - 2021-12-23
+### Fixed
+- fix 32 bit support
+### Changed
+- improve compatibility with older graphics cards
+
 ## [208] - 2021-12-23
 ### Fixed
 - remove verbose debug
