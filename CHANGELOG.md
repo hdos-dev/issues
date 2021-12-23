@@ -4,14 +4,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [207] - 2021-12-23
+### Changed
+- extend click distance
+- `::slowmo` updated to go even more slow, moe.
 ### Fixed
 - fix 2fa login timeout
-- fix camera arrow rotation rates at lower fps targets
+- fix keyboard rotation rates at lower fps targets
 - fix animations at lower at lower fps targets
-
-### Changed
-- `::slowmo` updated to go even more slow, moe.
-
+- fix rotation shaking at higher fps targets
+- improve compatibility with older graphics cards
+- crash fixes
 
 ## [206] - 2021-12-22
 ### Changed
