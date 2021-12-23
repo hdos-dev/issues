@@ -9,6 +9,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - fix camera arrow rotation rates at lower fps targets
 - fix animations at lower at lower fps targets
 
+### Changed
+- `::slowmo` updated to go even more slow, moe.
+
 
 ## [206] - 2021-12-22
 ### Changed
