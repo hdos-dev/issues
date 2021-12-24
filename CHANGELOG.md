@@ -4,12 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-
+### Fixed
+- improve compatibility with older graphics cards
 
 ## [209] - 2021-12-23
 ### Fixed
-- fix 32 bit support
-### Changed
+- fix 32 bit support 
 - improve compatibility with older graphics cards
 
 ## [208] - 2021-12-23
