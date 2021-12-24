@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [211] - 2021-12-24
+### Changed
+- upgrade LWJGL to 3.3.0
+- reduce the minimal GL requirement to 3.1 to support older cards
+### Fixed
+- add support for macOS/arm64
+- fix crashes and bugs
+
 ## [210] - 2021-12-24
 ### Fixed
 - improve compatibility with older graphics cards
