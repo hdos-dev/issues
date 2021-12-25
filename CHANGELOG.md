@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [212] - 2021-12-25
+### Added
+- add `::uiscale` command (ex: `::uiscale 100` == 100% (normal))
+### Fixed
+- fix resizing issues on mac
+- fix music fading between tracks
+- reduce memory usage and improve startup performance
+
 ## [211] - 2021-12-24
 ### Changed
 - upgrade LWJGL to 3.3.0
