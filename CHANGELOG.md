@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Changed
+- updated crash screen
 
 
 ## [212] - 2021-12-25
@@ -13,8 +15,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - fix resizing issues on mac
 - fix music fading between tracks
 - reduce memory usage and improve startup performance
-### Changed
-- updated crash screen
 
 ## [211] - 2021-12-24
 ### Changed
