@@ -6,8 +6,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
-
-
 ## [213] - 2021-12-25
 ### Changed
 - updated crash screen
