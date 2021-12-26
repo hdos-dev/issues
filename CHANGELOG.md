@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [215] - 2021-12-26
+### Added
+- gl internal error reporting
+### Fixed
+- improve performance on macos
+- fix actor shadows and overheads from disappearing when the right click menu is open
 
 ## [214] - 2021-12-26
 ### Fixed
