@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [216] - 2021-12-26
+### Changed
+- refine the crash screen
+- set the launcher to validate resources on boot
+### Fixed
+- disable full screen on mac, use undecorated window frames to help fix resizing problems.
+- the game engine will attempt to fully shutdown on crash
+
 ## [215] - 2021-12-26
 ### Added
 - gl internal error reporting
