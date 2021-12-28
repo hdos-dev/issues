@@ -4,7 +4,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-
+### Fixed
+- fix mac full screen and resizing
+- fix known crashes
 
 ## [216] - 2021-12-26
 ### Changed
