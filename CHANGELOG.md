@@ -4,10 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [218] - 2021-12-30
 ### Fixed
 - fix gim chat mode
 - Drag delay plugin (the higher the delay, the sooner it's considered not dragging)
-
 
 ## [217] - 2021-12-28
 ### Fixed
