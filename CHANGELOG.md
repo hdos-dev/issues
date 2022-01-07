@@ -4,6 +4,41 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Changed
+- #### Full Audio Restore!
+
+    Thanks to `@RS Orchestra#9880` the audio restore is now fully completed!  
+    We were missing some tracks, jingles, and patches before, but thanks to
+    his _Orchestration_, it's now completed in all of its glory! Many tracks and
+    audio may sound higher quality and richer. Audio is one of those details
+    that really helps bring everything together and gives a more fuller experience.
+    Some tracks he personally touched up on:
+    - Armadyl Alliance
+    - Armageddon
+    - Autumn Voyage
+    - Bandos Battalion
+    - Barb Wire
+    - Castle Wars
+    - Coil (Remixed)
+    - Dream
+    - Garden
+    - Harmony
+    - Iban
+    - Ice and Fire (Remixed)
+    - Medieval
+    - Ready for Battle
+    - Scape Main
+    - Shine
+    - Still Night
+    - Strength of Saradomin
+    - The Ancient Prison (Zaros Stirs)
+    - Zamorak Zoo
+    - Zaros Zeitgeist
+
+
+
+
+    
 
 
 ## [219] - 2022-1-5
