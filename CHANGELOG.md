@@ -13,13 +13,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
     Many tracks and audio may sound higher quality and richer.  
     Audio is one of those details that really helps bring everything together and gives a more fuller experience.  
     Some tracks he personally touched up on:  
+    - Arboretum
     - Armadyl Alliance
     - Armageddon
     - Autumn Voyage
     - Bandos Battalion
     - Barb Wire
+    - Bloodbath
     - Castle Wars
     - Coil (Remixed)
+    - Darkmeyer
     - Dream
     - Garden
     - Harmony
@@ -29,9 +32,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
     - Ready for Battle
     - Scape Main
     - Shine
+    - Soul Wars
     - Still Night
     - Strength of Saradomin
     - The Ancient Prison (Zaros Stirs)
+    - The Enclave (Command Centre)
+    - The Waiting Game
+    - Upir Likhyi (Remix)
+    - Vanescula (Vanescula Fight)
     - Zamorak Zoo
     - Zaros Zeitgeist
 
