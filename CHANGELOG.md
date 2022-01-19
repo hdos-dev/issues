@@ -4,10 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Added
+- restored directional sound
 ### Fixed
 - animations no longer stall in the last keyframe before looping
 ### Changed
 - Misc. textures have been tweaked slightly
+- Santa's imps have gone back home
 - #### Full Audio Restore!
 
     Thanks to `@RS Orchestra#9880` the audio restore is now fully completed!  
