@@ -8,6 +8,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - restored directional sound
 ### Fixed
 - animations no longer stall in the last keyframe before looping
+- fix chat heads
+- fix up misc. assets in GWD
 ### Changed
 - Misc. textures have been tweaked slightly
 - Santa's imps have gone back home
