@@ -13,6 +13,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Changed
 - Misc. textures have been tweaked slightly
 - Santa's imps have gone back home
+- Flying (ex: knock back) is now smoother
 - #### Full Audio Restore!
 
     Thanks to `@RS Orchestra#9880` the audio restore is now fully completed!  
