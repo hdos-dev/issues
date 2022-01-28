@@ -5,15 +5,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Added
-- restored directional sound
+- **Added particle support!**
+- Restored directional sound
 ### Fixed
-- animations no longer stall in the last keyframe before looping
-- fix chat heads
-- fix up misc. assets in GWD
+- Animations no longer stall in the last keyframe before looping
+- Fix chat heads
+- Fix up misc. assets in GWD
+- The mouse cross now appears when using items and spells on objects
 ### Changed
 - Misc. textures have been tweaked slightly
 - Santa's imps have gone back home
 - Flying (ex: knock back) is now smoother
+- Reduced the volume for the bird flapping animations
 - #### Full Audio Restore!
 
     Thanks to `@RS Orchestra#9880` the audio restore is now fully completed!  
