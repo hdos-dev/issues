@@ -6,8 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Added
 - **Added particle support!**
+- **Added billboard support!**
 - Restored directional sound
 ### Fixed
+- **Animations are now smoother!** (fix timing bug that was causing micro-stuttering in-between frames)
 - Animations no longer stall in the last keyframe before looping
 - Fix chat heads
 - Fix up misc. assets in GWD
@@ -17,9 +19,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Santa's imps have gone back home
 - Flying (ex: knock back) is now smoother
 - Reduced the volume for the bird flapping animations
-- #### Full Audio Restore!
+- #### Full Music Restore!
 
-    Thanks to `@RS Orchestra#9880` the audio restore is now fully completed!  
+    Thanks to `@RS Orchestra#9880` the music restore is now fully completed!  
     We were missing some tracks, jingles, and patches before, but thanks to
     his _Orchestration_, it's now completed in all of its glory!  
     Many tracks and audio may sound higher quality and richer.  
