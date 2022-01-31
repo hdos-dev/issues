@@ -14,6 +14,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Fix chat heads
 - Fix up misc. assets in GWD
 - The mouse cross now appears when using items and spells on objects
+- Player and NPC shadows now render on the correct floor when on bridges and overpasses
 ### Changed
 - Misc. textures have been tweaked slightly
 - Santa's imps have gone back home
