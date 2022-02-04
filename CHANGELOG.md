@@ -17,6 +17,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Player and npc shadows now render on the correct floor when on bridges and overpasses
 - Shadows for large npcs now properly animate
 - Shadows no longer clip into the terrain and objects on the floor
+- Improve the render order for ground items so its more aligned with the OS behavior
 ### Changed
 - Misc. textures have been tweaked slightly
 - Santa's imps have gone back home
