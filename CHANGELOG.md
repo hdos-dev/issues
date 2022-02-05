@@ -8,6 +8,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - **Added particle support!**
 - **Added billboard support!**
 - Restored directional sound
+- Restored the "Blow Kiss" animation
+- Restored Halos
 ### Fixed
 - **Animations are now smoother!** (fix timing bug that was causing micro-stuttering in-between frames)
 - Animations no longer stall in the last keyframe before looping
