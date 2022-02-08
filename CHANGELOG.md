@@ -5,6 +5,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Added
+- **Nex has been restored!**
 - **Added particle support!**
 - **Added billboard support!**
 - Restored directional sound
@@ -20,11 +21,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Shadows for large npcs now properly animate
 - Shadows no longer clip into the terrain and objects on the floor
 - Improve the render order for ground items so its more aligned with the OS behavior
+- Health bars now fade at the proper rate
+- Fixed an apparent bug in the model color pallet which removed a range of colors.
+  Most notable color being black, which has been turning into gray.
 ### Changed
 - Misc. textures have been tweaked slightly
 - Santa's imps have gone back home
 - Flying (ex: knock back) is now smoother
 - Reduced the volume for the bird flapping animations
+- Improve region loading performance
 - #### Full Music Restore!
 
     Thanks to `@RS Orchestra#9880` the music restore is now fully completed!  
