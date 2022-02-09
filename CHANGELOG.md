@@ -36,6 +36,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Flying (ex: knock back) is now smoother
 - Reduced the volume for the bird flapping animations
 - Improve region loading performance
+
 - #### Full Music Restore!
 
     Thanks to `@RS Orchestra#9880` the music restore is now fully completed!  
