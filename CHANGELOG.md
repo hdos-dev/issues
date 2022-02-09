@@ -22,10 +22,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Shadows no longer clip into the terrain and objects on the floor
 - Improve the render order for ground items so its more aligned with the OS behavior
 - Health bars now fade at the proper rate
-- Fixed an apparent bug in the model color pallet which removed a range of colors
+- Fixed an apparent bug in the model color pallet which removed a range of colors.
   Most notable color being black, which has been turning into gray
 - Fix the oil spill tainting some waters in Gielinor
 ### Changed
+- Update protocol to 203
 - Misc. textures have been tweaked slightly
 - Santa's imps have gone back home
 - Flying (ex: knock back) is now smoother
