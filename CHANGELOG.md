@@ -4,8 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [222] - 2022-2-13
 ### Fixed
 - fix floor underlays textures that became hard to see (ex: tzhaar)
+- fix shader compilation crashing in some specific cards
+- refine pallet correction fix from the v220
+- improve rendering for item piles that are on top of objects
 
 ## [221] - 2022-2-9
 ### Fixed
