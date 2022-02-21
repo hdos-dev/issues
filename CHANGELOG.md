@@ -4,7 +4,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-
+### Fixed
+- Launcher: lower max heap size within the jar launcher for 32 bit operating systems 
+  to help mitigate a silent GL_OUT_OF_MEMORY error, which would cause black screens.
 
 ## [222] - 2022-2-13
 ### Fixed
