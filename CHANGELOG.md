@@ -10,7 +10,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - Launcher: lower max heap size within the jar launcher for 32 bit operating systems 
   to help mitigate a silent GL_OUT_OF_MEMORY error, which would cause black screens.
-- Fix assets that were downgraded from the previous updates (ex: Golbins, Bob)
+- Fix assets that were downgraded from the previous updates (ex: Goblins, Bob)
 - Fix overhead clipping issues when in fixed mode
 - At long last: Overhead bars no longer randomly draw in the top left corner!
 
