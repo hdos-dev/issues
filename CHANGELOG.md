@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - HD songs should no longer be abruptly stopped before they finish (fixes hdos/issues#1006)
 
 
+
 ## [223] - 2022-2-23
 ### Fixed
 - Launcher: lower max heap size within the jar launcher for 32 bit operating systems 
