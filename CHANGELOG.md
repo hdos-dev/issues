@@ -7,6 +7,29 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - Fix occasional JVM crash before the crash screen opens (oh my)
 - HD songs should no longer be abruptly stopped before they finish (fixes hdos/issues#1006)
+### Changed
+- The following music tracks have been restored/remastered (thanks to @RS Orchestra#9880)
+    - Arboretum
+    - Bait (Conspiracy: Part 2)
+    - Bloodbath
+    - Catacombs and Tombs
+    - Conspiracy (Conspiracy: Part 1)
+    - Darkmeyer
+    - Don't Panic Zanik
+    - Duel Arena
+    - Dusk in Yu'biusk
+    - Horizon
+    - Leagues 3 Intro Cutscene
+    - Rising Damp
+    - Soul Wars
+    - Temple of Tribes
+    - The Enclave (Command Centre)
+    - The Waiting Game
+    - Upir Likhyi (Remix)
+    - Vanescula (Vanescula Fight)
+    - Zanik's Theme
+
+
 
 
 
