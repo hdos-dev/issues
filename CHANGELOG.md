@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Fix occasional JVM crash before the crash screen opens (oh my)
 - HD songs should no longer be abruptly stopped before they finish (fixes hdos/issues#1006)
 ### Changed
-- The following music tracks have been restored/remastered (thanks to @RS Orchestra#9880)
+- The following music tracks have been restored/remastered (thanks to `@RS Orchestra#9880`)
     - Arboretum
     - Bait (Conspiracy: Part 2)
     - Bloodbath
