@@ -4,9 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+
+## [224] - 2022-2-27
 ### Fixed
 - Fix occasional JVM crash before the crash screen opens (oh my)
 - HD songs should no longer be abruptly stopped before they finish (fixes hdos/issues#1006)
+- Fix known crashes
 ### Changed
 - The following music tracks have been restored/remastered (thanks to `@RS Orchestra#9880`)
     - Arboretum
@@ -28,9 +33,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
     - Upir Likhyi (Remix)
     - Vanescula (Vanescula Fight)
     - Zanik's Theme
-
-
-
 
 
 ## [223] - 2022-2-23
