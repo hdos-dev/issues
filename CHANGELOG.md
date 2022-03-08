@@ -7,6 +7,60 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 
+## [225] - 2022-3-8
+### Fixed
+- Fix ChatHeads that were downgraded in the latest update
+### Changed
+- Added Staccato Strings to Bank 5
+- Added Custom "TzHaar" Drums to Bank 6
+- The following music tracks have been restored/remixed (thanks to `@RS Orchestra#9880`)
+    - Adventure
+    - Assault and Battery
+    - Attack 1
+    - Attack 5
+    - Attention
+    - Bane (Bane of Summer)
+    - Baroque
+    - Cave of Beasts
+    - Clan Wars
+    - Distant Land
+    - Easter Jig
+    - Emperor
+    - Expanse
+    - Expecting
+    - Fanfare
+    - Gnome Village
+    - H.A.M. Attack
+    - Have an Ice Day
+    - Impetuous
+    - Inadequacy
+    - Inferno (Remix)
+    - Itsy Bitsy...
+    - Jaws of the Basilisk (Jaws of the Dagannoth)
+    - Lair of the Basilisk (Lair of Kang Admi)
+    - Long Ago
+    - Newbie Melody
+    - Pirates of Penance
+    - Rune Essence
+    - Scape Santa
+    - Scape Soft
+    - Shining Spirit
+    - Showdown
+    - Sojourn
+    - Soundscape
+    - Splendour
+    - Tears of Guthix
+    - The Power of Tears
+    - Theme
+    - Tomorrow
+    - Too Many Cooks...
+    - Tremble
+    - Undead Dungeon
+    - Upcoming
+    - Venture 2
+    - Wander
+
+
 ## [224] - 2022-2-27
 ### Fixed
 - Fix occasional JVM crash before the crash screen opens (oh my)
