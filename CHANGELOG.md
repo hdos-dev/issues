@@ -11,6 +11,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - Fix ChatHeads that were downgraded in the latest update
 ### Changed
+- Remastered the title screen (login) sprites (thanks to `@DemHunter#7191`)
+  - Improved image quality, and cleaning up aliasing and artifacts from compression.
 - Added Staccato Strings to Bank 5
 - Added Custom "TzHaar" Drums to Bank 6
 - The following music tracks have been restored/remixed (thanks to `@RS Orchestra#9880`)
