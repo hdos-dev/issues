@@ -7,6 +7,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 
+## [226] - 2022-3-23
+### Changed
+- Update protocol to 204
+
 ## [225] - 2022-3-8
 ### Fixed
 - Fix ChatHeads that were downgraded in the latest update
