@@ -4,9 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [227] - 2022-3-30
+### Added
+- Remaster the `Abyssal whip (or)` from Leagues3 (Thanks to `@Maximax#1897`)
 ### Fixed
 - Fix particle rendering when UI scaling is active
-
 
 ## [226] - 2022-3-23
 ### Changed
