@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [228] - 2022-4-10
+### Fixed
+- Fix crashing at GOTR (fixes hdos/issues#1036)
+
 ## [227] - 2022-3-30
 ### Added
 - Remaster the `Abyssal whip (or)` from Leagues3 (Thanks to `@Maximax#1897`)
