@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [230] - 2022-4-20
+### Fixed
+- Fix alching
+- Fix login screen background
+
 ## [229] - 2022-4-20
 ### Fixed
 - Fix inventory (fixes hdos/issues#1043)
