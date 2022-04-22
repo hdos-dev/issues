@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [231] - 2022-4-22
+### Fixed
+- Fix interaction breaking from the recent cold fix
+- Fix broken chatheads :^)
+
 ## [230] - 2022-4-20
 ### Fixed
 - Fix alching
