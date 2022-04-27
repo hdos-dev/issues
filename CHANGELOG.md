@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [232] - 2022-4-27
+### Fixed
+- Partial fix for the Beneath Cursed Sands game update.  
+  Beneath Cursed Sands might cause crashes -- full fix will be out in a few hours
 
 ## [231] - 2022-4-22
 ### Fixed
