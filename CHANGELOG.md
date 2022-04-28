@@ -8,12 +8,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [234] - 2022-4-28
 **PLUGINS BATCH 1**  
-Plugins voted for in batch 1 have been added.
-- All plugins and settings are now accessed through the **In Game Settings**.
-- The `Quick Settings` window allows you to edit plugins settings while in combat, it is access via **Double tapping shift**
-- Plugin overlays (including the `Quick Settings`) can be resize, dragged and dropped to and from the sidebar. 
+Plugins voted for in batch 1 have been added
+- All plugins and settings are now accessed through the _In Game Settings_
+- The `Quick Settings` window allows you to edit plugins settings while in combat, it is access via _Double tapping shift_
+- Plugin overlays (including the `Quick Settings`) can be resize, dragged and dropped to and from the sidebar.
 ### Changed
-- Migrate and upgrade all existing plugins to be inside the game.
+- Migrate and upgrade all existing plugins to be inside the game
 - `Rough Walls` are now easier to click
 - Remaster the title screen background (static image)
 - The default FPS for the client is now set to 500 (from 100)
