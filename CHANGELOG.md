@@ -34,28 +34,27 @@ Plugins voted for in batch 1 have been added
 - Low and High alch animation
 ### Added
 - **The graphics settings within the login screen now exist within the game settings under the `Display` tab**
-- Shrink the initial game frame size when in fixed mode (to remove black space around the client)
 #### Plugins
-- Boosts Information
-- Clue Scroll Helper
-- Ground Items
-- Loot Tracker
-- Menu Entry Swapper
-- Puzzle Solver
-- Green Screen
-- Quick Settings
-- Tile Indicator
-- Entity Hider
-- Anti Drag
-- Player Indicators
-- Door Kicker
-- Agility
-- Quest Helper
-- FPS Debug
-- Transmog
-- Skybox
-- Camera
-- Slowmo
+  - Boosts Information
+  - Clue Scroll Helper
+  - Ground Items
+  - Loot Tracker
+  - Menu Entry Swapper
+  - Puzzle Solver
+  - Green Screen
+  - Quick Settings
+  - Tile Indicator
+  - Entity Hider
+  - Anti Drag
+  - Player Indicators
+  - Door Kicker
+  - Agility
+  - Quest Helper
+  - FPS Debug
+  - Transmog
+  - Skybox
+  - Camera
+  - Slowmo
 ### Fixed
 - Right-Click menu `Walk-here`
 - The `Esc` key for the closing the Settings UI
@@ -69,15 +68,15 @@ Plugins voted for in batch 1 have been added
 - Improve min size and UI scaling limits
 - Fortify update detection (cold updates)
 #### Graphical Fixes
-- Fix Fog depth
-- Fix particles sizes when using x8 and x16 AA
-- Fix particles sizes when using UI scaling
-- Fix a bug on some GPUs that caused the water to turn green
-- Fix the quest tab icon from overflowing
-- Fix player shadows from rendering over players
-- Fix cannon shadow flickering
-- Improve rendering performance for dynamic shadows
-- Fix player rotation shaking (ex: dancing)
+  - Fix Fog depth
+  - Fix particles sizes when using x8 and x16 AA
+  - Fix particles sizes when using UI scaling
+  - Fix a bug on some GPUs that caused the water to turn green
+  - Fix the quest tab icon from overflowing
+  - Fix player shadows from rendering over players
+  - Fix cannon shadow flickering
+  - Improve rendering performance for dynamic shadows
+  - Fix player rotation shaking (ex: dancing)
 
 
 ## [233] - 2022-4-27
