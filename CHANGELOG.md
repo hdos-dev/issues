@@ -6,9 +6,83 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [234] - 2022-4-28
+**PLUGINS BATCH 1**  
+Plugins voted for in batch 1 have been added.
+- All plugins and settings are now accessed through the **In Game Settings**.
+- The `Quick Settings` window allows you to edit plugins settings while in combat, it is access via **Double tapping shift**
+- Plugin overlays (including the `Quick Settings`) can be resize, dragged and dropped to and from the sidebar. 
+### Changed
+- Migrate and upgrade all existing plugins to be inside the game.
+- `Rough Walls` are now easier to click
+- Remaster the title screen background (static image)
+- The default FPS for the client is now set to 500 (from 100)
+#### Restored
+- Restored/Backported:
+- Soul wars cape
+- Dragon defender
+- Ardougne cloak 1-4
+- Falador shield 1-4
+- Fremennik sea boots 1-4
+- Karamja gloves 4
+- Explorer's ring 1-4
+- Varrock armour 1-4
+- Max Cape (Completionist cape)
+- Ancient teleport
+- Lunar Teleport
+- Superheat Item spell
+- Low and High alch animation
+### Added
+- **The graphics settings within the login screen now exist within the game settings under the `Display` tab**
+- Shrink the initial game frame size when in fixed mode (to remove black space around the client)
+#### Plugins
+- Boosts Information
+- Clue Scroll Helper
+- Ground Items
+- Loot Tracker
+- Menu Entry Swapper
+- Puzzle Solver
+- Green Screen
+- Quick Settings
+- Tile Indicator
+- Entity Hider
+- Anti Drag
+- Player Indicators
+- Door Kicker
+- Agility
+- Quest Helper
+- FPS Debug
+- Transmog
+- Skybox
+- Camera
+- Slowmo
+### Fixed
+- Right-Click menu `Walk-here`
+- The `Esc` key for the closing the Settings UI
+- Fix the `Hide Roofs` setting
+- Player notifications messages (logged in/out) now clear after 10 seconds
+- Improve safe mode (disables settings if it detects the client failed to boot)
+- Fix a long standing bug randomly causing users to no longer be able to type
+- Fix Cerberus rotation bug
+- Fix world map spin rate and minimap hint arrows
+- Fix the bank and other UIs when the client is down-clocked (< 50 FPS target)
+- Improve min size and UI scaling limits
+- Fortify update detection (cold updates)
+#### Graphical Fixes
+- Fix Fog depth
+- Fix particles sizes when using x8 and x16 AA
+- Fix particles sizes when using UI scaling
+- Fix a bug on some GPUs that caused the water to turn green
+- Fix the quest tab icon from overflowing
+- Fix player shadows from rendering over players
+- Fix cannon shadow flickering
+- Improve rendering performance for dynamic shadows
+- Fix player rotation shaking (ex: dancing)
+
+
 ## [233] - 2022-4-27
 ### Fixed
--  Fix the water
+- Fix the water
 
 ## [232] - 2022-4-27
 ### Fixed
