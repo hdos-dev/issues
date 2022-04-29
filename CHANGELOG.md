@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+
+## [235] - 2022-4-28
+### Fixed
+- Fixed known crashes
+- Fix max cape restore
+
 ## [234] - 2022-4-28
 **PLUGINS BATCH 1**  
 Plugins voted for in batch 1 have been added
