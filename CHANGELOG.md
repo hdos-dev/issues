@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [236] - 2022-4-28
 ### Fixed
 - Actually fix the max cape `:^)`
+- Fixed fullscreen on macOS
 
 ## [235] - 2022-4-28
 ### Fixed
