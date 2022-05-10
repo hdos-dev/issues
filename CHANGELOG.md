@@ -4,6 +4,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [237] - 2022-5-10
 ### Changes
 - Refactor plugin backend (fixes misc. quirks)
 ### Added
@@ -12,6 +15,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Restore LMS Dragon Defender
 ### Fixed
 - Fixed fullscreen on macOS
+- Fixed misc. crashes
 
 ## [236] - 2022-4-28
 ### Fixed
