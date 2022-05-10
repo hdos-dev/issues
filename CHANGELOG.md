@@ -4,12 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Changes
+- Refactor plugin backend (fixes misc. quirks)
+### Added
+- Add Anisotropic Filtering (Display settings)
+- Bank pin plugin
+- Restore LMS Dragon Defender
 ### Fixed
 - Fixed fullscreen on macOS
-### Added
-- Restore LMS Dragon Defender
-- Bank pin plugin
-
 
 ## [236] - 2022-4-28
 ### Fixed
