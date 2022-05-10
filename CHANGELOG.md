@@ -4,15 +4,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Fixed
+- Fixed fullscreen on macOS
+### Added
+- Restore LMS Dragon Defender
+- Bank pin plugin
 
 
 ## [236] - 2022-4-28
 ### Fixed
 - Actually fix the max cape `:^)`
-- Fixed fullscreen on macOS
-### Added
-#### Plugins
-- Bank pin plugin
 
 ## [235] - 2022-4-28
 ### Fixed
