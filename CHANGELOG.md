@@ -6,6 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [240] - 2022-5-14
+### Fixed
+- Fix invisible NPCs
+- Fix rendering artifacts for Macbooks running integrated graphics.
+- Partial fix for a very random and strange bug in newer AMD cards (ex: RX 590, RX 5600). 
+  Restarting multiple times will eventually work.
+
 ## [239] - 2022-5-12
 ### Fixed
 - Update protocol to 205
