@@ -4,9 +4,52 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-### Fixed
+
+## [241] - 2022-6-09
+### Fixes
+- Add numpad keys to bank pin plugin (fixes hdos/issues#1062)
+- Fix main settings window not opening after world hop (fixes hdos/issues#1055)
+- Fix "Use" MES swaps (fixes hdos/issues#1060)
+- The bank no longer closes when searching after using Quick Settings search
+- Fix inaccurate actor rotations (fixes hdos/issues#1059)
 - Fix invisible balloons in the prison pete random event
-- Fix inaccurate actor rotations
+### Changes
+- Restore `Elite Void` and `Amulet of fury (or)`
+- Fix atmosphere for the `Giants' Foundry`
+- Quick Settings search can now be closed using the `Tab` key
+#### Audio Improvements (thanks to `@RS Orchestra#9880`)
+- Polished up several instruments: Patches 0-9, 44-49, and 60.
+- Added realistic Timpani (Patch 687) and French Horns (Patch 700) to Bank 5.
+- The following audio have been remastered:
+  - Guardians of the Rift - Failure (Jingle)
+  - Guardians of the Rift - Success (Jingle)
+  - Sleeping Giants - Quest Complete (Jingle)
+  - Delrith
+  - Wally the Hero
+  - Cain's Tutorial
+  - Penguin Plots
+  - Sorceress's Garden
+  - Dogfight
+  - Brain Battle
+  - Awful Anthem
+  - Crest of a Wave
+  - Eye of the Storm
+  - The Sinclairs
+  - The Adventurer (Unlisted)
+  - The Foundry
+  - Drunken Dwarf
+  - Mined Out
+  - The Guardians Prepare
+  - Temple of the Eye
+  - Guardians of the Rift
+  - Venomous
+  - Dunes of Eternity
+  - The Pharaoh
+  - The Forgotten Tomb
+  - Ruins of Isolation
+  - Thrall of the Devourer
+  - The Gates of Menaphos
+  - The Spymaster
 
 ## [240] - 2022-5-14
 ### Fixed
