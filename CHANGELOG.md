@@ -7,6 +7,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - (Audio) `The Guardians Prepare`: Fixed the sustain control so notes don't drag on for a long time
 
+## [242] - 2022-6-15
+### Fixed
+- Update protocol to 206
+
+
 ## [241] - 2022-6-09
 ### Fixes
 - Add numpad keys to bank pin plugin (fixes hdos/issues#1062)
