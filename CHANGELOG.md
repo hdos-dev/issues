@@ -4,8 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+## [242] - 2022-6-15
 ### Fixed
-- (Audio) `The Guardians Prepare`: Fixed the sustain control so notes don't drag on for a long time
+- Update protocol to 206
 
 ## [241] - 2022-6-09
 ### Fixes
