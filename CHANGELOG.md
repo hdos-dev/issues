@@ -4,26 +4,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-### Added
-- Extended render distance
-- Region filtering
-- Seamless region loading
-- Extended npcs
-### Changes
-- Improve performance (peek performance by 60% in some cases)
 ### Fixed
 - (Audio) `The Guardians Prepare`: Fixed the sustain control so notes don't drag on for a long time
-
-
-## [244] - 2022-6-17
-### Fixed
-- Fix known crashes
-
-## [243] - 2022-6-17
-### Fixes
-- The bank no longer closes when closing Quick Settings in the middle of searching
-- Improve interaction detection for large entities (fixes hdos/issues#1041)
-
 
 ## [242] - 2022-6-15
 ### Fixed
