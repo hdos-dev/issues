@@ -15,6 +15,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - (Audio) `The Guardians Prepare`: Fixed the sustain control so notes don't drag on for a long time
 
 
+## [244] - 2022-6-17
+### Fixed
+- Fix known crashes
+
 ## [243] - 2022-6-17
 ### Fixes
 - The bank no longer closes when closing Quick Settings in the middle of searching
