@@ -15,6 +15,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - (Audio) `The Guardians Prepare`: Fixed the sustain control so notes don't drag on for a long time
 
 
+
+## [245] - 2022-6-21
+### Changed
+- Improve UI scaling (fixes hdos/issues#876)
+- Add a Quick Settings toggle to the top Toolbar
+### Fixed
+- Fixed clan members not updating when they join/leave
+- Fix known crashes
+- Fix MES (fixes hdos/issues#1104)
+- Quick Settings now opens properly when in fixed mode, with the sidebar closed
+- WASD camera no longer triggers when searching within Quick Settings
+- Fix the bank search from closing when Quick Settings search is active
+
 ## [244] - 2022-6-17
 ### Fixed
 - Fix known crashes
@@ -27,6 +40,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [242] - 2022-6-15
 ### Fixed
 - Update protocol to 206
+
 
 ## [241] - 2022-6-09
 ### Fixes
