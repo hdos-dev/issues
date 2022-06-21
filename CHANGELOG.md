@@ -15,6 +15,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - (Audio) `The Guardians Prepare`: Fixed the sustain control so notes don't drag on for a long time
 
 
+## [247] - 2022-6-21
+### Fixed
+- Fixed Item switching when changing tabs (Fixes g-maul switches)
+
 ## [246] - 2022-6-21
 ### Fixed
 - Fix interaction when using UI scaling
