@@ -14,6 +14,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - (Audio) `The Guardians Prepare`: Fixed the sustain control so notes don't drag on for a long time
 
+
+
+## [250] - 2022-6-22
+### Changes
+- Anti-Drag now only applies to items
+### Fixes
+- Fix known crashes
+- Create a fallback for "sync error" faults
+- Fix internal GL error notification
+
 ## [249] - 2022-6-22
 ### Changed
 - Removed the "quest helper" joke plugin
