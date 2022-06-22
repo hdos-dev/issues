@@ -14,6 +14,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - (Audio) `The Guardians Prepare`: Fixed the sustain control so notes don't drag on for a long time
 
+## [249] - 2022-6-22
+### Changed
+- Removed the "quest helper" joke plugin
+### Fixed
+- Update broadcasting now clearly states it's from HDOS
+- Added the ability to change your height while using freecam / occulus orb
+- The default anti-drag settings have been corrected
+
 ## [248] - 2022-6-21
 ### Changed
 - Added update broadcasting
