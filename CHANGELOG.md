@@ -17,6 +17,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 
+## [251] - 2022-6-23
+### Fixes
+- Fix `OutOfMemoryError` (:smiwe:)
 
 ## [250] - 2022-6-22
 ### Changes
@@ -25,6 +28,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Fix known crashes
 - Create a fallback for "sync error" faults
 - Fix internal GL error notification
+- Fix HD chatheads
 
 ## [249] - 2022-6-22
 ### Changed
