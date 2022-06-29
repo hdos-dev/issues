@@ -11,8 +11,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Added
 - Extended render distance
-- Region filtering (Beta)
 - Seamless region loading
+- Region filtering (Beta)
 - Extended npcs (Beta)
 - Add a `Support` link to the Help menu on the top menu bar
 ### Changes
@@ -27,7 +27,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Camera shake speed (fixes hdos/issues#1026)
 - Middle mouse expected behavior on components (fixes hdos/issues#1134)
 - Fix the camera plugin from disabling
-- Middle mouse expected behavior on components (fixes hdos/issues#660)
+- Fixed the orange Ket-Zek (fixes hdos/issues#660)
 
 
 
