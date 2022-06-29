@@ -8,7 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Ground markers
 - Discord presence
 
-## [Unreleased]
+
+
+## [252] - 2022-6-29
 ### Added
 - Extended render distance
 - Seamless region loading
@@ -28,8 +30,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Middle mouse expected behavior on components (fixes hdos/issues#1134)
 - Fix the camera plugin from disabling
 - Fixed the orange Ket-Zek (fixes hdos/issues#660)
-
-
 
 ## [251] - 2022-6-23
 ### Fixes
