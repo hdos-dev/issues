@@ -21,11 +21,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Restore The Crafting guild and Make over Mage buildings (fixes hdos/issues#1090)
 - Restore Falador church (fixes hdos/issues#373)
 - Restore Falador farm
+- Restore various npcs, such as Mutated bloodvelds
 ### Fixed
 - (Audio) `The Guardians Prepare`: Fixed the sustain control so notes don't drag on for a long time
 - Camera shake speed (fixes hdos/issues#1026)
 - Middle mouse expected behavior on components (fixes hdos/issues#1134)
 - Fix the camera plugin from disabling
+- Middle mouse expected behavior on components (fixes hdos/issues#660)
 
 
 
