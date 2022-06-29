@@ -30,6 +30,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Middle mouse expected behavior on components (fixes hdos/issues#1134)
 - Fix the camera plugin from disabling
 - Fixed the orange Ket-Zek (fixes hdos/issues#660)
+- Fixed several bugs related to todays game update
 
 ## [251] - 2022-6-23
 ### Fixes
