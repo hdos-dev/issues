@@ -10,10 +10,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Seamless region loading
 - Extended npcs (Beta)
 - Add a `Support` link to the Help menu on the top menu bar
+- Extended npcs
+- Ground markers
+- Discord presence
 ### Changes
-- Improve performance (2x peek performance in some cases)
+- Improve performance (2x peak performance in some cases)
+- Restore The Warriors' guild 
+- Restore The Crafting guild and Make over Mage buildings (fixes hdos/issues#1090)
+- Restore Falador church (fixes hdos/issues#373)
 ### Fixed
 - (Audio) `The Guardians Prepare`: Fixed the sustain control so notes don't drag on for a long time
+- Camera shake speed (fixes hdos/issues#1026)
+- Middle mouse expected behavior on components (fixes hdos/issues#1134)
 - Fix the camera plugin from disabling
 
 
