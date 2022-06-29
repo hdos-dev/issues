@@ -18,6 +18,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Restore The Warriors' guild 
 - Restore The Crafting guild and Make over Mage buildings (fixes hdos/issues#1090)
 - Restore Falador church (fixes hdos/issues#373)
+- Restore Falador farm
 ### Fixed
 - (Audio) `The Guardians Prepare`: Fixed the sustain control so notes don't drag on for a long time
 - Camera shake speed (fixes hdos/issues#1026)
