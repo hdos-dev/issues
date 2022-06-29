@@ -5,14 +5,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Added
+- Ground markers
+- Discord presence
+
+## [Unreleased]
+### Added
 - Extended render distance
 - Region filtering (Beta)
 - Seamless region loading
 - Extended npcs (Beta)
 - Add a `Support` link to the Help menu on the top menu bar
-- Extended npcs
-- Ground markers
-- Discord presence
 ### Changes
 - Improve performance (2x peak performance in some cases)
 - Restore The Warriors' guild 
