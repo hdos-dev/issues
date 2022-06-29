@@ -6,11 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Added
 - Extended render distance
-- Region filtering
+- Region filtering (Beta)
 - Seamless region loading
-- Extended npcs
+- Extended npcs (Beta)
+- Add a `Support` link to the Help menu on the top menu bar
 ### Changes
-- Improve performance (peek performance by 60% in some cases)
+- Improve performance (2x peek performance in some cases)
 ### Fixed
 - (Audio) `The Guardians Prepare`: Fixed the sustain control so notes don't drag on for a long time
 - Fix the camera plugin from disabling
