@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Discord presence
 - True tile markers are now available in the "Tile markers" plugin.
 - Idle notifier
+- Metronome plugin
 - ### Fixed
 - Fixed known crashed
 
