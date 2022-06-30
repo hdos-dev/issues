@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Fixed
 - Npc interaction now works when character shadows are disabled (fixes hdos/issues#1145)
+- Improve click boxes (fixes hdos/issues#923 hdos/issues#1103 hdos/issues#1106)
 
 
 ## [254] - 2022-6-29
