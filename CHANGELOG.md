@@ -16,7 +16,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Region filtering: fix known areas that were being cutoff
 - Quick settings no longer flashes when hopping in fixed mode, or closing the main settings window (if it was docked)
 - Fix pixel artifacts that would accumulate in fixed mode
-- Fix npc rotation (fixes hdos/issues#1089 hdos/issues#1112 hdos/issues#1135)
+- Fix actor rotation (fixes hdos/issues#1089 hdos/issues#1112 hdos/issues#1135)
 #### Plugins
 - Ground markers: now work in instances (fixes hdos/issues#1146)
 - Idle notifier: fix known bugs (fixes hdos/issues#923)
