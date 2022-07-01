@@ -17,6 +17,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Anti-drag now respects the shift key modifier
 - Fixed an issue where you could not use both hover tile, and true tile at the same time (fixes hdos/issues#1156)
 - Many known crashes have been fixed
+- Fix the welcome message within the lobby (spinning runes)
+- Fix login freezing problems
 
 
 ## [254] - 2022-6-29
