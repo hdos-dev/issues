@@ -20,7 +20,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Agility: All obstacles should now have their clickbox rendering properly (fixes hdos/issues#1049)
 - Anti-drag: fix the shift key modifier
 - Tile indicator: fixed an issue where you could not use both hover tile, and true tile at the same time (fixes hdos/issues#1156)
-
+- Player indicator: no longer marks your own player
 
 
 ## [254] - 2022-6-29
