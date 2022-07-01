@@ -5,20 +5,22 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Fixed
-- Npc interaction now works when character shadows are disabled (fixes hdos/issues#1145)
-- Improve click boxes (fixes hdos/issues#923 hdos/issues#1103 hdos/issues#1106)
+- Fix known crashes
 - Fix broken context cursors
-- Zezima is not longer the default display name within the discord presence plugin
-- Improve region filtering (fix areas that were cutoff)
-- Ground markers now work in instances (fixes hdos/issues#1146)
-- Known bugs with idle notifier have been fixed (fixes hdos/issues#923)
-- Discord plugin now works as expected in f2p
-- The door to COX now has a full size clickbox  (fixes hdos/issues#683)
-- Anti-drag now respects the shift key modifier
-- Fixed an issue where you could not use both hover tile, and true tile at the same time (fixes hdos/issues#1156)
-- Many known crashes have been fixed
 - Fix the welcome message within the lobby (spinning runes)
-- Fix login freezing problems
+- Improve click boxes (fixes hdos/issues#923 hdos/issues#1103 hdos/issues#1106)
+- Npc interaction now works when character shadows are disabled (fixes hdos/issues#1145)
+- The door to COX now has a full size clickbox  (fixes hdos/issues#683)
+- Region filtering: fix areas that were cutoff
+#### Plugins
+- Ground markers: now work in instances (fixes hdos/issues#1146)
+- Idle notifier: fix known bugs (fixes hdos/issues#923)
+- Discord: the plugin now works as expected in f2p
+- Discord: Zezima is not longer the default display name within the discord presence plugin
+- Agility: All obstacles should now have their clickbox rendering properly
+- Anti-drag: fix the shift key modifier
+- Tile indicator: fixed an issue where you could not use both hover tile, and true tile at the same time (fixes hdos/issues#1156)
+
 
 
 ## [254] - 2022-6-29
