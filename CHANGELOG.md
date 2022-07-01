@@ -17,7 +17,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Idle notifier: fix known bugs (fixes hdos/issues#923)
 - Discord: the plugin now works as expected in f2p
 - Discord: Zezima is not longer the default display name within the discord presence plugin
-- Agility: All obstacles should now have their clickbox rendering properly
+- Agility: All obstacles should now have their clickbox rendering properly (fixes hdos/issues#1049)
 - Anti-drag: fix the shift key modifier
 - Tile indicator: fixed an issue where you could not use both hover tile, and true tile at the same time (fixes hdos/issues#1156)
 
