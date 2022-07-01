@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Improve click boxes (fixes hdos/issues#923 hdos/issues#1103 hdos/issues#1106)
 - Fix broken context cursors
 - Zezima is not longer the default display name within the discord presence plugin
+- Improve region filtering (fix areas that were cutoff)
 
 
 ## [254] - 2022-6-29
