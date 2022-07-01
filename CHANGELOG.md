@@ -14,8 +14,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Npc interaction now works when character shadows are disabled (fixes hdos/issues#1145)
 - The door to COX now has a full size clickbox  (fixes hdos/issues#683)
 - Region filtering: fix known areas that were being cutoff
-- Quick settings no longer flashes when hopping in fixed mode (if it was docked)
+- Quick settings no longer flashes when hopping in fixed mode, or closing the main settings window (if it was docked)
 - Fix pixel artifacts that would accumulate in fixed mode
+- Fix npc rotation (fixes hdos/issues#1089 hdos/issues#1112 hdos/issues#1135)
 #### Plugins
 - Ground markers: now work in instances (fixes hdos/issues#1146)
 - Idle notifier: fix known bugs (fixes hdos/issues#923)
