@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Changes
+- Refine settings names, descriptors, and search tags
 ### Fixed
 - Fix known crashes
 - Fix broken context cursors
@@ -11,7 +13,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Improve click boxes (fixes hdos/issues#923 hdos/issues#1103 hdos/issues#1106)
 - Npc interaction now works when character shadows are disabled (fixes hdos/issues#1145)
 - The door to COX now has a full size clickbox  (fixes hdos/issues#683)
-- Region filtering: fix areas that were cutoff
+- Region filtering: fix known areas that were being cutoff
 - Quick settings no longer flashes when hopping in fixed mode (if it was docked)
 - Fix pixel artifacts that would accumulate in fixed mode
 #### Plugins
