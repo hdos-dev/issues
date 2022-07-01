@@ -10,6 +10,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Fix broken context cursors
 - Zezima is not longer the default display name within the discord presence plugin
 - Improve region filtering (fix areas that were cutoff)
+- Ground markers now work in instances (fixes hdos/issues#1146)
+- Known bugs with idle notifier have been fixed (fixes hdos/issues#923)
+- Discord plugin now works as expected in f2p
+- The door to COX now has a full size clickbox  (fixes hdos/issues#683)
+- Anti-drag now respects the shift key modifier
+- Many known crashes have been fixed
 
 
 ## [254] - 2022-6-29
