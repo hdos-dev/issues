@@ -4,8 +4,6 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-
-## [255] - 2022-7-1
 ### Changes
 - Refine settings names, descriptors, and search tags
 ### Fixed
