@@ -4,6 +4,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [255] - 2022-7-1
 ### Changes
 - Refine settings names, descriptors, and search tags
 ### Fixed
@@ -26,7 +29,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Anti-drag: fix the shift key modifier
 - Tile indicator: fixed an issue where you could not use both hover tile, and true tile at the same time (fixes hdos/issues#1156)
 - Player indicator: no longer marks your own player
-
 
 ## [254] - 2022-6-29
 ### Added
