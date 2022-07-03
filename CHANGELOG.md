@@ -7,6 +7,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - Fix lightbox solution rendering
 
+#### Plugins
+- Fixed a crash with the occulus orb plugin
+
 ## [256] - 2022-7-2
 ### Changes
 - Improve title screen npc movement
@@ -133,6 +136,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - Update protocol to 206
 
+#### Plugins
+- Fixed a crash with the occulus orb plugin
 
 ## [241] - 2022-6-09
 ### Fixes
