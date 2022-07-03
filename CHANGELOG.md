@@ -45,7 +45,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - True tile markers are now available in the "Tile markers" plugin.
 - Idle notifier
 - Metronome plugin
-- ### Fixed
+### Fixed
 - Fixed known crashed
 
 ## [253] - 2022-6-29
