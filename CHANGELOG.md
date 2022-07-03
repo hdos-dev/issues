@@ -11,6 +11,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Improve title screen npc movement
 ### Fixed
 - Fixed UI rendering for older GPUs
+- Fixed object examine
 
 ## [255] - 2022-7-1
 ### Changes
