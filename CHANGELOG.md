@@ -5,10 +5,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Fixed
-- Fix lightbox solution rendering
 - Fix known crashes
-- Fix ground item dots not rendering on the minimap (fixes hdos/issues#1176)
 - Fix lobby screen freezing
+- Fix lightbox solution rendering
+- Fix ground item dots not rendering on the minimap (fixes hdos/issues#1176)
+- Improve region filtering and npc wandering ranges
+
 
 ## [256] - 2022-7-2
 ### Changes
