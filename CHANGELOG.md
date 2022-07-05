@@ -6,7 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Fixed
 - Fix lightbox solution rendering
-
+- Fix known crashes
+- Fix ground item dots not rendering on the minimap (fixes hdos/issues#1176)
 #### Plugins
 - Fixed a crash with the occulus orb plugin
 
