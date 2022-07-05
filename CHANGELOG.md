@@ -8,8 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Fix lightbox solution rendering
 - Fix known crashes
 - Fix ground item dots not rendering on the minimap (fixes hdos/issues#1176)
-#### Plugins
-- Fixed a crash with the occulus orb plugin
+- Fix lobby screen freezing
 
 ## [256] - 2022-7-2
 ### Changes
