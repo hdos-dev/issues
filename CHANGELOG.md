@@ -4,13 +4,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+
+## [257] - 2022-7-5
 ### Fixed
 - Fix known crashes
 - Fix lobby screen freezing
 - Fix lightbox solution rendering
 - Fix ground item dots not rendering on the minimap (fixes hdos/issues#1176)
 - Improve region filtering and extended npc wandering ranges
-
 
 ## [256] - 2022-7-2
 ### Changes
