@@ -9,7 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Fix lobby screen freezing
 - Fix lightbox solution rendering
 - Fix ground item dots not rendering on the minimap (fixes hdos/issues#1176)
-- Improve region filtering and npc wandering ranges
+- Improve region filtering and extended npc wandering ranges
 
 
 ## [256] - 2022-7-2
