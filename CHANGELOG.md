@@ -4,7 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-
+### Added
+- Tile Marker: Add a option to mark the menu destination
+### Fixed
+- Fix the "Walk here" option when used from the right click menu
 
 ## [260] - 2022-7-6
 ### Fixed
