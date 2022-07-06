@@ -4,7 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-
+### Fixed
+- The tunnels in Meiyerditch have been corrected (fixes hdos/issues#1155)  
+- The Vyrewatch have regained their flexibility and no longer T-pose(fixes hdos/issues#1154)  
+- The reclaim pet interface is now fully functional (fixes hdos/issues#1119)
+#### Plugins
+- Added an option to draw the true tile, even if the render position matches the server position (fixes hdos/issues#1168)
 
 
 ## [257] - 2022-7-5
