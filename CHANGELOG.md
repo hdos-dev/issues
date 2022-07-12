@@ -5,9 +5,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Added
-- Tile Marker: Add a option to mark the menu destination
+- Plugin: FPS (adjustable overlay)
+- Plugin: Key Remapping
 ### Fixed
 - Fix the "Walk here" option when used from the right click menu
+### Added
+- Tile Marker: Add a option to mark the menu destination
+- Camera Plugin: Add customizable keys
+
 
 ## [260] - 2022-7-6
 ### Fixed
