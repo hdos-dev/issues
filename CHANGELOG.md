@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Plugin: Key Remapping
 ### Fixed
 - Fix the "Walk here" option when used from the right click menu
+- The chat lock now automatically re-locks once a message is typed (fixes hdos/issues#1222)
 ### Added
 - Tile Marker: Add a option to mark the menu destination
 - Camera Plugin: Add customizable keys
