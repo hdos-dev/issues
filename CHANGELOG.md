@@ -4,16 +4,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-### Added
-- Plugin: FPS (adjustable overlay)
-- Plugin: Key Remapping
+### Changes
+- Restored the floor, and lighting in the Chaos Tunnel
+
 ### Fixed
 - Fix the "Walk here" option when used from the right click menu
 - The chat lock now automatically re-locks once a message is typed (fixes hdos/issues#1222)
-### Added
-- Tile Marker: Add a option to mark the menu destination
-- Camera Plugin: Add customizable keys
+- Box traps now look correct in the inventory (fixes hdos/issues#589)
 
+- #### Plugins
+- Tile Marker: Add an option to mark the menu destination
+- Tile Marker: Destination tile now has a smooth transition
+- Camera: Add customizable keys
+- FPS: FPS (adjustable overlay)
+- Added: Key Remapping
 
 ## [260] - 2022-7-6
 ### Fixed
