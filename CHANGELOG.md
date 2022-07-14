@@ -6,21 +6,25 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Changes
 - Restored the floor, and lighting in the Chaos Tunnel
+- Restore Dragonbone necklace
 ### Fixed
 - Fix the "Walk here" option when used from the right click menu
 - The chat lock now automatically re-locks once a message is typed (fixes hdos/issues#1222)
 - Box traps now look correct in the inventory (fixes hdos/issues#589)
+- Improve region filtering and extended npcs (fixes hdos/issues#1224)
+- Fix destination tile from appearing far away (fixes hdos/issues#1204)
 #### Plugins
+- Added: Key Remapping
+- Camera: Move key remapping to the new Key Remapping plugin, and allow for customizable keys
 - Tile Marker: Add an option to mark the menu destination
 - Tile Marker: Destination tile now has a smooth transition
-- Camera: Add customizable keys
-- FPS: FPS (adjustable overlay)
-- Added: Key Remapping
+- FPS Debug: Rename to just FPS, and allow the FPS meter to be adjustable
+- MES: Fixed swap from duel arena to pvp arena
 ### Launcher (v8)
-- Add DLL Blocking
-- Fix windows snapping
-- Fix black borders
+- Add DLL Blocking (thanks to RL/Adam for the help)
+- Windows launchers: fix window snapping, and black borders
 - Remove proxy request on networking errors
+
 
 ## [260] - 2022-7-6
 ### Fixed
