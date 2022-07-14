@@ -6,18 +6,21 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Changes
 - Restored the floor, and lighting in the Chaos Tunnel
-
 ### Fixed
 - Fix the "Walk here" option when used from the right click menu
 - The chat lock now automatically re-locks once a message is typed (fixes hdos/issues#1222)
 - Box traps now look correct in the inventory (fixes hdos/issues#589)
-
-- #### Plugins
+#### Plugins
 - Tile Marker: Add an option to mark the menu destination
 - Tile Marker: Destination tile now has a smooth transition
 - Camera: Add customizable keys
 - FPS: FPS (adjustable overlay)
 - Added: Key Remapping
+### Launcher (v8)
+- Add DLL Blocking
+- Fix windows snapping
+- Fix black borders
+- Remove proxy request on networking errors
 
 ## [260] - 2022-7-6
 ### Fixed
