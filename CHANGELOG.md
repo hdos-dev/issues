@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+
+## [261] - 2022-7-14
 ### Changes
 - Restored the floor, and lighting in the Chaos Tunnel
 - Restore Dragonbone necklace
@@ -24,7 +28,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Add DLL Blocking (thanks to RL/Adam for the help)
 - Windows launchers: fix window snapping, and black borders
 - Remove proxy request on networking errors
-
 
 ## [260] - 2022-7-6
 ### Fixed
