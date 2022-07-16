@@ -5,7 +5,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
-
+## [262] - 2022-7-14
+### Fixed
+- Remove WIP plugins
 
 ## [261] - 2022-7-14
 ### Changes
