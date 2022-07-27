@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [264] - 2022-7-14
+- Restored Entrana (and its dungeon)
 
 ## [263] - 2022-7-14
 ### Changes
