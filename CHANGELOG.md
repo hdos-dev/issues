@@ -6,16 +6,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
-## [264] - 2022-7-14
+## [264] - 2022-7-27
 - Restored Entrana (and its dungeon)
 
-## [263] - 2022-7-14
+## [263] - 2022-7-27
 ### Changes
 - Update protocol to 207
 ### Fixed
 - Key remapping: disable remapping when inputs are present (fixes hdos/issues#1232)
 
-## [262] - 2022-7-14
+## [262] - 2022-7-15
 ### Fixed
 - Remove WIP plugins
 
