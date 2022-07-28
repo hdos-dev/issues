@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
-## [265] - 2022-7-14
+## [265] - 2022-7-28
 ### Changes
 - Restored Yanille (fixes hdos/issues#276 hdos/issues#363 hdos/issues#592 hdos/issues#1142)
 - Restored the Lighthouse and Lighthouse Dungeon (fixes hdos/issues#1042)
