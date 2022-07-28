@@ -6,16 +6,23 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
-## [264] - 2022-7-27
+## [265] - 2022-7-14
+### Changes
+- Restored Yanille (fixes hdos/issues#276 hdos/issues#363 hdos/issues#592 hdos/issues#1142)
+- Restored the Lighthouse and Lighthouse Dungeon (fixes hdos/issues#1042)
+- Restored Fight Arena
+
+## [264] - 2022-7-14
+### Changes
 - Restored Entrana (and its dungeon)
 
-## [263] - 2022-7-27
+## [263] - 2022-7-14
 ### Changes
 - Update protocol to 207
 ### Fixed
 - Key remapping: disable remapping when inputs are present (fixes hdos/issues#1232)
 
-## [262] - 2022-7-15
+## [262] - 2022-7-14
 ### Fixed
 - Remove WIP plugins
 
