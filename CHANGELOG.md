@@ -4,7 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-
+### Changes
+- Restored the Imbued slayer helmet with the Full slayer helmet
+- Restored mining rocks globally (some rocks will look off, this is intentional until those areas get restored by hand)
+- Fixed a gap in the beach by the east coast of yanille
+#### Audio (thanks to `@RS Orchestra#9880`)
+- Reverted the Celesta instrument patch back to fix issues with several tracks
+- Added Bechstein 280 Piano to Patch 640 (Bank 5, Preset 0)
+- Song of the Elves (Reorchestrated Remix)
 
 ## [265] - 2022-7-28
 ### Changes
