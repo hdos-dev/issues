@@ -7,6 +7,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Changes
 - Restored the Imbued slayer helmet with the Full slayer helmet
 - Restored mining rocks globally (some rocks will look off, this is intentional until those areas get restored by hand)
+- Restored dragons
+- Truely restored the dragon pickaxe (animations and inventory icon)
 - Fixed a gap in the beach by the east coast of yanille
 #### Audio (thanks to `@RS Orchestra#9880`)
 - Reverted the Celesta instrument patch back to fix issues with several tracks
