@@ -12,6 +12,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Restored mining rocks globally (some rocks will look off, this is intentional until those areas get restored by hand)
 - Restored dragons
 - Truly restored the dragon pickaxe (animations and inventory icon)
+- Improve texture mapping for common trees
 #### Audio (thanks to `@RS Orchestra#9880`)
 - Reverted the Celesta instrument patch back to fix issues with several tracks
 - Added Bechstein 280 Piano to Patch 640 (Bank 5, Preset 0)
