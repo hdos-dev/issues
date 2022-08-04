@@ -7,12 +7,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - Fixed a gap in the beach by the east coast of yanille
 - Fixed rotated RSC fence texture (fixes hdos/issues#1228)
+- Fix support for addressing 64 bit GPU memory addresses
 ### Changes
 - Restored the Imbued slayer helmet with the Full slayer helmet
 - Restored mining rocks globally (some rocks will look off, this is intentional until those areas get restored by hand)
 - Restored dragons
+- Restored bears
 - Truly restored the dragon pickaxe (animations and inventory icon)
 - Improve texture projection for common trees
+- The gem rocks in Shilo Village no longer turn brown when depleted
+- The depleted version of the infernal axe is now mapped to the inferno adze
 #### Audio (thanks to `@RS Orchestra#9880`)
 - Reverted the Celesta instrument patch back to fix issues with several tracks
 - Added Bechstein 280 Piano to Patch 640 (Bank 5, Preset 0)
