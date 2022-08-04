@@ -4,7 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+
+## [266] - 2022-8-4
 ### Fixed
+- Fixed downgrades from this weeks game update
 - Fixed a gap in the beach by the east coast of yanille
 - Fixed rotated RSC fence texture (fixes hdos/issues#1228)
 - Fixed an issue where the client would stop allocating more VRAM above a certain threshold (high stress on the client no longer causes it to crash unexpectedly)
@@ -21,7 +26,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Reverted the Celesta instrument patch back to fix issues with several tracks
 - Added Bechstein 280 Piano to Patch 640 (Bank 5, Preset 0)
 - Song of the Elves (Reorchestrated Remix)
-
 
 ## [265] - 2022-7-28
 ### Changes
