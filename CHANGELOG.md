@@ -7,7 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - Fixed a gap in the beach by the east coast of yanille
 - Fixed rotated RSC fence texture (fixes hdos/issues#1228)
-- Fix support for addressing 64 bit GPU memory addresses
+- Fixed an issue where the client would stop allocating more VRAM above a certain threshold (high stress on the client no longer causes it to crash unexpectedly)
 ### Changes
 - Restored the Imbued slayer helmet with the Full slayer helmet
 - Restored mining rocks globally (some rocks will look off, this is intentional until those areas get restored by hand)
@@ -21,6 +21,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Reverted the Celesta instrument patch back to fix issues with several tracks
 - Added Bechstein 280 Piano to Patch 640 (Bank 5, Preset 0)
 - Song of the Elves (Reorchestrated Remix)
+
 
 ## [265] - 2022-7-28
 ### Changes
