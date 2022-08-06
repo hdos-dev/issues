@@ -4,7 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-
+### Fixed
+- Fixed the remastered tinted hit splats
+### Changed
+- Increased the contrast between normal and tinted hitsplats described above to improve differentiation between the two
+- Remastered the max-hitsplat (adapted the 2011 style to match 2009 style)
 
 
 ## [266] - 2022-8-4
