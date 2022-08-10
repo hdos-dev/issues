@@ -4,12 +4,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [267] - 2022-10-8
 ### Fixed
 - Fixed the remastered tinted hit splats
-### Changed
+- Refine extended npc
+### Changes
+- Restored Varrock (fixes hdos/issues#642 hdos/issues#796 hdos/issues#868)
+- Restored Port Khazard
 - Increased the contrast between normal and tinted hitsplats described above to improve differentiation between the two
 - Remastered the max-hitsplat (adapted the 2011 style to match 2009 style)
-
 
 ## [266] - 2022-8-4
 ### Fixed
