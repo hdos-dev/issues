@@ -7,6 +7,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 ## [267] - 2022-10-8
+### Added
+- Add Attack Styles plugin
 ### Fixed
 - Fixed the remastered tinted hit splats
 - Refine extended npc
