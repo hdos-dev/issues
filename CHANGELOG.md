@@ -7,6 +7,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - Fixed black artifacts (grass and flags) in M1 GPUs
 - Fixed long loading times when entering/exiting full screen on MacOS
+- Fixed flicking issues on some UIs in MacOS (fixes hdos/issues#1275)
+
 
 ## [267] - 2022-10-8
 ### Added
