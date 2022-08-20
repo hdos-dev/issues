@@ -4,7 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-
+### Fixed
+- Paterdormus' library has been renovated, and is no longer cursed when hide roofs is toggled off (fixes hdos/issues#1277)
+- You can no longer sink through Canifis' rooftop agility course, and should once again be functional (fixes hdos/issues#1281)
+### Changes
+- Paterdormus' library atmosphere has been improved
 
 ## [268] - 2022-15-8
 ### Fixed
