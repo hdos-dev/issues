@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - You can no longer sink through Canifis' rooftop agility course, and should once again be functional (fixes hdos/issues#1281)
 ### Changes
 - Paterdormus' library atmosphere has been improved
+- All variants of the Soul Wars capes have been restored
 
 ## [268] - 2022-15-8
 ### Fixed
