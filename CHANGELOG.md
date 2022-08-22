@@ -4,12 +4,42 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+
+
+## [269] 2022-22-8
 ### Fixed
 - Paterdormus' library has been renovated, and is no longer cursed when hide roofs is toggled off (fixes hdos/issues#1277)
 - You can no longer sink through Canifis' rooftop agility course, and should once again be functional (fixes hdos/issues#1281)
 ### Changes
+- The ring of the elements now uses HD teleport animations (fixes hdos/issues#1136)
+  - Creating custom colours for each location is on the to-do list, but not a priority right now as it requires engine work
 - Paterdormus' library atmosphere has been improved
 - All variants of the Soul Wars capes have been restored
+- Restored Nomad and Zimberfizz
+- #### HD Pack 2
+  This version marks our second **HD PACK**. HD Packs aim to upgrade a group of OS models with custom assets, so they align with the HD art style.
+
+  This HD Pack targets **Ungael** and the boss **Vorkath** and introduces the following changes:
+
+  - Added lighting and immersive atmospheres to Ungael
+  - Remastered the objects on the island
+  - Vorkath and its minions have been remastered
+  - Several Vorkath projectiles have been remastered or restored
+  - Added shorelines around the island
+  - Climbing rocks on the island now performs an improved HD animation
+  - Torfinn has been upgraded
+  - Other notably affected items:
+      ```
+      - Ava's Assembler and Vorkath's Head
+      - Dragon Crossbow
+      - Mythical Cape
+      - Dragonfire Ward and Skeletal Visage
+      - Wrath Rune and Talisman
+      - Superior Dragon Bones
+      ```
+
 
 ## [268] - 2022-15-8
 ### Fixed
