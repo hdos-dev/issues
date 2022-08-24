@@ -6,7 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
-## [270] 2022-22-8
+
+## [271] 2022-24-8
+### Fixed
+- Fix custom assets
+
+## [270] 2022-24-8
 ### Changes
 - Cold update the client
 ### Fixed
