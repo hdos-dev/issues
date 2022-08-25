@@ -3,9 +3,19 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
+
 ## [Unreleased]
 
 
+
+## [272] 2022-25-8
+### Fixed
+- Angels in the sky mistaking the Torva full helm chathead for a skybox no longer make the client crash (fixes hdos/issues#1289)
+- Fixed an issue where the cache mistakenly exceeded a limit. Booting the client should once again be as fast as before
+- Raids 3 no longer suffers crashes from the strange new energy emitted from the menaphite pantheon (they instead will display their power via t-poses for now)
+- Add support for 32 bit file identifiers within the cache
+### Changes
+- Improve the atmosphere for raids3 (until it gets remastered)
 
 ## [271] 2022-24-8
 ### Fixed
