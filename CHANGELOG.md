@@ -8,6 +8,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 
+## [273] 2022-26-8
+### Fixed
+- Fix animation stalling (fixes hdos/issues#1292)
+- Fix raids 3 black underlays
+
 ## [272] 2022-25-8
 ### Fixed
 - Angels in the sky mistaking the Torva full helm chathead for a skybox no longer make the client crash (fixes hdos/issues#1289)
