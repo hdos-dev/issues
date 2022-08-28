@@ -5,7 +5,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 ## [Unreleased]
-
+### Fixed
+- Fixed the flickering rates on some types point lights
+- Fix notification popup rendering (fixes hdos/issues#1187)
 
 
 ## [273] 2022-26-8
