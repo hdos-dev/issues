@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Fixed
+- Add support for the new skeletal system
 - Actor and projectile rotations and movements are now more smoother (removed micro-shaking)
 - Fixed the flickering rates on some types point lights
 - Fix notification popup rendering (fixes hdos/issues#1187)
