@@ -5,15 +5,46 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 ## [Unreleased]
+
+## [274] 2022-5-9
+### Changes
+- Restored Morytania (fixes hdos/issues#404 hdos/issues#490 hdos/issues#736 hdos/issues#867 hdos/issues#896 hdos/issues#1280)
+  - the following zones have been affected:
+    ```
+    - Silverea
+    - Paterdomus Temple (overworld)
+    - Canifis
+    - Slayer Tower (No remaster)
+    - Mausoleum
+    - Fenkenstrain's Castle
+    - Experiments Dungeon
+    - Ectofungus, Farm
+    - Port Phasmatys
+    - Haunted Woods
+    - River opening above Slepe
+    - Mort Myre Swamp, Nature's Grotto, The Hollows
+    - Barrows, Barrows Crypts
+    - Burgh de Rott
+    - Haunted Mine
+    - Tarns Lair
+    - Myreque Hideout, Tomb of Ivandis, Fairy ring
+    ```
+  - Related changes:
+    ```
+    - Remastered the Morytania poll booth
+    - Children in Burgh de Rott have been restored
+    - Restored the Ectophial teleport
+    - Remastered barrows heads inside the crypt (for the moment)
+    ```
+- Improved the texture projection on the regular poll booth
+- Remastered clue stashes
+- Restored 181 gnomes (fixes hdos/issues#961)
 ### Fixed
-- Add support for the new skeletal system
+- Add support for the new skeletal system (Beta)
 - Increase point light limit from 256 lights to 1024 lights to scale with the extended render distance
 - Actor and projectile rotations and movements are now more smoother (removed micro-shaking)
 - Fixed the flickering rates on some types point lights
 - Fix notification popup rendering (fixes hdos/issues#1187)
-### Changes
-- Restored Gnomes
-
 
 ## [273] 2022-26-8
 ### Fixed
