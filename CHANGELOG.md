@@ -12,6 +12,26 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Gargoyles now display the defend animation correctly (fixes hdos/issues#786)
 - Part of the wall east of the Grand Exchange should no longer disappear when roofs are hidden
 - Combat dummies have sprouted from the patches of dirt in the POH (fixes hdos/issues#1276)
+#### Audio (thanks to `@RS Orchestra#9880`)
+- #### Fixes
+  - Fixed an issue in one of the Bechstein 280 Piano samples (Patch 640 - Bank 5, Preset 0)
+- #### Changed
+  - Replaced the Staccato Opera Voice Oh samples with higher quality (Patch 257 - Bank 2, Preset 1)
+  - Replaced the Sustained Opera Voice Oh samples with higher quality (Patch 258 - Bank 2, Preset 2)
+- #### Added
+  - Added Realistic Church Organ to Patch 659 (Bank 5, Preset 19)
+  - Added Realistic Tremolo Strings to Patch 684 (Bank 5, Preset 44)
+  - Added Realistic Orchestra Hits to Patch 695 (Bank 5, Preset 55)
+  - Added Dubstep Wobble Synth to Patch 735 (Bank 5, Preset 95)
+- #### Songs
+  - Start (HD)
+  - A Taste of Hope (Orchestral Remix)
+  - Alchemical Attack! (Remix)
+  - Rest In Peace (Death)
+  - The Angel's Fury (Angel of Death, Remix)
+  - Tombs of Amascut Jingles upgrade to HD sounds
+  - Tombs of Amascut OST upgraded to HD soundset
+
 
 ## [275] 2022-5-9
 ### Fixed
