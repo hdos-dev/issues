@@ -5,6 +5,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 ## [Unreleased]
+
+
+## [276] 2022-8-9
 ### Changes
 - Update protocol to 208
 - Restored waterfiends
@@ -33,7 +36,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - The Angel's Fury (Angel of Death, Remix)
   - Tombs of Amascut Jingles upgrade to HD sounds
   - Tombs of Amascut OST upgraded to HD soundset
-
 
 ## [275] 2022-5-9
 ### Fixed
