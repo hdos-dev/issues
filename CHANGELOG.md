@@ -5,9 +5,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 ## [Unreleased]
-### Fixed
+### Changes
+- Update protocol to 208
 - Restored waterfiends
 - Restored many small people
+### Fixed
 - Nature's Grotto exit fixed
 - Gargoyles now display the defend animation correctly (fixes hdos/issues#786)
 - Part of the wall east of the Grand Exchange should no longer disappear when roofs are hidden
