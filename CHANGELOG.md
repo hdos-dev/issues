@@ -5,6 +5,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 ## [Unreleased]
+### Fixed
+- Re-deploy audio update from 276, revert TOA audio for now
 
 
 ## [276] 2022-8-9
