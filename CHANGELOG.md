@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [277] 2022-9-9
 ### Fixed
-- Improve the new animations (no loading times, less cpu, less memory, and more smoother)
+- Improve the new animations in raids 3 (no loading times, less cpu, less memory, and improved tweening)
 - Re-deploy audio update from 276, revert TOA audio for now
 - Fixed rotated drawer in Ardougne
 ### Changes
