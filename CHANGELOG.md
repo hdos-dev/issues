@@ -3,11 +3,16 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
-
 ## [Unreleased]
-### Fixed
-- Re-deploy audio update from 276, revert TOA audio for now
 
+
+## [277] 2022-9-9
+### Fixed
+- Improve the new animations (no loading times, less cpu, less memory, and more smoother)
+- Re-deploy audio update from 276, revert TOA audio for now
+- Fixed rotated drawer in Ardougne
+### Changes
+- Restored beekeeper
 
 ## [276] 2022-8-9
 ### Changes
