@@ -4,7 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-
+### Changes
+- Restored Teleblock (and no longer shoots a tornado)
+- Restored Kree'arra's tornado
+- Restored the ground/inventory model of the Imbued Slayer Helmet
+### Fixed
+- Improve performance for the new animations in raids3
 
 ## [278] 2022-10-9
 ### Fixed
