@@ -8,6 +8,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Restored Teleblock (and no longer shoots a tornado)
 - Restored Kree'arra's tornado
 - Restored the ground/inventory model of the Imbued Slayer Helmet
+- Improved the textures on the Ava's Assembler
+- Restored the newer versions of the Spirit Shields
 ### Fixed
 - Improve performance for the new animations in raids3
 #### Plugins
