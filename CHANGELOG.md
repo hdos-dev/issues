@@ -10,6 +10,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Restored the ground/inventory model of the Imbued Slayer Helmet
 ### Fixed
 - Improve performance for the new animations in raids3
+#### Plugins
+- Quick settings is now docked by default
 
 ## [278] 2022-10-9
 ### Fixed
