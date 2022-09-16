@@ -12,6 +12,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Restored the newer versions of the Spirit Shields
 ### Fixed
 - Improve performance for the new animations in raids3
+- Some unintended upgrades of bushes were reverted
+- Some textures now emmit their light even when bloom is disabled
 #### Plugins
 - Quick settings is now docked by default
 
