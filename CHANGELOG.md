@@ -5,11 +5,42 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Changes
-- Restored Teleblock (and no longer shoots a tornado)
+- #### HD Pack 3
+  This version marks our third **HD PACK**. HD Packs aim to upgrade a group of OS models with custom assets, so they align with the HD art style.
+
+  This HD Pack targets the minigame **Guardians of the Rift** and introduces the following changes:
+
+  - Remastered all objects and NPCs
+  - Several ground textures have been added to the zone
+  - Added immersive lighting, atmosphere and skybox
+  - Added the ability for lighting to be dynamically turned on or off, depending on the state of the object (such as an orb spawning)
+  - The Raiments of the Eye have been upgraded with the Great Orb Project runecrafting robes (fixes hdos/issues#1167)
+    - A custom set has been created to reflect the red version of the old-school outfit
+  - The Amulet of the Eye has been completely remastered and should no longer clip as much
+  - The lava texture is now bloomed (notable area is the fire altar)
+  - Restored Runecrafting Altars
+  - Restored Wizard's Tower
+  - Remastered the Blood Altar
+  - Other notably affected models:
+      ```
+      - Boots of the Eye (use the Infinity Boots HD rig)
+      - Abyssal Lantern
+      - Abyssal Protector (pet)
+      - Greatish Guardian (pet)
+      - Rift Guardian (pet)
+      ```
+  - Note: *Fixes for the Lost bag should be included in the next update*
+- Restored Teleblock (and no longer shoots a tornado) (fixes hdos/issues#542)
 - Restored Kree'arra's tornado
 - Restored the ground/inventory model of the Imbued Slayer Helmet
 - Improved the textures on the Ava's Assembler
 - Restored the newer versions of the Spirit Shields
+- Several improvements have been made to Draynor
+  - Improve tile heights
+  - Fix the dungeon entrances
+  - Restore the hay roofing
+- Removed Catacombs from map filtering for now
+- Improve Motherloade Mine and Kourend Catacombs sky
 ### Fixed
 - Improve performance for the new animations in raids3
 - Some unintended upgrades of bushes were reverted
