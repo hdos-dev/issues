@@ -36,18 +36,20 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Restored the ground/inventory model of the Imbued Slayer Helmet
 - Improved the textures on the Ava's Assembler
 - Restored the newer versions of the Spirit Shields
-- Several improvements have been made to Draynor
+- Several improvements have been made to Draynor (fixes hdos/issues#547)
   - Improve tile heights
   - Fix the dungeon entrances
   - Restore the hay roofing
 - Removed Catacombs from map filtering for now
-- Improve Motherloade Mine and Kourend Catacombs sky
+- Improve Motherlode Mine and Kourend Catacombs sky
+- Quick settings is now docked by default
+### Added
+- Idle Logout Plugin
 ### Fixed
 - Improve performance for the new animations in raids3
 - Some unintended upgrades of bushes were reverted
 - Some textures now emmit their light even when bloom is disabled
-#### Plugins
-- Quick settings is now docked by default
+
 
 ## [278] 2022-10-9
 ### Fixed
