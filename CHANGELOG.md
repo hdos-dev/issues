@@ -17,6 +17,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - The Raiments of the Eye have been upgraded with the Great Orb Project runecrafting robes (fixes hdos/issues#1167)
     - A custom set has been created to reflect the red version of the old-school outfit
   - The Amulet of the Eye has been completely remastered and should no longer clip as much
+  - The click radius and shadows of the entrance barrier have been improved
   - The lava texture is now bloomed (notable area is the fire altar)
   - Restored Runecrafting Altars
   - Restored Wizard's Tower
