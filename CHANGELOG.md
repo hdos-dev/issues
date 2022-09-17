@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
-## [279] 2022-10-9
+## [279] 2022-16-9
 ### Changes
 - #### HD Pack 3
   This version marks our third **HD PACK**. HD Packs aim to upgrade a group of OS models with custom assets, so they align with the HD art style.
