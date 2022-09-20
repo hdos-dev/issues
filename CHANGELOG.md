@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Changes
+- Remaster the Lost Bag
+### Fixed
+- Fixed an issue where a dock was missing by the Ectofungus
+- The True Blood Altar to the Myreque hideout cave entrance is once again accessible
+- Fixed an issue where map filtering would block you from going further into the True Blood Altar tunnels
+- Increased the brightness on Catacombs and Motherlode mine
+- Reverted an unintended Wildstalker hat model from overriding models
+- Brightened the lights in the Warrior's Guild Basement
+- Patched up the path leading to the Warrior's Guild Basement ladder
 
 
 ## [279] 2022-16-9
