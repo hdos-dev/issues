@@ -14,6 +14,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Reverted an unintended Wildstalker hat model from overriding models
 - Brightened the lights in the Warrior's Guild Basement
 - Patched up the path leading to the Warrior's Guild Basement ladder
+- Fix Ape Atoll agility course (fixes hdos/issues#1266)
 
 
 ## [279] 2022-16-9
