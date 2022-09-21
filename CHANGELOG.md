@@ -4,8 +4,6 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-### Changes
-- Remaster the Lost Bag
 ### Fixed
 - Fixed an issue where a dock was missing by the Ectofungus
 - The True Blood Altar to the Myreque hideout cave entrance is once again accessible
@@ -14,8 +12,232 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Reverted an unintended Wildstalker hat model from overriding models
 - Brightened the lights in the Warrior's Guild Basement
 - Patched up the path leading to the Warrior's Guild Basement ladder
-- Fix Ape Atoll agility course (fixes hdos/issues#1266)
+- The Skull slope on the agility course is once again visible, and is now highlighted by the agility plugin (fixes hdos/issues#1266)
+### Changes
+- Remaster the Lost Bag
+- Restored Treasure trail items 
+  <details>
+  <summary>Click for a list of items</summary>
 
+  - 3rd age range top (HD: Third-age range top)
+  - 3rd age range legs (HD: Third-age range legs)
+  - 3rd age range coif (HD: Third-age range coif)
+  - 3rd age vambraces (HD: Third-age vambraces)
+  - 3rd age robe top (HD: Third-age robe top)
+  - 3rd age robe (HD: Third-age robe)
+  - 3rd age mage hat (HD: Third-age mage hat)
+  - 3rd age amulet (HD: Third-age amulet)
+  - 3rd age platelegs (HD: Third-age platelegs)
+  - 3rd age platebody (HD: Third-age platebody)
+  - 3rd age full helmet (HD: Third-age full helmet)
+  - 3rd age kiteshield (HD: Third-age kiteshield)
+  - Ancient robe top
+  - Ancient robe legs
+  - Ancient cloak
+  - Ancient crozier
+  - Ancient stole
+  - Ancient mitre
+  - Armadyl robe top
+  - Armadyl robe legs
+  - Armadyl stole
+  - Armadyl mitre
+  - Armadyl cloak
+  - Armadyl crozier
+  - Bandos robe top
+  - Bandos robe legs
+  - Bandos stole
+  - Bandos mitre
+  - Bandos cloak
+  - Bandos crozier
+  - Bronze dragon mask
+  - Iron dragon mask
+  - Steel dragon mask
+  - Mithril dragon mask
+  - Nardah teleport
+  - Tai bwo wannai teleport
+  - Dragon platelegs (g) (HD: Dragon platelegs (or))
+  - Dragon plateskirt (g) (HD: Dragon plateskirt (or))
+  - Dragon full helm (g) (HD: Dragon full helm (or))
+  - Amulet of fury (or)
+  - Ancient platebody
+  - Ancient platelegs
+  - Ancient plateskirt
+  - Ancient full helm
+  - Ancient kiteshield
+  - Armadyl platebody
+  - Armadyl platelegs
+  - Armadyl plateskirt
+  - Armadyl full helm
+  - Armadyl kiteshield
+  - Bandos platebody
+  - Bandos platelegs
+  - Bandos plateskirt
+  - Bandos full helm
+  - Bandos kiteshield
+  - Ancient bracers (HD: Ancient vambraces)
+  - Ancient d'hide body (HD: Ancient body)
+  - Ancient chaps
+  - Ancient coif
+  - Bandos bracers (HD: Bandos vambraces)
+  - Bandos d'hide body (HD: Bandos body)
+  - Bandos chaps
+  - Bandos coif
+  - Armadyl bracers (HD: Armadyl vambraces)
+  - Armadyl d'hide body (HD: Armadyl body)
+  - Armadyl chaps
+  - Armadyl coif
+  - Green dragon mask
+  - Blue dragon mask
+  - Red dragon mask
+  - Black dragon mask
+  - Fury ornament kit
+  - Fury ornament kit
+  - Dragon sq shield ornament kit (HD: Dragon sq shield ornament kit (or))
+  - Dragon sq shield ornament kit (HD: Dragon sq shield ornament kit (or))
+  - Dragon full helm ornament kit (HD: Dragon full helm ornament kit (or))
+  - Dragon full helm ornament kit (HD: Dragon full helm ornament kit (or))
+  - Druidic wreath (HD: Third-age druidic wreath)
+  - Book of war
+  - Book of law
+  - Book of darkness (HD: Ancient book)
+  - Bandos page 1
+  - Bandos page 2
+  - Bandos page 3
+  - Bandos page 4
+  - Armadyl page 1
+  - Armadyl page 2
+  - Armadyl page 3
+  - Armadyl page 4
+  - Ancient page 1
+  - Ancient page 2
+  - Ancient page 3
+  - Ancient page 4
+  - Armadyl rune armour set (lg) (HD: Armadyl armour set (lg))
+  - Armadyl rune armour set (sk) (HD: Armadyl armour set (sk))
+  - Bandos rune armour set (lg) (HD: Bandos armour set (lg))
+  - Bandos rune armour set (sk) (HD: Bandos armour set (sk))
+  - Ancient rune armour set (lg) (HD: Ancient armour set (lg))
+  - Ancient rune armour set (sk) (HD: Ancient armour set (sk))
+  - Armadyl rune armour set (lg) (HD: Armadyl armour set (lg))
+  - Armadyl rune armour set (sk) (HD: Armadyl armour set (sk))
+  - Bandos rune armour set (lg) (HD: Bandos armour set (lg))
+  - Bandos rune armour set (sk) (HD: Bandos armour set (sk))
+  - Ancient rune armour set (lg) (HD: Ancient armour set (lg))
+  - Ancient rune armour set (sk) (HD: Ancient armour set (sk))
+  - Book of war
+  - Book of law
+  - Book of darkness (HD: Ancient book)
+  - Bandos page 1
+  - Bandos page 2
+  - Bandos page 3
+  - Bandos page 4
+  - Armadyl page 1
+  - Armadyl page 2
+  - Armadyl page 3
+  - Armadyl page 4
+  - Ancient page 1
+  - Ancient page 2
+  - Ancient page 3
+  - Ancient page 4
+  - Bandos platebody
+  - Bandos platelegs
+  - Bandos plateskirt
+  - Bandos full helm
+  - Bandos kiteshield
+  - Armadyl platebody
+  - Armadyl platelegs
+  - Armadyl plateskirt
+  - Armadyl full helm
+  - Armadyl kiteshield
+  - Ancient platebody
+  - Ancient platelegs
+  - Ancient plateskirt
+  - Ancient full helm
+  - Ancient kiteshield
+  - Ancient robe top
+  - Ancient robe legs
+  - Ancient cloak
+  - Ancient crozier
+  - Ancient stole
+  - Ancient mitre
+  - Armadyl robe top
+  - Armadyl robe legs
+  - Armadyl stole
+  - Armadyl mitre
+  - Armadyl cloak
+  - Armadyl crozier
+  - Bandos robe top
+  - Bandos robe legs
+  - Bandos stole
+  - Bandos mitre
+  - Bandos cloak
+  - Bandos crozier
+  - Bronze dragon mask
+  - Iron dragon mask
+  - Steel dragon mask
+  - Mithril dragon mask
+  - Nardah teleport
+  - Tai bwo wannai teleport
+  - Dragon platelegs (g) (HD: Dragon platelegs (or))
+  - Dragon plateskirt (g) (HD: Dragon plateskirt (or))
+  - Dragon full helm (g) (HD: Dragon full helm (or))
+  - Amulet of fury (or)
+  - Ancient bracers (HD: Ancient vambraces)
+  - Ancient d'hide body (HD: Ancient body)
+  - Ancient chaps
+  - Ancient coif
+  - Bandos bracers (HD: Bandos vambraces)
+  - Bandos d'hide body (HD: Bandos body)
+  - Bandos chaps
+  - Bandos coif
+  - Armadyl bracers (HD: Armadyl vambraces)
+  - Armadyl d'hide body (HD: Armadyl body)
+  - Armadyl chaps
+  - Armadyl coif
+  - Green dragon mask
+  - Blue dragon mask
+  - Red dragon mask
+  - Black dragon mask
+  - Fury ornament kit
+  - Fury ornament kit
+  - Dragon sq shield ornament kit (HD: Dragon sq shield ornament kit (or))
+  - Dragon sq shield ornament kit (HD: Dragon sq shield ornament kit (or))
+  - Dragon full helm ornament kit (HD: Dragon full helm ornament kit (or))
+  - Dragon full helm ornament kit (HD: Dragon full helm ornament kit (or))
+  - 3rd age range top (HD: Third-age range top)
+  - 3rd age range legs (HD: Third-age range legs)
+  - 3rd age range coif (HD: Third-age range coif)
+  - 3rd age vambraces (HD: Third-age vambraces)
+  - 3rd age robe top (HD: Third-age robe top)
+  - 3rd age robe (HD: Third-age robe)
+  - 3rd age mage hat (HD: Third-age mage hat)
+  - 3rd age amulet (HD: Third-age amulet)
+  - 3rd age platelegs (HD: Third-age platelegs)
+  - 3rd age platebody (HD: Third-age platebody)
+  - 3rd age full helmet (HD: Third-age full helmet)
+  - 3rd age kiteshield (HD: Third-age kiteshield)
+  - Druidic wreath (HD: Third-age druidic wreath)
+  - 3rd age robe top (HD: Third-age robe top)
+  - 3rd age robe (HD: Third-age robe)
+  - Dragon platebody ornament kit (HD: Dragon platebody ornament kit (or))
+  - Dragon platebody ornament kit (HD: Dragon platebody ornament kit (or))
+  - Dragon platebody ornament kit (HD: Dragon platebody ornament kit (or))
+  - Dragon platebody ornament kit (HD: Dragon platebody ornament kit (or))
+  - Dragon platebody (g) (HD: Dragon platebody (or))
+  - Dragon platebody (g) (HD: Dragon platebody (or))
+  - 3rd age druidic robe top (HD: Third-age druidic robe top)
+  - 3rd age druidic robe top (HD: Third-age druidic robe top)
+  - 3rd age druidic robe bottoms (HD: Third-age druidic robe)
+  - 3rd age druidic robe bottoms (HD: Third-age druidic robe)
+  - 3rd age druidic staff (HD: Third-age druidic staff)
+  - 3rd age druidic staff (HD: Third-age druidic staff)
+  - 3rd age druidic cloak (HD: Third-age druidic cloak)
+  - 3rd age druidic cloak (HD: Third-age druidic cloak)
+  - 3rd age mage hat (HD: Third-age mage hat)
+  - 3rd age range top (HD: Third-age range top)
+  - 3rd age range legs (HD: Third-age range legs)
+  - 3rd age range coif (HD: Third-age range coif)
+  </details>
 
 ## [279] 2022-16-9
 ### Changes
