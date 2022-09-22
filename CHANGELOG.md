@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [280] 2022-23-9
 ### Fixed
+- Fixed chatheads (as per usual!)
 - Fixed an issue where a dock was missing by the Ectofungus
 - The True Blood Altar to the Myreque hideout cave entrance is once again accessible
 - Fixed an issue where map filtering would block you from going further into the True Blood Altar tunnels
