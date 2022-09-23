@@ -5,7 +5,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
-## [280] 2022-23-9
+## [280] 2022-22-9
 ### Fixed
 - Fixed chatheads (as per usual!)
 - Fixed an issue where a dock was missing by the Ectofungus
