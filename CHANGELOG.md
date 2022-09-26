@@ -4,6 +4,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Fixed
+- Add brightness fixes intended for v280
+- The skybox plugin no longer overrides Nex during her darkness phase
 
 ## [280] 2022-22-9
 ### Fixed
