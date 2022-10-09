@@ -4,9 +4,36 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Changed
+- **Restored Ardougne**
+  - A map with the exact restored locations can be found [here](https://cdn.discordapp.com/attachments/1000839218681102366/1026451614418092062/ardymap.png)
+  - Other Ardougne improvements:
+    - Areas where the Adougne Restore would otherwise create sharp bumps in tileheights have been smoothened out and modernized whilst maintaining the intended style
+      - The old-school agility course heights have also been smoothened and improved (the plank on the course no longer makes you wobble up and down)
+    - Fixed an issue where attempting to note items at the Leprechaun by the Ardougne Farm would result into interacting with the rock instead. (fixes hdos/issues#1247)
+    - The Golden Gnome in the Legend's Guild has been remastered
+    - A dozen objects in Ardougne have been altered to fit the restore
+    - Several lighting effects that were overlooked in the original HD Ardougne have been added
+    - Some areas now hide roofs more accurately
+    - Remastered the Witchaven Dungeon (hellhound area) and jail cell underneath Ardougne Castle used in the Song of the Elves quest
+- The agility sign on rooftop courses has been remastered
+- Improve the Entity Hider plugin
 ### Fixed
 - Add brightness fixes intended for v280
+- Fixed the black area upstairs by the wyverns in the Asgarnia Ice Dungeon
 - The skybox plugin no longer overrides Nex during her darkness phase
+- Fix a bug in the texture projection (a good example is GE floors)
+- Several improvements have been made to the Edgeville Restore:
+  - Restored the furnace building
+  - Improved the river and shorelines
+  - Fixed a missing wall by Oziach
+  - Created a path around the tree in the middle of the pathway
+  - The Hell-rat behemoth rooms in Evil Dave's basement have been remastered (fixes hdos/issues#758)
+  - The Wilderness Statistics board is once again visible (fixes hdos/issues#612)
+  - The coffins in the Edgeville cemetery south of the bank have been restored and the interaction has been fixed (fixes hdos/issues#1312) 
+  - Some missing lights were added
+  - Removed a pillar that was clipping inside the Soul Wars portal
+- Fixed an issue where the upper parts of the walls surrounding the GE would always be hidden
 
 ## [280] 2022-22-9
 ### Fixed
