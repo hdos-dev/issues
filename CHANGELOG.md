@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [283] 2022-11-10
+### Fixed
+- Fix world map crashing
+
 ## [282] 2022-11-10
 ### Fixed
 - Update protocol to 209
