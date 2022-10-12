@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [282] 2022-09-11
+### Fixed
+- Update protocol to 209
 ### Changed
 - The settings window of a plugin can now be quickly closed using the `Tab` key (vs clicking the arrow)
 - The plugin settings UI now remembers your last scroll position when navigating the UI
