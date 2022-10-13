@@ -6,6 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [284] 2022-13-10
+### Fixed
+- Fixed the landslide on the ice mountain
+- Ardougne: Fixed the thieving door in Ardougne Castle
+- Ardougne : Added some missing lights and fix bleeding lights (lights should no longer shine through walls)
+- Icefiends now perform the correct animations
+
 ## [283] 2022-11-10
 ### Fixed
 - Fix world map crashing
