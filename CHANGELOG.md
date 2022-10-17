@@ -5,8 +5,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Changed
-- Restore Fonts
-- Restore the HD (transparent) dialog
+- Restore fonts
+- Restore transparent dialogs
+- Restore the fixed mode minimap
 ### Fixed
 - Fix world map bugs (fixes hdos/issues#1261 hdos/issues#1192)
 
