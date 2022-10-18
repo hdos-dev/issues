@@ -7,9 +7,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Changed
 - Restore fonts
 - Restore transparent dialogs
-- Restore the fixed mode minimap
+- Restore the fixed mode game frame (finish the restore)
+- Improve aliasing on the xp-orb sprites
 ### Fixed
 - Fix world map bugs (fixes hdos/issues#1261 hdos/issues#1192)
+- Fix holes in the minimap and compass when in resizable mode (fixes hdos/issues#1137)
 
 
 ## [284] 2022-13-10
