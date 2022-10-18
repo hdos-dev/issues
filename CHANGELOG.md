@@ -12,6 +12,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - Fix world map bugs (fixes hdos/issues#1261 hdos/issues#1192)
 - Fix holes in the minimap and compass when in resizable mode (fixes hdos/issues#1137)
+### Added
+- Add summoning plugin
 
 
 ## [284] 2022-13-10
