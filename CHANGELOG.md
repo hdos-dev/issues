@@ -4,16 +4,24 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Added
+- Add summoning plugin
 ### Changed
 - Restore fonts
 - Restore transparent dialogs
 - Restore the fixed mode game frame (finish the restore)
 - Improve aliasing on the xp-orb sprites
+- UI: Searching now automatically cancels when selecting a plugin from the search results
 ### Fixed
 - Fix world map bugs (fixes hdos/issues#1261 hdos/issues#1192)
 - Fix holes in the minimap and compass when in resizable mode (fixes hdos/issues#1137)
-### Added
-- Add summoning plugin
+- Fixed an issue where minimap icons in Varrock were no longer shown after the restore
+- Mowed the grass on the road from Varrock west-bank to the Grand Exchange
+- Fixed a path issue by the Lumbridge windmill
+- The strange doors in the Lighthouse dungeon will no longer decide to have fun with the transmog plugin
+- Panning down the camera in the Lighthouse dungeon no longer makes the upper walls disappear
+- Various torches should no longer burn as rigorously and burn through roofs
+- Fixed a collision issue regarding the queue ropes in the Ardougne south-bank
 
 
 ## [284] 2022-13-10
