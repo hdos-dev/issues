@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+
+## [285] 2022-18-10
 ### Added
 - Add summoning plugin
 ### Changed
@@ -22,7 +26,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Panning down the camera in the Lighthouse dungeon no longer makes the upper walls disappear
 - Various torches should no longer burn as rigorously and burn through roofs
 - Fixed a collision issue regarding the queue ropes in the Ardougne south-bank
-
 
 ## [284] 2022-13-10
 ### Fixed
