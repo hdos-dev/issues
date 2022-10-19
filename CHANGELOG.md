@@ -4,12 +4,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+
+## [286] 2022-18-10
 ### Fixed
 - Transparent dialogs now correctly disable when transparent chat is disabled
 - Fix npcs downgraded from last update (fixes hdos/issues#1338)
 - Fix player skin colors (fixes hdos/issues#1024 hdos/issues#71)
 - Summoning plugin now works for pets in POH (fixes hdos/issues#1337)
-
 
 ## [285] 2022-18-10
 ### Added
