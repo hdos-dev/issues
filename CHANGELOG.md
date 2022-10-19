@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Fixed
 - Transparent dialogs now correctly disable when transparent chat is disabled
+- Fix npcs downgraded from last update (fixes hdos/issues#1338)
 
 
 ## [285] 2022-18-10
