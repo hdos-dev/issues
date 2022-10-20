@@ -19,6 +19,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - Upgraded NPCs (work-in-progress engine work)
   - Immersive lighting and atmospheres have been added
   - The falador crypt entrance roof will no longer be hidden as roof
+  - Death's domain entrances are no longer filled with dirt (fixes hdos/issues#1240)
   - Added more torches to the Ferox Enclave dungeon
   - Added underworld (underwater) to pools and rivers
   - Several wrongly rotated chests have been fixed, and replaced with the remastered variant
@@ -36,7 +37,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - Remastered the paintings from the 2006 H'ween event, can you find them all?
   - Restored the 2006, 2007 and 2008 H'ween music tracks
   - Restored the Small- and Angel of Death gravestones (permanently)
-  - Restored Gravedigger (and Beekeeper, Pillory and Pinball random events) as part of the halloween themed upgrades (permanently)
+  - Restored Gravedigger (and Beekeeper, Pillory and Pinball random events) as part of the halloween themed upgrades (permanently) (fixes hdos/issues#516 hdos/issues#845)
     - Also restored the mysterious old man (permanently)
   - Restored the 2008 ***Trick or Treat!*** Halloween event, by overhauling several zones:
     - Lumbridge
@@ -56,9 +57,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
   *Note: Some of these changes will be reverted once Halloween comes to an end*
 
-- Restored Port Sarim and Rimmington
-  - Cleaned up the draynor agiliy shortcut tunnel
-  - Remastered the cabbage-port graphic
+- Restored Port Sarim and Rimmington (fixes hdos/issues#1311 hdos/issues#1035)
+  - Cleaned up the draynor agiliy shortcut tunnel (fixes hdos/issues#226)
+  - Remastered the cabbage-port graphic (fixes hdos/issues#991)
 - Remastered the Achievement cape, Achievement cape (t) and Quest Point Cape (t)
 - The clan portal at the Grand Exchange has been improved
 - The clue stash in the Edgeville Monastery is no longer invisible
