@@ -4,9 +4,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+
+## [289] 2022-20-10
 ### Changed
 - Quick Settings is now enabled and pinned to the sidebar by default
-
+### Fixed
+- Random event restores intended for v287 have been fixed
+- A sunken floor tile that was ripping the carpet apart in the Ferox Enclave has been fixed
+- Fix the "The art of hocus-pocus" intended for v287
 
 ## [288] 2022-19-10
 ### Fixed
