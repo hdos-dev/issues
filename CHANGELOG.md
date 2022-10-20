@@ -6,6 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [288] 2022-19-10
+### Fixed
+- Deploy missing assets for v287 (Ferox Enclave)
 
 ## [287] 2022-19-10
 ### Changed
