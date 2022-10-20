@@ -4,6 +4,64 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+
+## [287] 2022-19-10
+### Changed
+- #### **HD Pack 4**
+  This version marks our fourth **HD PACK**. HD Packs aim to upgrade a group of OS models with custom assets, so they align with the HD art style.
+
+  This HD Pack targets the **Death's Domain** and **Ferox Enclave** areas as part of the spooky halloween update, and introduces the following changes:
+
+  - Remastered all objects
+  - Improved pathing and ground textures
+  - Upgraded NPCs (work-in-progress engine work)
+  - Immersive lighting and atmospheres have been added
+  - The falador crypt entrance roof will no longer be hidden as roof
+  - Added more torches to the Ferox Enclave dungeon
+  - Added underworld (underwater) to pools and rivers
+  - Several wrongly rotated chests have been fixed, and replaced with the remastered variant
+  - Other notably affected models:
+      ```
+      - Staff of balance
+      - Death's domain entrances (Lumbridge, Falador, Seer's Village, Ferox, Kourend and Prifdinnas)
+      - Craw's bow
+      - Thammaron's sceptre
+      - Viggora's chainmace
+      - Dragon pickaxe (or)
+      - Dragon pickaxe (upgraded)
+      ```
+- #### **It's halloween!**
+  - Remastered the paintings from the 2006 H'ween event, can you find them all?
+  - Restored the 2006, 2007 and 2008 H'ween music tracks
+  - Restored the Small- and Angel of Death gravestones (permanently)
+  - Restored Gravedigger (and Beekeeper, Pillory and Pinball random events) as part of the halloween themed upgrades (permanently)
+    - Also restored the mysterious old man (permanently)
+  - Restored the 2008 ***Trick or Treat!*** Halloween event, by overhauling several zones:
+    - Lumbridge
+    - Draynor
+    - Port Sarim
+    - Rimmington
+    - Grand Exchange
+    - Edgeville
+  - Restored Grim reaper hood (permanently)
+  - Restored Zombie head (permanently)
+  - Restored the Warlock- and Witch costume outfits with the Pyromancer outfit
+    - The bruma torch has turned into a broomstick!
+  - Some NPCs have decided to change into their halloween costumes
+  - Purple sweets have turned into H'ween candy
+
+  <br>
+
+  *Note: Some of these changes will be reverted once Halloween comes to an end*
+
+- Restored Port Sarim and Rimmington
+  - Cleaned up the draynor agiliy shortcut tunnel
+  - Remastered the cabbage-port graphic
+- Remastered the Achievement cape, Achievement cape (t) and Quest Point Cape (t)
+- The clan portal at the Grand Exchange has been improved
+- The clue stash in the Edgeville Monastery is no longer invisible
 ### Fixed
 - Fix item offsets for female players
 
