@@ -14,6 +14,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Random event restores intended for v287 have been fixed
 - A sunken floor tile that was ripping the carpet apart in the Ferox Enclave has been fixed
 - Fix the "The art of hocus-pocus" intended for v287
+- Fix known crashes
 
 ## [288] 2022-19-10
 ### Fixed
