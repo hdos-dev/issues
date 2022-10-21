@@ -4,12 +4,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+
+## [290] 2022-21-10
 ### Changed
 - Improve Halloween audio behavior so users can manually select songs
 ### Fixed
 - Ground items should no longer appear under objects when multiple items are stacked
 - Fix downgraded assets from the last game update
-
+- A small gap in the floor in the Legend's guild dungeon has been fixed
 
 ## [289] 2022-20-10
 ### Changed
