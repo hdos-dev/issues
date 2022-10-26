@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - Improve Pin Bar layout behavior
 - Opponent Information: Fix player lookup
+- Fix Amulet of the Eye recoloring (fixes hdos/issues#1345)
 
 ## [291] 2022-26-10
 ### Changed
