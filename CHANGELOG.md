@@ -4,11 +4,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [291] 2022-26-10
 ### Changed
 - Camera zooming is now smoothened out
+### Added
+- Add plugin: Opponent Information
 ### Fixed
 - Quick Settings no longer closes on world hop
-
+- Fixed a crevice in the Varrock river
+- Fixed the OS Halloween 2022 event
+- Improved MapFilter for the slayer-only kalphite dungeon and the Desert Treasure pyramid
 
 ## [290] 2022-21-10
 ### Changed
