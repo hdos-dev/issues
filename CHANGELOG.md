@@ -4,9 +4,24 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Changed
+- #### **HD Pack 4.5**
+  This special version is an addition to our fourth **HD PACK**. HD Packs aim to upgrade a group of OS models with custom assets, so they align with the HD art style.
+
+  This additional HD pack version has a set of smaller improvements. Although the event is limited, we may re-introduce some of the assets in a future event.
+
+  The following changes are **Oldschool Halloween event** introduced:
+  - Additional fixes were made after the initial fixes in v291
+  - Remastered all objects
+  - Added additional (slightly lighter) Halloween atmospheres to several zones
+    - Also added lights to all of the new Jack-o'-Lanterns
+  - The HDOS crew has provided the children in Varrock with improved H'ween outfits
+  - Textured the Witch outfit
+
+  *We may subsequently remaster more things or revisit armour in the future, but our tools are limited, so that'll be something for the remastering stage*
 ### Fixed
 - Improve Pin Bar layout behavior
-- Opponent Information: Fix player lookup
+- Opponent Information: Fix player lookup, refine UI settings
 - Fix Amulet of the Eye recoloring (fixes hdos/issues#1345)
 
 ## [291] 2022-26-10
