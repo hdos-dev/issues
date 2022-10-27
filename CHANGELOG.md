@@ -4,6 +4,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [292] 2022-26-10
 ### Changed
 - #### **HD Pack 4.5**
   This special version is an addition to our fourth **HD PACK**. HD Packs aim to upgrade a group of OS models with custom assets, so they align with the HD art style.
@@ -23,6 +26,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Improve Pin Bar layout behavior
 - Opponent Information: Fix player lookup, refine UI settings
 - Fix Amulet of the Eye recoloring (fixes hdos/issues#1345)
+- Fix the world list not listing specific worlds
 
 ## [291] 2022-26-10
 ### Changed
