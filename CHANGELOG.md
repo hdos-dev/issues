@@ -8,9 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - #### **HD Pack 4.5**
   This special version is an addition to our fourth **HD PACK**. HD Packs aim to upgrade a group of OS models with custom assets, so they align with the HD art style.
 
-  This additional HD pack version has a set of smaller improvements. Although the event is limited, we may re-introduce some of the assets in a future event.
+  This additional HD pack version has a set of smaller improvements, and targets the **Oldschool Halloween event**. Although the event is limited, we may re-introduce some of the assets in a future event.
 
-  The following changes are **Oldschool Halloween event** introduced:
+  The following changes are introduced:
   - Additional fixes were made after the initial fixes in v291
   - Remastered all objects
   - Added additional (slightly lighter) Halloween atmospheres to several zones
