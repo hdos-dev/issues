@@ -4,12 +4,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+
+## [293] 2022-29-10
+### Added
+- Add Plugin: Screenshot
 ### Fixed
 - Fix known crashes
 - Fix many incorrect chatheads
 - Transmog Plugin: locking the look no longer breaks the client after re-logging (fixes hdos/issues#1341)
-
-
 
 ## [292] 2022-26-10
 ### Changed
