@@ -4,7 +4,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-
+### Changed
+- Screenshot plugin: add "Open Folder" button to open screenshot directory
 
 
 ## [293] 2022-29-10
