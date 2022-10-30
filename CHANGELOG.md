@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - Fix known crashes
 - Fix many incorrect chatheads
+- Transmog Plugin: locking the look no longer breaks the client after re-logging (fixes hdos/issues#1341)
 
 
 
