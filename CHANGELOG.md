@@ -4,14 +4,32 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+
+## [294] 2022-31-10
 ### Changed
+- Restored the following areas in the Kandarin region:
+  - Seers village
+  - Temple of Ikov
+  - Fishing Guild and part of Baxtorian
+  - Coal trucks and the dwarven outpost
+  - Ranging Guild
+  - McGrubor's Wood
+  - SinclairMansion
+  - Elemental Workshop
 - Screenshot plugin: add "Open Folder" button to open screenshot directory
 - Screenshot plugin: enable "Valuable Drops" by default
-- Restore Fire cape (i)
+- Restore Fire cape (i) (fixes hdos/issues#1290)
 ### Fixed
 - Screenshot plugin: fix the year-month formatting to not be a month behind
 - Fix crashing when zooming at a low target FPS (fixes hdos/issues#1352)
-
+- Added some missing rocks and fixed an underwater issue in the Baxtorian falls
+- Fixed a mapfilter issue where the metal dragon task-only area in the Brimhaven Dungeon would be inaccessible
+- You can once again exit the Nature's Grotto whilst doing the quest (fixes hdos/issues#1351)
+- Pyrefiends now perform the correct defend animation (fixes hdos/issues#1324)
+- Several doors in Port Sarim no longer revert to their old models after opening and closing them (fixes hdos/issues#1311)
+- Entrana fences are no longer sunken into the ground (fixes hdos/issues#1309)
 
 ## [293] 2022-29-10
 ### Added
