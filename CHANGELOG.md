@@ -10,6 +10,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - Screenshot plugin: fix the year-month formatting to not be a month behind
 - Fix crashing when zooming at a low target FPS (fixes hdos/issues#1352)
+- Restore Fire cape (i)
 
 
 ## [293] 2022-29-10
