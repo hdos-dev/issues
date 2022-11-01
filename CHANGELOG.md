@@ -4,7 +4,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-
+### Fixed
+- Screenshot plugin: fix a bug where events are captured before they are rendered
 
 
 ## [294] 2022-31-10
