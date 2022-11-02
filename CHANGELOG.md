@@ -4,9 +4,23 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-### Fixed
-- Screenshot plugin: fix a bug where events are captured before they are rendered
 
+
+
+## [295] 2022-2-11
+### Changed
+- Restore Troll Stronghold (fixes hdos/issues#434 hdos/issues#888 hdos/issues#890)
+### Added
+- Add plugin: Object Markers
+### Fixed
+- Screenshot: fix a bug where events are captured before they are rendered
+- Ground Items: fix lootbeams from despawning when changing regions
+- Fix overheads from clipping through the minimap
+- Fixed a Z-Fighting issue regarding the player's shadow on the Seer's Village rooftop agility course
+- The furnace in Burgh de Rott should once again be interactable during the In Aid of the Myreque quest (We are aware that the fire inside the furnace may not animate. We will have to revisit this later due to a deeper engine problem)
+- Removed an excessive light in the Temple of Ikov
+- The Ice Queen Lair is once again fully accessible whilst MapFilter is enabled
+- A certain type of steel door no longer vanishes whilst it's being opened 
 
 ## [294] 2022-31-10
 ### Changed
