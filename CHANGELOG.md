@@ -7,8 +7,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - The sidebar button should no longer get lost randomly in the middle of the screen (fixes hdos/issues#1069)
 - Improve Opponent Information plugin (fixes hdos/issues#1358)
+- Improve update performance (the client should no longer get stuck at "Fetching Config")
 ### Removed
 - Remove Quick Settings from the toolbar (since it's enabled by default now)
+
+
 
 ## [295] 2022-2-11
 ### Changed
