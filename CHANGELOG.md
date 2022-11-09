@@ -11,6 +11,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Changed
 - Restored and remastered Brimhaven Dungeon and its new areas (fixes hdos/issues#893 hdos/issues#435 hdos/issues#428 hdos/issues#138)
 - The eeriness of Halloween has subsided, and the crew has packed up their things. Until next year!
+- The bushes at Lord Handelmorts home in Ardogne has been now properly watered by Horacio
 - Restored baby green dragons
 - Restore Tool Leprechaun
 - Added a missing rock in the Port Sarim waters
