@@ -5,7 +5,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Fixed
-- The sidebar button should no longer get lost randomly in the middle of the screen (fixes hdos/issues#h1069)
+- The sidebar button should no longer get lost randomly in the middle of the screen (fixes hdos/issues#1069)
 - Improve Opponent Information plugin (fixes hdos/issues#1358)
 
 
