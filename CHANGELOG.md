@@ -11,7 +11,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Changed
 - Restored and remastered Brimhaven Dungeon and its new areas (fixes hdos/issues#893 hdos/issues#435 hdos/issues#428 hdos/issues#138)
 - The eeriness of Halloween has subsided, and the crew has packed up their things. Until next year!
-- The bushes at Lord Handelmorts home in Ardogne has been now properly watered by Horacio
+- The bushes at Lord Handelmorts home in Ardogne have been now properly watered by Horacio
 - Restored baby green dragons
 - Restore Tool Leprechaun
 - Added a missing rock in the Port Sarim waters
@@ -25,6 +25,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - (Desert) goats will now perform their animations correctly
 - A type of wooden gate in Nardah will no longer be rotated the wrong way around (also fixes future cases of this model)
 - The door in Gerrant's fishing shop in Port Sarim will no longer duplicate (fixes hdos/issues#1311)
+- Fix misspelled agility courses within the Agility plugin
 ### Removed
 - Remove Quick Settings from the toolbar (since it's enabled by default now)
 
