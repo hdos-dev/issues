@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+
+## [296] 2022-9-11
 ### Changed
 - Restored and remastered Brimhaven Dungeon and its new areas (fixes hdos/issues#893 hdos/issues#435 hdos/issues#428 hdos/issues#138)
 - The eeriness of Halloween has subsided, and the crew has packed up their things. Until next year!
@@ -22,8 +26,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - The door in Gerrant's fishing shop in Port Sarim will no longer duplicate (fixes hdos/issues#1311)
 ### Removed
 - Remove Quick Settings from the toolbar (since it's enabled by default now)
-
-
 
 ## [295] 2022-2-11
 ### Changed
