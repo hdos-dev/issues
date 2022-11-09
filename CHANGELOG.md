@@ -4,10 +4,22 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Changed
+- Restored and remastered Brimhaven Dungeon and its new areas (fixes hdos/issues#893 hdos/issues#435 hdos/issues#428 hdos/issues#138)
+- The eeriness of Halloween has subsided, and the crew has packed up their things. Until next year!
+- Restored baby green dragons
+- Restore Tool Leprechaun
+- Added a missing rock in the Port Sarim waters
 ### Fixed
+- Improve update performance (the client should no longer get stuck at "Fetching Config")
 - The sidebar button should no longer get lost randomly in the middle of the screen (fixes hdos/issues#1069)
 - Improve Opponent Information plugin (fixes hdos/issues#1358)
-- Improve update performance (the client should no longer get stuck at "Fetching Config")
+- Fixed window symmetry of the Edgeville Monastery (fixes hdos/issues#1328)
+- You can no longer walk through the wall of the Edgeville Monastery (fixes hdos/issues#1328)
+- The web in the Temple of Ikov can once again be interacted with
+- (Desert) goats will now perform their animations correctly
+- A type of wooden gate in Nardah will no longer be rotated the wrong way around (also fixes future cases of this model)
+- The door in Gerrant's fishing shop in Port Sarim will no longer duplicate (fixes hdos/issues#1311)
 ### Removed
 - Remove Quick Settings from the toolbar (since it's enabled by default now)
 
