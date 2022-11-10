@@ -6,12 +6,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Added
 - Added background fps : ***when unfocused fps will be capped to the desired value***
+### Fixed
+- Misc. npcs have been restored back to their original forms prior to this weeks game update
+
 
 ## [296] 2022-9-11
 ### Changed
 - Restored and remastered Brimhaven Dungeon and its new areas (fixes hdos/issues#893 hdos/issues#435 hdos/issues#428 hdos/issues#138)
 - The eeriness of Halloween has subsided, and the crew has packed up their things. Until next year!
-- The bushes at Lord Handelmorts home in Ardogne have been now properly watered by Horacio
+- The bushes at Lord Handelmorts home in Ardougne have been now properly watered by Horacio
 - Restored baby green dragons
 - Restore Tool Leprechaun
 - Added a missing rock in the Port Sarim waters
