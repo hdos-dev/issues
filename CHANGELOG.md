@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Added
 - Added background fps : ***when unfocused fps will be capped to the desired value***
+- Camera Plugin: Add the ability to unlock the minimum pitch
 ### Fixed
 - Misc. npcs have been restored back to their original forms prior to this weeks game update
 
