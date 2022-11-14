@@ -9,6 +9,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Camera Plugin: Add the ability to unlock the minimum pitch
 ### Fixed
 - Misc. npcs have been restored back to their original forms prior to this weeks game update
+### Changed
+- Make the default outline thickness more sleeker
 
 
 ## [296] 2022-9-11
