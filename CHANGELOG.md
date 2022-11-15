@@ -4,14 +4,30 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [297] 2022-15-11
 ### Added
 - Added background fps : ***when unfocused fps will be capped to the desired value***
 - Camera Plugin: Add the ability to unlock the minimum pitch
-### Fixed
-- Misc. npcs have been restored back to their original forms prior to this weeks game update
 ### Changed
+- Restored the Lumbridge Swamp Caves
+- Restored Tears of Guthix
+- Restored Edgeville Dungeon's earth warrior area (fixes hdos/issues#1374)
+- Restored Pest Control (fixes hdos/issues#345 hdos/issues#696 hdos/issues#1371)
 - Make the default outline thickness more sleeker
-
+### Fixed
+- Fix random cases where the client would hang for a few seconds before recovering
+- Misc. npcs have been restored back to their original forms prior to this weeks game update
+- Removed an unnecessary wall at the entrance in Brimhaven Dungeon (fixes hdos/issues#1364)
+- Port Sarim chests, drawers and doors should finally work as expected (fixes hdos/issues#1311)
+- The z-fighting in the Port Sarim jail has been resolved (fixes hdos/issues#1311)
+- Paterdomus Temple walls have reappeared
+- Slightly moved a wall in the Paterdomus Temple to where you should not be able to walk
+- The Lumbridge Swamps-Lumbridge Cellar shortcut is once again accessible whilst MapFilter is enabled (fixes hdos/issues#1379)
+- Tears of Guthix is once again accessible from the Lumbridge Caves whilst MapFilter is enabled
+- An underwater gap along the shore of Hazelmere's island has been fixed (fixes hdos/issues#1365)
+- The tool leprechaun restore intended for v296 should now work properly (fixes hdos/issues#1363)
 
 ## [296] 2022-9-11
 ### Changed
