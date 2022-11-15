@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Added
+- Agility Plugin: add Meiyerditch and Revenant cave shortcuts
+### Fixed
+- Players can not properly leave the Pest Control boat without ending up floating over the boat
+- Fixed L-shape movements (fixes hdos/issues#1123)
 
 
 ## [297] 2022-14-11
