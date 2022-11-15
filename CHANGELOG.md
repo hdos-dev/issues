@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
-## [297] 2022-15-11
+## [297] 2022-14-11
 ### Added
 - Added background fps : ***when unfocused fps will be capped to the desired value***
 - Camera Plugin: Add the ability to unlock the minimum pitch
