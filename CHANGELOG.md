@@ -5,10 +5,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Changed
+- All the areas affected by Oldschool's Halloween event have returned to normal
 - Juna has been restored
 - Agility Plugin: add Meiyerditch and Revenant cave shortcuts
+- Remastered some motherlode mine models to make it less jarring (fixes hdos/issues#385)
+- Improved Zalcano's atmosphere (fixes hdos/issues#200)
+  - Additionally, some lighting was added
 ### Fixed
-- Players can not properly leave the Pest Control boat without ending up floating over the boat
+- Players can now properly leave the Pest Control boat without ending up floating over the boat (fixes hdos/issues#1369)
 - Fixed L-shape movements (fixes hdos/issues#1123)
 - The Inferno cape inventory icon no longer becomes invisible when using Low texture detail
 - Improve various chathead animations
@@ -20,7 +24,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - The Falador Teleport tablet icon no longer appears larger than the rest (fixes hdos/issues#1273)
 - The cannons during the Tempoross fight now shoot fish instead of light spheres (fixes hdos/issues#1268)
 - Fixed several missmaps where the Barbarian Assault icons would replace other models (such as in the Hallowed Sepulchre) (fixes hdos/issues#421 hdos/issues#1230)
-- Improve animation smoothing (fixes hdos/issues#1196 hdos/issues#1380)
+- Improve animation smoothing (fixes hdos/issues#1196 hdos/issues#1380) 
+- Patched up the river west of the Gnome Ball Field (fixes hdos/issues#52)
+- The Jormungand's Prison Dungeon (Island of Stone) has been cleaned up (fixes hdos/issues#183)
+- Made the following improvements to the "Getting Ahead" quest (fixes hdos/issues#379):
+  - Atmosphere of the cave has been improved
+  - The interaction with the cave exit has been corrected
+  - Flour should now appear correctly
+  - Skeletons are no longer mismapped
+- The Fisherman Realm has been restored, and:
+  - Restored the Freaky Forester random event (they secretly hide there..)
+  - Heavily improved background terrain and MapFilter
+  - Fixed all the torches burning through the roof and improved lighting (fixes hdos/issues#361)
 
 
 ## [297] 2022-14-11
