@@ -10,7 +10,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [299] 2022-16-11
 ### Fixed
-- Fix downgraded assets and other regressions from todays game update
+- Fix downgraded assets and other regressions from today's game update
 
 ## [298] 2022-16-11
 ### Changed
