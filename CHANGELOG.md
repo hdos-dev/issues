@@ -4,6 +4,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+## [297] 2022-14-11
 ### Changed
 - All the areas affected by Oldschool's Halloween event have returned to normal
 - Juna has been restored
@@ -36,7 +39,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - Restored the Freaky Forester random event (they secretly hide there..)
   - Heavily improved background terrain and MapFilter
   - Fixed all the torches burning through the roof and improved lighting (fixes hdos/issues#361)
-
+- Fixed an underwater issue at the Wizard's Tower
 
 ## [297] 2022-14-11
 ### Added
