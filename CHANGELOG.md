@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [299] 2022-16-11
+### Fixed
+- Fix downgraded assets and other regressions from todays game update
+
 ## [298] 2022-16-11
 ### Changed
 - All the areas affected by Oldschool's Halloween event have returned to normal
