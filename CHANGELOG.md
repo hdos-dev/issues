@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Fixed
 - Fix sit-on objects (fixes hdos/issues#303)
+- The following improvements have been made to Port Sarim:
+  - Some furniture has been upgraded
+  - Some (interactable) furniture has been downgraded, to prevent transformation upon interaction (fixes hdos/issues#1311)
+- Menu Entry Swappers: Fix priorities (fixes hdos/issues#1239 hdos/issues#1265 hdos/issues#1104) 
 
 
 ## [299] 2022-16-11
