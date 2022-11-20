@@ -3,9 +3,33 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
+
 ## [Unreleased]
+### Changed
+- Restored Draynor Manor (fixes hdos/issues#213)
+- Restored the Yanille Agility Dungeon (fixes hdos/issues#364)
+- Restored North-East of the Kharidian Desert (fixes hdos/issues#375)
+- Made the following improvements to Yanille:
+  - Restored the Yanille area whilst you are in the upstairs section of the Watchtower
+  - Upgraded the fountain by the Watchtower
+  - Improved the staircase leading into the Yanille Agility Dungeon (fixes hdos/issues#658)
+  - Two small corners in the entrance wall of Yanille have been fixed as part of an underlying issue
+- Captain Barnaby has been restored (fixes hdos/issues#387)
+- Catacombs of Kourend's atmosphere has been brightened slightly
 ### Fixed
 - Fix agile inventory sprites
+- Fixed the following in the Spirit of Elid and Kalphite (task-only) Slayer dungeons:
+  - Random oldschool walls have been cleaned up (fixes hdos/issues#368)
+  - Improved MapFilter so both dungeons are no longer visible for each other
+    - Tears of Guthix is also no longer visible from either of these dungeons whilst MapFilter is enabled
+  - A missing wall piece in the task-only dungeon has been added until its remaster
+  - Added a cave atmosphere to the task-only dungeon
+- Fixed the lava in Brimhaven Dungeon (fixes hdos/issues#1393)
+- Fully grown and diseased Oak trees have had their bushes trimmed (fixes hdos/issues#301)
+- Bill Teach has been restored, and is no longer missing his torso (fixes hdos/issues#366)
+- Ross' arms are no longer burnt (fixes hdos/issues#397)
+- Fixed an issue where Draynor Manor's atmosphere would get stale after enabling the Halloween event
+
 
 
 ## [300] 2022-16-11
