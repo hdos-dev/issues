@@ -5,7 +5,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 ## [Unreleased]
-
+### Fixed
+- MES: Fix "Teleport to POH" priority over "Teleport" (fixes hdos/issues#1399)
 
 
 ## [301] 2022-20-11
