@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 ## [Unreleased]
+
+
+
+## [301] 2022-20-11
 ### Changed
 - Restored Draynor Manor (fixes hdos/issues#213)
 - Restored the Yanille Agility Dungeon (fixes hdos/issues#364)
@@ -29,8 +33,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Bill Teach has been restored, and is no longer missing his torso (fixes hdos/issues#366)
 - Ross' arms are no longer burnt (fixes hdos/issues#397)
 - Fixed an issue where Draynor Manor's atmosphere would get stale after enabling the Halloween event
-
-
 
 ## [300] 2022-16-11
 ### Changed
