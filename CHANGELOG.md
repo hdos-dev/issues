@@ -8,6 +8,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 
+
+## [303] 2022-21-11
+### Fixed
+- Fix OpenGL NullPointerException crash
+- Fix underworld crack in Tutorial Island
+
 ## [302] 2022-21-11
 ### Changed
 - Restored Tutorial Island, and remastered The Node (fixes hdos/issues#219 hdos/issues#332 hdos/issues#580)
@@ -17,7 +23,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - MES: Fix "Teleport to POH" priority over "Teleport" (fixes hdos/issues#1399)
 - Additional Npcs downgrade fixes intended for v297 have been included
-- Fix OpenGL NullPointerException crash
 
 ## [301] 2022-20-11
 ### Changed
