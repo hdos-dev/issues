@@ -13,6 +13,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Restored Tutorial Island, and remastered The Node (fixes hdos/issues#219 hdos/issues#332 hdos/issues#580)
   - _The Ironman dialog (issue 1392) will be fixed soon_
 - Restored the Undead Trees around Draynor Manor (fixes hdos/issues#1402)
+- Ground Items: reformat the game message notification
 ### Fixed
 - MES: Fix "Teleport to POH" priority over "Teleport" (fixes hdos/issues#1399)
 - Additional Npcs downgrade fixes intended for v297 have been included
