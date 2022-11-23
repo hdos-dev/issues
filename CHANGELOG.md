@@ -5,12 +5,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 ## [Unreleased]
+
+
+
+## [304] 2022-22-11
 ### Changed
+- Change default world to 301
 - The Kourend (white) graceful outfit has been cleaned by Sarahs trusty loom
 ### Fixed
 - Fix known crashes
-
-
 
 ## [303] 2022-21-11
 ### Fixed
