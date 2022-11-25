@@ -5,7 +5,33 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 ## [Unreleased]
-
+### Fixed
+- Numerous improvements have been made to Lumbridge:
+  - The downgraded tiles in the Lumbridge kitchen and -basement have been upgraded
+  - Several walls that are adjacent to doors have been replaced by the compatible variants
+  - The stairs on the upmost floor of the Lumbridge castle have been fixed
+  - Restored the interior inside the Lumbridge castle bank
+  - The cannonballs displayed as a ladder by the Lumbridge castle bank have been put back
+    - The ladder has been moved to the other side
+  - Restored the back entrance of the Lumbridge courtyard (and re-added the tower)
+  - Dozens of models have been restored or upgraded
+  - The king's statue has been remodeled to be compatible for the restore (fixes hdos/issues#1404)
+  - The general store has been overhauled
+  - Windows of all the houses have been restored
+  - Pathing has been improved to accommodate for oldschool layout
+  - The oldschool bushes that are seen for non-ironman accounts (instead of the portal) have been remastered
+  - The rusted anvil has been remastered
+  - In several places the types and colours of fences and fence gates has been improved
+  - Several parts of the church have been restored
+  - The "strange hole" from the "A Porcine of Interest" quest has been remasered and no longer has dirt inside it (fixes hdos/issues#512)
+- The following improvements have been made to the Grand Exchange agility tunnel shortcut:
+  - The upper walls are no longer slightly sunken and the tile heights have been improved
+  - The surrounding pebbles of one of the holes have been re-added
+  - Some upper walls will no longer disappear whilst roofs are hidden
+  - An issue where the minimap would display two agility shortcut icons has been fixed
+- Fixed an issue where tile heights would conflict and raise a building's corner in the air after growing back the hedges by Ardougne's mansion
+- Fix item outlines in misc. interfaces
+- Improve terrain blending
 
 
 ## [304] 2022-22-11
