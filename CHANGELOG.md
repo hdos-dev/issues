@@ -5,8 +5,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 ## [Unreleased]
+
+
+
+
+
+## [305] 2022-25-11
 ### Changed
-- 86 different skeletons have been restored (including the Skeletal Mystics from CoX!)
+- Restored Al-Kharid and Shantay Pass (fixes hdos/issues#1395)
+  - Captain Dalbur has also been restored
+- 86 different skeletons have been restored (including the Skeletal Mystics from CoX!) (fixes hdos/issues#1403)
 - Gargoyles are now upgraded when they shatter
 - Numerous improvements have been made to Lumbridge:
   - The downgraded tiles in the Lumbridge kitchen and -basement have been upgraded
@@ -34,6 +42,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
     - Smithing tutor (Smithing apprentice)
     - Bartender
     - Account security tutor (Henry, Professor of Stronghold of Player Safety)
+    - Bank tutor
 ### Fixed
 - The following improvements have been made to the Grand Exchange agility tunnel shortcut:
   - The upper walls are no longer slightly sunken and the tile heights have been improved
@@ -46,8 +55,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Fix item outlines in misc. interfaces
 - Improve terrain blending
 - Fix a bug where NPCs would disappear when the client recovers from a disconnect
-
-
 
 ## [304] 2022-22-11
 ### Changed
