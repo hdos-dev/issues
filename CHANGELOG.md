@@ -8,7 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 
-
+## [306] 2022-25-11
+### Fixed
+- Agility plugin: Fix broken shortcut regression from v305
 
 ## [305] 2022-25-11
 ### Changed
