@@ -45,6 +45,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - *We are looking into solutions to fix the spinning wheel itself*
 - Fix item outlines in misc. interfaces
 - Improve terrain blending
+- Fix a bug where NPCs would disappear when the client recovers from a disconnect
 
 
 
