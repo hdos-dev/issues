@@ -7,7 +7,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Fixed
 - The "strange hole" from the "A Porcine of Interest" quest is now also fixed prior to completing the quest
-
+- A fence in Lumbridge has been replaced by the correct type
+- The mining rocks in the western part of the Lumbridge swamp should now also be permanently upgraded
 
 
 ## [306] 2022-25-11
