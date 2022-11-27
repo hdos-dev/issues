@@ -5,9 +5,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Changed
+- The heroes guild and the heroes guild's dungeon have been restored (fixes hdos/issues#605)
+  - MapFilter has also been improved for the dungeon
+- Witch's House dungeon has been restored
+- Burthorpe has been restored
+  - Also restored the Zamorakian temple and fixed the Falador wall (fixes hdos/issues#807)
+  - Burthorpe's games room has also been restored, but will see a rework if it becomes relevant content
+- Rogues' Den has been restored
+  - MapFilter has also been improved
 - Uzer, the Uzer ruins and the Shadow realm have been restored (fixes hdos/issues#374)
 - The poll booth flag has been textured
-- The following improvements have been made to Taverley:
+- The following improvements have been made to Taverley (fixes hdos/issues#550):
   - Stools are no longer clipping inside tables (fixes hdos/issues#633)
   - Stools, staircases, bookcases and sword racks have been upgraded
   - A missing roof has been added
