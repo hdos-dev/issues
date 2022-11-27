@@ -5,11 +5,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Changed
+- Uzer, the Uzer ruins and the Shadow realm have been restored (fixes hdos/issues#374)
 - The poll booth flag has been textured
+- The following improvements have been made to Taverley:
+  - Stools are no longer clipping inside tables (fixes hdos/issues#633)
+  - Stools, staircases, bookcases and sword racks have been upgraded
+  - A missing roof has been added
 ### Fixed
 - Fix a bug where plugins and other UI elements break on client reset (fixes hdos/issues#1300)
 - Quick settings no longer requires pressing double-shift twice to close
 - Fix a bug where the minimum size of the client was wrong after opening/closing the sidebar (fixes hdos/issues#1349)
+- Fix a bug where plugins would disappear within the quick settings if the user changes window modes after starting the client
 - The following improvements have been made to the Edgeville Dungeon:
   - The sign on the door is now visible on both sides (fixes hdos/issues#424)
   - The columns now more accurately reflect collision
