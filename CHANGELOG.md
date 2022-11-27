@@ -3,14 +3,18 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
-
 ## [Unreleased]
 ### Fixed
+- The following improvements have been made to the Edgeville Dungeon:
+  - The sign on the door is now visible on both sides (fixes hdos/issues#424)
+  - The columns now more accurately reflect collision
+  - Several excessive stalactites have been removed
+  - All mining rocks are now stay upgraded when mined
 - Fix a bug where plugins and other UI elements break on client reset (fixes hdos/issues#1300)
 - The "strange hole" from the "A Porcine of Interest" quest is now also fixed prior to completing the quest
 - A fence in Lumbridge has been replaced by the correct type
-- The mining rocks in the western part of the Lumbridge swamp should now also be permanently upgraded
-
+- The fireplace in the Lumbridge general store no longer shines through the wall
+- The mining rocks in the western part of the Lumbridge swamp should now also stay upgraded when mined
 
 ## [306] 2022-25-11
 ### Fixed
@@ -58,7 +62,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Fixed an issue where tile heights would conflict and raise a building's corner in the air after growing back the hedges by Ardougne's mansion
 - The player is no longer drunk whilst trying to perform the spinning wheel animation
   - *We are looking into solutions to fix the spinning wheel itself*
-- Fix item outlines in misc. interfaces
+- Fix item outlines in misc. interfaces (fixes hdos/issues#1180)
 - Improve terrain blending
 - Fix a bug where NPCs would disappear when the client recovers from a disconnect
 
