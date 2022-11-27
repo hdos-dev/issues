@@ -7,17 +7,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Changed
 - The poll booth flag has been textured
 ### Fixed
+- Fix a bug where plugins and other UI elements break on client reset (fixes hdos/issues#1300)
+- Quick settings no longer requires pressing double-shift twice to close
+- Fix a bug where the minimum size of the client was wrong after opening/closing the sidebar (fixes hdos/issues#1349)
 - The following improvements have been made to the Edgeville Dungeon:
   - The sign on the door is now visible on both sides (fixes hdos/issues#424)
   - The columns now more accurately reflect collision
   - Several excessive stalactites have been removed
   - All mining rocks are now stay upgraded when mined
-- Fix a bug where plugins and other UI elements break on client reset (fixes hdos/issues#1300)
 - The "strange hole" from the "A Porcine of Interest" quest is now also fixed prior to completing the quest
 - A fence in Lumbridge has been replaced by the correct type
 - The fireplace in the Lumbridge general store no longer shines through the wall
 - The mining rocks in the western part of the Lumbridge swamp should now also stay upgraded when mined
-- Quick settings no longer requires pressing double-shift twice to close
 
 
 ## [306] 2022-25-11
