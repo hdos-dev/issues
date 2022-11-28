@@ -35,6 +35,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - A fence in Lumbridge has been replaced by the correct type
 - The fireplace in the Lumbridge general store no longer shines through the wall
 - The mining rocks in the western part of the Lumbridge swamp should now also stay upgraded when mined
+- Sir Rebral now properly upgrades (fixes hdos/issues#766)
+- The upper walls in the lighthouse dungeon no longer disappear while 'hide roofs' is enabled
 
 
 ## [306] 2022-25-11
