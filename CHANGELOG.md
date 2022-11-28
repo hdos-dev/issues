@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+
+## [307] 2022-28-11
 ### Added
 - Added support for full screen fixed mode
 ### Removed
@@ -42,7 +46,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - The mining rocks in the western part of the Lumbridge swamp should now also stay upgraded when mined
 - Sir Rebral now properly upgrades (fixes hdos/issues#766)
 - The upper walls in the lighthouse dungeon no longer disappear while 'hide roofs' is enabled
-
 
 ## [306] 2022-25-11
 ### Fixed
