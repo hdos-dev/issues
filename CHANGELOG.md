@@ -5,7 +5,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Added
-- Added support for full screen resizable mode
+- Added support for full screen fixed mode
 ### Removed
 - Removed the ability to change window modes outside of the game (replaced with a `Full Screen` toggle)
 ### Changed
@@ -29,8 +29,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Quick settings no longer requires pressing double-shift twice to close
 - Fix a bug where the minimum size of the client was wrong after opening/closing the sidebar (fixes hdos/issues#1349)
 - Fix a bug where plugins would disappear within the quick settings if the user changes window modes after starting the client
+- Fix a bug where orbs would disappear when changing window modes when in full screen
 - Improve transparency rendering for landscape scenery
-- Fix a bug where orbs would disappear when changing window modes in full screen
 - The following improvements have been made to the Edgeville Dungeon:
   - The sign on the door is now visible on both sides (fixes hdos/issues#424)
   - The columns now more accurately reflect collision
