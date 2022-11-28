@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Added
+- Added support for full screen resizable mode
+### Removed
+- Removed the ability to change window modes outside of the game (replaced with a `Full Screen` toggle)
 ### Changed
 - The heroes guild and the heroes guild's dungeon have been restored (fixes hdos/issues#605)
   - MapFilter has also been improved for the dungeon
@@ -26,6 +30,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Fix a bug where the minimum size of the client was wrong after opening/closing the sidebar (fixes hdos/issues#1349)
 - Fix a bug where plugins would disappear within the quick settings if the user changes window modes after starting the client
 - Improve transparency rendering for landscape scenery
+- Fix a bug where orbs would disappear when changing window modes in full screen
 - The following improvements have been made to the Edgeville Dungeon:
   - The sign on the door is now visible on both sides (fixes hdos/issues#424)
   - The columns now more accurately reflect collision
