@@ -4,10 +4,22 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Changed
+- Improved terrain around the shortcut behind the Zamorak Temple to more clearly indicate where you can walk
 ### Fixed
 - Fix overlay dragging (no longer randomly changes positions after you drop them)
 - Fix rouges den poll booth (fixes hdos/issues#1415)
 - Fix Loot Tracker performance issues when rendering allot of loot (fixes hdos/issues#1174)
+- MapFilter improvements intended for v307 are now in effect
+- The roof in the Zamorak temple west of Goblin Village now hides when climbing up inside the tower (fixes hdos/issues#1417)
+- Red tiles no longer float above Taverley (fixes hdos/issues#1416 hdos/issues#1414)
+- Using the agility shortcut behind the Zamorak temple will no longer cause your character to fly across the map
+- Several interaction problems have been fixed (fixes hdos/issues#1413):
+  - Doors in the basement of the Wizard's Tower no longer downgrade upon interaction
+  - Port Sarim's interaction fixes should now be in effect properly
+  - Doors in Edgeville and the Monastery (Oziach's shop) will no longer downgrade upon interaction
+  - Wardrobes in Rimmington will no longer rotate upon interaction
+  - The bank objects in the Rogue's Den have been re-added (fixes hdos/issues#1415)
 
 
 ## [307] 2022-28-11
