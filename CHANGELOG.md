@@ -7,6 +7,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - Fix overlay dragging (no longer randomly changes positions after you drop them)
 - Fix rouges den poll booth (fixes hdos/issues#1415)
+- Fix Loot Tracker performance issues when rendering allot of loot (fixes hdos/issues#1174)
+
 
 ## [307] 2022-28-11
 ### Added
