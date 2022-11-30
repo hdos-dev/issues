@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Improved terrain around the shortcut behind the Zamorak Temple to more clearly indicate where you can walk
 ### Fixed
 - Fix overlay dragging (no longer randomly changes positions after you drop them)
-- Improve object click boxes to better match OSRS behavior
+- Improve click boxes to better match standard OSRS behavior (fixes hdos/issues#1171)
 - Fix rouges den poll booth (fixes hdos/issues#1415)
 - Fix Loot Tracker performance issues when rendering a lot of loot (fixes hdos/issues#1174)
 - MapFilter improvements intended for v307 are now in effect
