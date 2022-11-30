@@ -9,7 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - Fix overlay dragging (no longer randomly changes positions after you drop them)
 - Fix rouges den poll booth (fixes hdos/issues#1415)
-- Fix Loot Tracker performance issues when rendering allot of loot (fixes hdos/issues#1174)
+- Fix Loot Tracker performance issues when rendering a lot of loot (fixes hdos/issues#1174)
 - MapFilter improvements intended for v307 are now in effect
 - The roof in the Zamorak temple west of Goblin Village now hides when climbing up inside the tower (fixes hdos/issues#1417)
 - Red tiles no longer float above Taverley (fixes hdos/issues#1416 hdos/issues#1414)
