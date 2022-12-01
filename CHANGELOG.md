@@ -4,15 +4,22 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+
+
+## [308] 2022-30-11
 ### Changed
 - Improved terrain around the shortcut behind the Zamorak Temple to more clearly indicate where you can walk
-- Improve the atmosphere in the Giants' Foundry
+- Improved the atmosphere in the Giants' Foundry
+- Improved MapFilter in the Stronghold slayer dungeon
 ### Fixed
-- Improve clickboxes to better match standard OSRS behavior (fixes hdos/issues#1171)
+- Improve clickboxes to better match standard OSRS behavior (fixes hdos/issues#1171 hdos/issues#1182 hdos/issues#1267)
 - Fix Loot Tracker performance issues when rendering a lot of loot (fixes hdos/issues#1174)
 - Fix the Giants Foundry interface
 - Fix overlay dragging (no longer randomly changes positions after you drop them)
 - Improve the clickbox for ladder in the Motherload Mine
+- Fix context cursors from breaking on formatted menu entries
 - MapFilter improvements intended for v307 are now in effect
 - The roof in the Zamorak temple west of Goblin Village now hides when climbing up inside the tower (fixes hdos/issues#1417)
 - Red tiles no longer float above Taverley (fixes hdos/issues#1416 hdos/issues#1414)
@@ -26,9 +33,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - The carpet in the Ardougne's Estate Agent building has been repaired by Sarah's trusty loom
 - Fixed an issue where another fix regarding the 'hide roofs' option in the Lighthouse areas was too aggressive (fixes hdos/issues#1426)
 #### Audio (thanks to `@RS Orchestra#9880`)
-### Added
-- Added Ballad of the Basilisk (Sung parts from RS3) to Patch 1280 (Bank 10, Preset 0)
-### Changed
+- Added Ballad of the Basilisk (Sung parts from RS3)
 - Fight of the Basilisk (Frost Fight - HD Restore)
 - Ballad of the Basilisk (HD Remix with RS3 sung parts)
 - Roots and Flutes (HD Restore)
