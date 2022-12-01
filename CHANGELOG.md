@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Changed
 - Improved terrain around the shortcut behind the Zamorak Temple to more clearly indicate where you can walk
+- Improve the atmosphere in the Giants' Foundry
 ### Fixed
 - Fix overlay dragging (no longer randomly changes positions after you drop them)
 - Improve click boxes to better match standard OSRS behavior (fixes hdos/issues#1171)
