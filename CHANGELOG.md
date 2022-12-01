@@ -8,10 +8,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Improved terrain around the shortcut behind the Zamorak Temple to more clearly indicate where you can walk
 - Improve the atmosphere in the Giants' Foundry
 ### Fixed
-- Fix overlay dragging (no longer randomly changes positions after you drop them)
 - Improve clickboxes to better match standard OSRS behavior (fixes hdos/issues#1171)
 - Fix Loot Tracker performance issues when rendering a lot of loot (fixes hdos/issues#1174)
 - Fix the Giants Foundry interface
+- Fix overlay dragging (no longer randomly changes positions after you drop them)
 - Improve the clickbox for ladder in the Motherload Mine
 - MapFilter improvements intended for v307 are now in effect
 - The roof in the Zamorak temple west of Goblin Village now hides when climbing up inside the tower (fixes hdos/issues#1417)
@@ -25,6 +25,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - The bank objects in the Rogue's Den have been re-added (fixes hdos/issues#1415)
 - The carpet in the Ardougne's Estate Agent building has been repaired by Sarah's trusty loom
 - Fixed an issue where another fix regarding the 'hide roofs' option in the Lighthouse areas was too aggressive (fixes hdos/issues#1426)
+#### Audio (thanks to `@RS Orchestra#9880`)
+### Added
+- Added Ballad of the Basilisk (Sung parts from RS3) to Patch 1280 (Bank 10, Preset 0)
+### Changed
+- Fight of the Basilisk (Frost Fight - HD Restore)
+- Ballad of the Basilisk (HD Remix with RS3 sung parts)
+- Roots and Flutes (HD Restore)
+- Elven Seed (HD Restore)
+- The Terrible Caverns (HD Restore)
+- The Terrible Tunnels (HD Restore)
 
 ## [307] 2022-28-11
 ### Added
