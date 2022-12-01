@@ -9,9 +9,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Improve the atmosphere in the Giants' Foundry
 ### Fixed
 - Fix overlay dragging (no longer randomly changes positions after you drop them)
-- Improve click boxes to better match standard OSRS behavior (fixes hdos/issues#1171)
-- Fix rouges den poll booth (fixes hdos/issues#1415)
+- Improve clickboxes to better match standard OSRS behavior (fixes hdos/issues#1171)
 - Fix Loot Tracker performance issues when rendering a lot of loot (fixes hdos/issues#1174)
+- Fix the Giants Foundry interface
+- Improve the clickbox for ladder in the Motherload Mine
 - MapFilter improvements intended for v307 are now in effect
 - The roof in the Zamorak temple west of Goblin Village now hides when climbing up inside the tower (fixes hdos/issues#1417)
 - Red tiles no longer float above Taverley (fixes hdos/issues#1416 hdos/issues#1414)
@@ -22,7 +23,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - Doors in Edgeville and the Monastery (Oziach's shop) will no longer downgrade upon interaction
   - Wardrobes in Rimmington will no longer rotate upon interaction
   - The bank objects in the Rogue's Den have been re-added (fixes hdos/issues#1415)
-
+- The carpet in the Ardougne's Estate Agent building has been repaired by Sarah's trusty loom
+- Fixed an issue where another fix regarding the 'hide roofs' option in the Lighthouse areas was too aggressive (fixes hdos/issues#1426)
 
 ## [307] 2022-28-11
 ### Added
