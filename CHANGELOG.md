@@ -10,6 +10,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [309] 2022-1-12
 ### Fixed
+- Fix Al-Kharid regression from last update
 - Release all the audio updates intended for the last update
 #### Audio (thanks to `@RS Orchestra#9880`)
 - Tombs of Amascut OST upgraded to HD soundset
