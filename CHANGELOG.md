@@ -4,10 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+
+## [311] 2022-8-12
 ### Fixed
 - The Spooky Cauldron behind Zaff's shop in Varrock has been remastered
 - The Rift Guardian pet remaster should now be working as intended
-
+- Fix item examining
 
 ## [310] 2022-8-12
 ### Changed
