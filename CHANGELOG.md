@@ -4,14 +4,32 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-
+### Fixed
+- The Spooky Cauldron behind Zaff's shop in Varrock has been remastered
+- The Rift Guardian pet remaster should now be working as intended
 
 
 ## [310] 2022-8-12
+### Changed
+- Drastically improved the Abyssal Nexus area
+  - *We will be returning to fix the rest of the area as a remaster at a later stage*
+- Improved MapFilter for the slayer tower basement (fixes hdos/issues#1434)
 ### Fixed
 - Update proto to 210
 - Other players pets are now hidden when trying to target them (fixes hdos/issues#1429)
 - When targeting, the default option now behaves similar to OSRS, and doesn't render a blank "Use ->" option.
+- The great blue heron pet will no longer appear as Donie in player-owned-houses
+- Some Uranium-235 has been removed from west of Canifis, no longer making your character glow green when walking past it (fixes hdos/issues#1431)
+- Some tile heights in Lumbridge have been adjusted to fix a sunken roof and a broken gate (fixes hdos/issues#1423)
+- The following improvements have been made to Edgeville Dungeon:
+  - Some collision issues that caused you to fly through the map have been fixed (fixes hdos/issues#1433)
+  - Additional columns have been removed and moved to more accurately reflect collision
+  - Some stalagmites have been cleaned up
+  - Gates and chests will no longer downgrade upon interaction
+  - A Z-Fighting issue has been resolved
+- Fixed a collision issue east of the Grand Exchange
+- MapFilter has been fixed for the Abyssal plane
+- South of the Falador wall is no longer downgraded
 
 ## [309] 2022-1-12
 ### Fixed
