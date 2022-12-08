@@ -4,10 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+
+## [310] 2022-8-12
 ### Fixed
+- Update proto to 210
 - Other players pets are now hidden when trying to target them (fixes hdos/issues#1429)
 - When targeting, the default option now behaves similar to OSRS, and doesn't render a blank "Use ->" option.
-
 
 ## [309] 2022-1-12
 ### Fixed
