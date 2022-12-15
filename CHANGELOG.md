@@ -4,9 +4,53 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Changed
+- #### HD Pack 5
+  This version marks our fifth **HD PACK**. HD Packs aim to upgrade a group of OS models with custom assets, so they align with the HD art style.
+
+  This HD Pack targets **Christmas**, and introduces the following changes:
+
+  - Santa has arrived and instructed snowmachines to be placed in Varrock, Lumbridge, Edgeville and Barbarian Village.
+  - Restored Music: Scape Santa
+  - Many old NPCs have returned, such as **Jack Frost** and the **Snow Imps**!
+  - Improved the performance of particles and reintroduced HD snowfall
+  - Added a custom snowy atmosphere to all areas affected by the event
+  - Added lights and improved several objects related to the oldschool event
+  - Players now leave footprints in the snow
+  - Over 100 objects have been remastered
+  - A couple of NPCs have been remastered
+  - Fixed the Z-Fighting issue on Santa's List
+  - Restored the Candy cane
+  - Restored the Anti-santa outfit as the Christmas Ghost outfit
+  - Restored the newer Party hat inventory icons
+
+  - Other major affected items:
+      ```
+      - Sweet nutcracker staff
+      - Festive nutcracker staff
+      - Sweet nutcracker outfit
+      - Festive nutcracker outfit
+      - Coal bag
+      - Christmas jumper
+      - Festive gamescrown
+      - Santa's list
+      ```
+
+  Note: *We wanted to get this to you as soon as possible, and we don't want to keep you waiting any longer, so as before, chat-heads and armour will not be the full remodeled versions we would like them to be. We will be returning to all of those respective models in the future.*
 ### Fixed
+- Several improvements have been made to areas within the Christmas event:
+  - Improved several roof heights
+  - The wilderness statistics board window has been removed, and the model has been upgraded to make it stand out more from the non-interactable variant
+  - A quest icon in the Lumbridge Kitchen is no longer missing (it was fixed, but got unintentionally removed whilst fixing a bug)
+  - A light has been added to the fireplace in the building by the north-eastern chicken pen
+  - The 2022 Pride event area by Barbarian Village has been restored to more accurately reflect oldschool's terrain
+  - A missing pillar around the Grand Exchange wall has been added, so it respects oldschool's collision
+  - Altered the size of one of the cabinets in Duke's room to compensate for the wall
+  - Fixed the collision issues by the Lumbridge cow pen (fixes hdos/issues#1441)
 - Fix nex centering bug (along with her minions) (fixes hdos/issues#1110)
 - fix extended npcs on floors > 0
+
+
 
 ## [311] 2022-8-12
 ### Fixed
