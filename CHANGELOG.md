@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Fixed
 - Fix nex centering bug (along with her minions) (fixes hdos/issues#1110)
-
+- fix extended npcs on floors > 0
 
 ## [311] 2022-8-12
 ### Fixed
