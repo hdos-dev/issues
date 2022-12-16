@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+
+
+## [312] 2022-15-12
 ### Changed
 - #### HD Pack 5
   This version marks our fifth **HD PACK**. HD Packs aim to upgrade a group of OS models with custom assets, so they align with the HD art style.
@@ -11,7 +16,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   This HD Pack targets **Christmas**, and introduces the following changes:
 
   - Santa has arrived and instructed snowmachines to be placed in Varrock, Lumbridge, Edgeville and Barbarian Village
-  - Restored Music: Scape Santa
+  - Restored Music (seasonal): Scape Santa, Smorgasbord, Haunting Christmas, Ghost of christmas presents
   - Many old NPCs have returned, such as **Jack Frost** and the **Snow Imps**!
   - Improved the performance of particles and reintroduced HD snowfall
   - Added a custom snowy atmosphere to all areas affected by the event
@@ -50,8 +55,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - Fixed the location of the fire light in Barbarian Village
 - Fix nex centering bug (along with her minions) (fixes hdos/issues#1110)
 - fix extended npcs on floors > 0
-
-
 
 ## [311] 2022-8-12
 ### Fixed
