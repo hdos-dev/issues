@@ -10,14 +10,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
   This HD Pack targets **Christmas**, and introduces the following changes:
 
-  - Santa has arrived and instructed snowmachines to be placed in Varrock, Lumbridge, Edgeville and Barbarian Village.
+  - Santa has arrived and instructed snowmachines to be placed in Varrock, Lumbridge, Edgeville and Barbarian Village
   - Restored Music: Scape Santa
   - Many old NPCs have returned, such as **Jack Frost** and the **Snow Imps**!
   - Improved the performance of particles and reintroduced HD snowfall
   - Added a custom snowy atmosphere to all areas affected by the event
   - Added lights and improved several objects related to the oldschool event
   - Players now leave footprints in the snow
-  - Over 100 objects have been remastered
+  - Over 125 objects have been remastered
   - A couple of NPCs have been remastered
   - Fixed the Z-Fighting issue on Santa's List
   - Restored the Candy cane
@@ -47,6 +47,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - A missing pillar around the Grand Exchange wall has been added, so it respects oldschool's collision
   - Altered the size of one of the cabinets in Duke's room to compensate for the wall
   - Fixed the collision issues by the Lumbridge cow pen (fixes hdos/issues#1441)
+  - Fixed the location of the fire light in Barbarian Village
 - Fix nex centering bug (along with her minions) (fixes hdos/issues#1110)
 - fix extended npcs on floors > 0
 
