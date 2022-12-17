@@ -3,10 +3,20 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
+
 ## [Unreleased]
 
 
 
+## [313] 2022-16-12
+### Changed
+- Ice has accumulated in the hay roofs in Lumbridge and the cooking's guild in Varrock
+- Snowy Yew and Willow trees should no longer downgrade after being chopped down
+- The pond in Lumbridge's forest has become frozen
+### Fixed
+- The fences by the potato field north-east of Lumbridge now respect collision correctly (fixes hdos/issues#1441)
+- Tempoross and other misc. npcs no longer show when extended npcs is enabled
+- Possible fix for a random bug where npcs would be swapped out with another.
 
 ## [312] 2022-15-12
 ### Changed
