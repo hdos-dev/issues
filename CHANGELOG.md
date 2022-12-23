@@ -5,7 +5,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 ## [Unreleased]
-
+### Changed
+- The second floor on the bar has been added (fixes hdos/issues#1408)
 
 
 ## [313] 2022-16-12
