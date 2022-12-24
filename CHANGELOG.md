@@ -7,8 +7,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
-
-
+## [315] 2022-23-12
+### Fixed
+- Fix last updates missing map files
 
 ## [314] 2022-23-12
 ### Changed
