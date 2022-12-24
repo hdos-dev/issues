@@ -5,7 +5,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 ## [Unreleased]
-
+### Fixed
+- Cormorants (sea birds) will no longer slide across the ground when moving
+- The Al-Kharid gates should no longer downgrade under certain conditions (fixes hdos/issues#1456)
 
 ## [315] 2022-23-12
 ### Fixed
