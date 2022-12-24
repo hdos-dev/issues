@@ -6,8 +6,70 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Changed
-- The second floor on the bar has been added (fixes hdos/issues#1408)
+- The second floor on the Lumbridge bar has been added (fixes hdos/issues#1408)
+- #### HD Pack 6
+  This version marks our sixth **HD PACK**. HD Packs aim to upgrade a group of OS models with custom assets, so they align with the HD art style.
 
+  This HD Pack targets various **Slayer** and **Combat** activities, and introduces the following changes:
+
+    - Restored the following areas in proximity to the remasters (fixes hdos/issues#224 hdos/issues#469 hdos/issues#1407):
+        ```
+        - Tree Gnome Stronghold
+        - Glarial's Tomb
+        - Brimstail's Cave (partial remaster)
+        - Piscatoris hunter area (partial remaster)
+        ```
+
+    - Remastered the following areas (fixes hdos/issues#858):
+        ```
+        - Tree Gnome Stronghold's slayer dungeon
+        - Monkey Madness II crash site (excluding the gorilla caverns)
+        - Kraken's Cove
+        ```
+        - Lighting, and environment such as lava and underwater have been added to the areas to create a more immersive feeling
+        - Added more realistic heights and depths to the slayer stronghold, similar to some other HD caves
+
+    - Affected items:
+        ```
+        - Kraken's Tentacle
+        - Saradomin-, Guthix- and Zamorak Imbued God Cloaks
+        - Ancestral Robes
+        - Justiciar's Armour
+        - Inquisitor's Armour
+        - Obsidian Armour
+        - Blade of Saeldor (including all recolours)
+        - Bow of Faerdhinen (including all recolours)
+        - Abyssal Dagger (including poisoned)
+        - Eldritch-, Harmonised-, Volatile- and regular Nightmare staves
+        - Dinh's Bulwark
+        - Dragon Harpoon
+        - Dragon Hasta
+        - Dragon Hunter Crossbow
+        - Elder Maul
+        - Kodai Wand and -Insignia
+        - Twisted Buckler
+        - Avernic Defender and -Hilt
+        - Scythe of Vitur (charged and uncharged)
+        - Sanguinesti Staff
+        - Leaf-bladed Battleaxe
+        - Slayer's Staff (e)
+        - Eternal, Pegasian and Primordial boots
+        - Guardian Boots
+        ```
+
+    - Additional changes:
+        - Tridents are now using a HD animation
+        - The Tridents' GFX's have been restored
+        - The Bow of Faerdhinen has been remodeled and now has a string attached
+        - The BoFa's crystal arrow GFX has been remastered
+        - Some ground items of the respective remastered items have been remastered
+        - The Avernic Defender has been remodeled (after the 2010's Flameburst defender)
+        - Cave Krakens has been remastered
+        - Cave Kraken Whirlpools are no longer completely transluscent
+        - King Narnode Shareen, Daero, Errdo, Prissy Scilla and Bolongo have been restored
+
+
+  - **Note**: *Some models have not yet been remodeled, so clipping- or chathead-related issues remain unchanged for those. Some of you have been longing for these for a while now, so we decided to include some non-remodeled versions to make the game seem less jarring. We are also aware some of you might long for HD overrides, such as chaotic weaponry. These are not included as of yet, but we are taking the ideas into consideration for the future.*
 
 ## [313] 2022-16-12
 ### Changed
