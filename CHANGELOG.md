@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 ## [Unreleased]
+
+
+
+## [316] 2022-24-12
 ### Changed
 - The following improvements have been made to the Corporeal Beast's cave:
   - The terrain has been restored
