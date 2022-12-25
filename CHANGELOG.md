@@ -17,6 +17,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - The Al-Kharid gates should no longer downgrade under certain conditions (fixes hdos/issues#1456)
 - Fix transforming objects (Farming crops, barrows doors, ect.) (fixes hdos/issues#1451 hdos/issues#1457)
 - Certain skyboxes are no longer black when they shouldn't be
+- Improve camera shaking smoothing at higher fps targets
 
 ## [315] 2022-23-12
 ### Fixed
