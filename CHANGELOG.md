@@ -6,13 +6,29 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Fixed
-- The following changes have been made to Brimhaven Dungeon:
+- The following changes have been made to **Brimhaven Dungeon**:
   - The shortcut to the Bronze Dragons has been restored and is once again accessible
   - Some set of skeletons no longer cause your character to teleport around when running over them
+- The doors in the combat training camp north of Ardougne are now fully upgraded 
+- The following changes have been made to **Keep Le Faye**:
+  - Some furniture has been upgraded
+  - Some collision issues have been fixed, and the respective lights have been removed
+  - The docks will no longer show pillars floating midair
+  - Chests and doors will no longer downgrade upon interaction
+- The Edgeville Monastery's incompatible drawers have been downgraded to prevent downgrading upon interaction
+- Doors in the Edgeville Monastery no longer change model upon interaction
+- Furniture and doors have been upgraded in the Fight Arena area and should no longer downgrade upon interaction
+  - **Note**: The doors being on the wrong tile is something to return for in the future
+- Merlin's door in Camelot castle no longer downgrades upon interaction
+- Wardrobes in the witch's house no longer Z-Fight with the wall
+- Upgraded the trapdoor in Paterdomus
+- The metal gate in the Paterdomus church has been upgraded when opened
+- The terrain around Hespori from the Night at the Theatre quest in Morytania has been remastered, and no longer causes your character to stand on water
+- The boat to Fossil Island is no longer blocked by mountainous terrain (fixes hdos/issues#616)
 
 ## [316] 2022-24-12
 ### Changed
-- The following improvements have been made to the Corporeal Beast's cave:
+- The following improvements have been made to the **Corporeal Beast's cave**:
   - The terrain has been restored
   - The exit into the wilderness has been restored
   - The private instance portal has been restored with a spirit portal from the Summer's End quest
