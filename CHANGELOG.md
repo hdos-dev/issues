@@ -5,8 +5,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 ## [Unreleased]
-
-
+### Fixed
+- The following changes have been made to Brimhaven Dungeon:
+  - The shortcut to the Bronze Dragons has been restored and is once again accessible
+  - Some set of skeletons no longer cause your character to teleport around when running over them
 
 ## [316] 2022-24-12
 ### Changed
