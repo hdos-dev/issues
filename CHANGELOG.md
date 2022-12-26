@@ -26,6 +26,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - The terrain around Hespori from the Night at the Theatre quest in Morytania has been remastered, and no longer causes your character to stand on water
 - The boat to Fossil Island is no longer blocked by mountainous terrain (fixes hdos/issues#616)
 - The Oak tree fix intended for v301 now works correctly
+- Improve alignment for animating objects within the scene
+
 
 ## [316] 2022-24-12
 ### Changed
