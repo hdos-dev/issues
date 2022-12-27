@@ -27,6 +27,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - The boat to Fossil Island is no longer blocked by mountainous terrain (fixes hdos/issues#616)
 - The Oak tree fix intended for v301 now works correctly
 - Improve alignment for animating objects within the scene
+- An issue with the atmosphere in the Stronghold Slayer Dungeon has been fixed
 
 
 ## [316] 2022-24-12
