@@ -28,6 +28,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - The Oak tree fix intended for v301 now works correctly
 - Improve alignment for animating objects within the scene
 - An issue with the atmosphere in the Stronghold Slayer Dungeon has been fixed
+- The upstairs blue dragon area in Taverley Dungeon is once again accessible whilst MapFilter is enabled
 
 
 ## [316] 2022-24-12
