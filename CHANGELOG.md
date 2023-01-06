@@ -5,7 +5,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 ## [Unreleased]
-
+### Audio (thanks to `@RS Orchestra#9880`)
+#### Added
+  - Added Upright Bass to Patch 672 (Bank 5, Preset 32)
+  - Added Beneath Cursed Sands to Patch 1281 (Bank 10, Preset 1)
+#### Changed
+  - The Guardians Prepare (HD Remix)
+  - Temple of the Eye (HD Remix)
+  - Guardians of the Rift (HD Remix)
+  - Beneath Cursed Sands (Orchestrated Remix)
 
 
 ## [317] 2022-30-12
