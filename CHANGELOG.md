@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Fixed
 - Resolved an issue where custom assets would occasionally be missing models when upgraded from an OS model
+- Some gradients on the cave walls in Evil Dave's basement have been fixed
 ### Audio (thanks to `@RS Orchestra#9880`)
 #### Added
   - Added Upright Bass to Patch 672 (Bank 5, Preset 32)
