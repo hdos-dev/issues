@@ -24,6 +24,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - Temple of the Eye (HD Remix)
   - Guardians of the Rift (HD Remix)
   - Beneath Cursed Sands (Orchestrated Remix)
+  - The Militia (HD Remix)
 
 
 ## [317] 2022-30-12
