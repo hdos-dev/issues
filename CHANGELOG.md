@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - Resolved an issue where custom assets would occasionally be missing models when upgraded from an OS model
 - Some gradients on the cave walls in Evil Dave's basement have been fixed
+- **MapFilter** has been improved
+  - The Amethyst mine no longer sinks into the ground
+  - Walking through the Falador dwarven mine no longer causes you to get stuck when a map is reloaded at the end of the cave
 ### Audio (thanks to `@RS Orchestra#9880`)
 #### Added
   - Added Upright Bass to Patch 672 (Bank 5, Preset 32)
