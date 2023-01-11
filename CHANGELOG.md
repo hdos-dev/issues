@@ -7,6 +7,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Changed
 - Santa has departed and snow has been swept off the roads
+- Several interaction issues related to the new **Secrets of the North** have been fixed
+  - Ardougne areas related to the quest have been remastered
 ### Fixed
 - Resolved an issue where custom assets would occasionally be missing models when upgraded from an OS model
 - Some gradients on the cave walls in Evil Dave's basement have been fixed
