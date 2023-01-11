@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 ## [Unreleased]
+
+
+
+## [318] 2023-11-1
 ### Changed
 - Santa has departed and snow has been swept off the roads
 - Several interaction issues related to the new **Secrets of the North** have been fixed
@@ -25,7 +29,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - Guardians of the Rift (HD Remix)
   - Beneath Cursed Sands (Orchestrated Remix)
   - The Militia (HD Remix)
-
 
 ## [317] 2022-30-12
 ### Fixed
