@@ -5,8 +5,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 ## [Unreleased]
-
-
+### Fixed
+- The following improvements have been made to the **Fight Arena** area:
+  - Certain grass by will no longer be invisible and cause your character to fly through the map
+  - A missing light has been added
+- The Mythical cape will no longer appear as a Mythical Completionist's cape
 
 ## [318] 2023-11-1
 ### Changed
