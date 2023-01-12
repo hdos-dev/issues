@@ -5,6 +5,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 ## [Unreleased]
+### Changed
+- The new fairy ring beam by Oldschool received an initial remaster
 ### Fixed
 - The following improvements have been made to the **Fight Arena** area:
   - Certain grass by will no longer be invisible and cause your character to fly through the map
