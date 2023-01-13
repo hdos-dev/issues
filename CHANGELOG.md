@@ -4,8 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Changed
+- Remastered the Adventure Paths banner that appears in front of the Lumbridge Pub when active
+
+
 
 ## [320] 2023-12-1
+### Fixed
 - Fix snow regressions in Lumbridge and Varrock
 
 ## [319] 2023-12-1
