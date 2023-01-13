@@ -18,6 +18,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - Restored the Giant Mole Lair
   - Agility course height blending and animations have been upgraded
 - The new fairy ring beam by Oldschool received an initial remaster
+- Particles are once again visible through transparency such as window objects
+  - *We recognize there is a deeper bug present we haven't been able to fix properly yet. With the Christmas event we decided to revert the logic on a partial fix so that the snow particles weren't disappearing when in front of trees. It is now back to what it was before the event*
 ### Fixed
 - The following improvements have been made to the **Fight Arena** area:
   - Certain grass by will no longer be invisible and cause your character to fly through the map
