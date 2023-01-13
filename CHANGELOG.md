@@ -10,10 +10,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [319] 2023-12-1
 ### Changed
-- Restored **Falador** and several areas related to it:
+- Restored **Falador** and several areas related to it: (fixes hdos/issues#232 hdos/issues#532 hdos/issues#802)
   - Restored the Dwarven Mine
     - Remastered the Mining Guild and Amethyst Mine
-  - Restored Taverley Dungeon
+  - Restored Taverley Dungeon (fixes hdos/issues#1258 hdos/issues#1421)
     - Remastered Black demons, Blue dragons and upstairs areas
   - Restored the Giant Mole Lair
   - Agility course height blending and animations have been upgraded
