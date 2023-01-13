@@ -5,9 +5,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [320] 2023-12-1
+- Fix snow regressions in Lumbridge and Varrock
 
-
-## [319]
+## [319] 2023-12-1
 ### Changed
 - Restored **Falador** and several areas related to it:
   - Restored the Dwarven Mine
