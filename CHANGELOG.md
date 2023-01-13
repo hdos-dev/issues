@@ -6,6 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Changed
+- Restored **Falador** and several areas related to it:
+  - Restored the Dwarven Mine
+    - Remastered the Mining Guild and Amethyst Mine
+  - Restored Taverley Dungeon
+    - Remastered Black demons, Blue dragons and upstairs areas
+  - Restored the Giant Mole Lair
+  - Agility course height blending and animations have been upgraded
 - The new fairy ring beam by Oldschool received an initial remaster
 ### Fixed
 - The following improvements have been made to the **Fight Arena** area:
