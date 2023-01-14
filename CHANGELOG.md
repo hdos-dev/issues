@@ -5,8 +5,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Changed
+- Several hitsplats have been upgraded to fit the 2009 style
+- Corruption (health)bars have been upgraded, such as the Phantom Muspah's shield
+- Scape Theme once again plays in the Login Screen and in-game, as Christmas has passed (fixes hdos/issues#1470)
 - Remastered the Adventure Paths banner that appears in front of the Lumbridge Pub when active
 - Improved MapFilter for the Lunar island mine and Baba Yaga's house
+- After some feedback, we have improved Amy's house and added the following details:
+  - Put back and remastered some old paintings
+  - Upgraded the carpet
+  - The door has been put back
+### Fixed
+- The objects that spawn during the Secrets of the North quest in the Carnillean's estate should now be upgrading as intended
+  - *This only applies to the already restored Ardougne objects, as well as the broken glass* 
+- The Arceuus agile (graceful) top no longer appears as an amethyst object
 
 
 ## [320] 2023-12-1
