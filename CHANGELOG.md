@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 ### Changed
 - Remastered the Adventure Paths banner that appears in front of the Lumbridge Pub when active
-
+- Improved MapFilter for the Lunar island mine and Baba Yaga's house
 
 
 ## [320] 2023-12-1
