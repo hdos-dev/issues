@@ -20,6 +20,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - *This only applies to the already restored Ardougne objects, as well as the broken glass* 
 - The Arceuus agile (graceful) top no longer appears as an amethyst object
 - Oldschool's fairy ring beams no longer cast a shadow
+- The odd wall in Taverley Dungeon used for the Scorpion Catcher quest can once again be interacted with
 
 
 ## [320] 2023-12-1
