@@ -4,23 +4,33 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+
+
+## [321] 2023-14-1
 ### Changed
-- Improved the Phantom Muspah boss room atmosphere
-- Several hitsplats have been upgraded to fit the 2009 style
-- Corruption (health)bars have been upgraded, such as the Phantom Muspah's shield
-- Scape Theme once again plays in the Login Screen and in-game, as Christmas has passed (fixes hdos/issues#1470)
-- Remastered the Adventure Paths banner that appears in front of the Lumbridge Pub when active
-- Improved MapFilter for the Lunar island mine and Baba Yaga's house
-- After some feedback, we have improved Amy's house and added the following details:
+- Improved the **Phantom Muspah** boss room atmosphere
+- Several hitsplats have been upgraded to fit the 2009 style including max hits and other players' hits
+  - Phantom Muspah's prayer shield
+  - The Nightmare's totem charging and healing
+  - The Nightmare's totem uncharging and damage
+  - Palm of Resourcefulness crocodile's damage
+  - Palm of Resourcefulness's growth and Kephri's scarab shield
+- Corruption/Prayer shield (health)bars have been upgraded, such as the Phantom Muspah's shield
+- **Scape Theme** once again plays in the Login Screen and in-game, as Christmas has passed (fixes hdos/issues#1470)
+- Remastered the **Adventure Paths** banner that appears in front of the Lumbridge Pub when active
+- Improved MapFilter for the **Lunar island mine** and **Baba Yaga's house**
+- After some feedback, we have improved **Amy's house** and added the following details:
   - Put back and remastered some old paintings
   - Upgraded the carpet
   - The door has been put back
 ### Fixed
-- The objects that spawn during the Secrets of the North quest in the Carnillean's estate should now be upgrading as intended
+- A presumed Oldschool RuneScape bug that causes the shield hitsplats on the Phantom Muspah to appear as hitsplats from other players has been fixed until it gets resolved server-side
+- The objects that spawn during the Secrets of the North quest in the **Carnillean's estate** should now be upgrading as intended
   - *This only applies to the already restored Ardougne objects, as well as the broken glass* 
 - The Arceuus agile (graceful) top no longer appears as an amethyst object
 - Oldschool's fairy ring beams no longer cast a shadow
-- The odd wall in Taverley Dungeon used for the Scorpion Catcher quest can once again be interacted with
+- The odd wall in **Taverley Dungeon** used for the Scorpion Catcher quest can once again be interacted with
 
 
 ## [320] 2023-12-1
