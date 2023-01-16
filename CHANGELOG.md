@@ -5,7 +5,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Changed
-- The Observatory and its dungeon have been restored (fixes hdos/issues#1002)
+- The **Khazard Battlefield** has been restored (fixes hdos/issues#969)
+- The **Observatory** and its dungeon have been restored (fixes hdos/issues#1002)
   - The grappling hook agility shortcut has also been remastered
 - Rick in the Wizard's tower has been restored with Wizard Korvak from the RuneCrafting Guild (fixes hdos/issues#1463)
 - Added the new shortcut in Weiss to the agility plugin
