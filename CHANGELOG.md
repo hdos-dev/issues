@@ -9,6 +9,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - The grappling hook agility shortcut has also been remastered
 - Rick in the Wizard's tower has been restored with Wizard Korvak from the RuneCrafting Guild (fixes hdos/issues#1463)
 - Added the new shortcut in Weiss to the agility plugin
+### Fixed
+- The following improvements have been made to *Castle Wars*:
+  - Several staircases have been remodeled to accomodate for their OS clickbox (fixes hdos/issues#756)
+  - Battlements can once again be interacted with (fixes hdos/issues#528)
+  - Several props near the lobby bank chest have had their models upgraded
+  - Certain doors should no longer downgrade
 
 ## [321] 2023-14-1
 ### Changed
