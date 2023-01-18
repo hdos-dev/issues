@@ -5,13 +5,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Changed
+- The **Ourania Hunter and -ZMI caves** have been restored
+  - Many NPCs have also been restored inside the ZMI caves
+  - Several objects and structures have been upgraded from the original HD map to more accurately fit the new style used in the Khazard Battlefield area
+  - Custom mining rocks have been added to the area to more accurately reflect other rocks in the vicinity
 - The **Khazard Battlefield** has been restored (fixes hdos/issues#969)
-- The **Observatory** and its dungeon have been restored (fixes hdos/issues#1002)
+- The **Observatory** and the **Observatory dungeon** have been restored (fixes hdos/issues#1002)
   - The grappling hook agility shortcut has also been remastered
-- Rick in the Wizard's tower has been restored with Wizard Korvak from the RuneCrafting Guild (fixes hdos/issues#1463)
+- **Rick** in the Wizard's tower has been restored with Wizard Korvak from the RuneCrafting Guild (fixes hdos/issues#1463)
 - Added the new shortcut in Weiss to the agility plugin
 ### Fixed
-- The following improvements have been made to *Castle Wars*:
+- The following improvements have been made to **Castle Wars**:
   - Several staircases have been remodeled to accomodate for their OS clickbox (fixes hdos/issues#756)
   - Battlements can once again be interacted with (fixes hdos/issues#528)
   - Several props near the lobby bank chest have had their models upgraded
