@@ -20,6 +20,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - Battlements can once again be interacted with (fixes hdos/issues#528)
   - Several props near the lobby bank chest have had their models upgraded
   - Certain doors should no longer downgrade
+- Several custom assets have been created for **Ardougne** allowing us to fix the following:
+  - The West-Ardougne wall by the Dark Mage's castle is now fully restored (fixes hdos/issues#1387)
+  - Staircases in ardougne now align properly (fixes hdos/issues#1383)
+    - Also corrected an issue in the model that caused it to Z-Fight under certain circumstances
+  - A custom model has been created for the diagonal Ardougne Door, and as such has now been restored
+    - This also allowed regular (non-diagonal) doors to be upgraded to its original counterpart
+  - A cabinet in the Ardougne Mansion has been counterfeited with a smaller variant to prevent it from clipping into the wall
 
 ## [321] 2023-14-1
 ### Changed
