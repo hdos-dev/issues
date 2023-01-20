@@ -16,7 +16,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Added the new shortcut in Weiss to the agility plugin
 ### Fixed
 - The following improvements have been made to **Castle Wars**:
-  - Several staircases have been remodeled to accomodate for their OS clickbox (fixes hdos/issues#756)
+  - Several staircases have been remodeled to accommodate for their OS clickbox (fixes hdos/issues#756)
   - Battlements can once again be interacted with (fixes hdos/issues#528)
   - Several props near the lobby bank chest have had their models upgraded
   - Certain doors should no longer downgrade
@@ -27,6 +27,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - A custom model has been created for the diagonal Ardougne Door, and as such has now been restored
     - This also allowed regular (non-diagonal) doors to be upgraded to its original counterpart
   - A cabinet in the Ardougne Mansion has been counterfeited with a smaller variant to prevent it from clipping into the wall
+- The rotation of the drawers in **Taverley** has been corrected (fixes hdos/issues#1437)
+- The **Druids Circle** has been improved with the following fixes:
+  - The sources of the point lights have been corrected, so they come from the torches instead of the stones
+  - Torches have been upgraded to druid's circle torches
+  - The Altar of Guthix model has been adjusted slightly to accommodate for Oldschool's collision (fixes hdos/issues#583)
 
 ## [321] 2023-14-1
 ### Changed
