@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Changed
 - The **Ourania Hunter and -ZMI caves** have been restored
   - Many NPCs have also been restored inside the ZMI caves
+    - Cave salamanders have also received slightly improved animations
   - Several objects and structures have been upgraded from the original HD map to more accurately fit the new style used in the Khazard Battlefield area
   - Custom mining rocks have been added to the area to more accurately reflect other rocks in the vicinity
 - The **Khazard Battlefield** has been restored (fixes hdos/issues#969)
@@ -14,6 +15,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - The grappling hook agility shortcut has also been remastered
 - **Rick** in the Wizard's tower has been restored with Wizard Korvak from the RuneCrafting Guild (fixes hdos/issues#1463)
 - Added the new shortcut in Weiss to the agility plugin
+- The Witch's hut in **Taverley** has been upgraded
+- **Taverley druids** have been restored (fixes hdos/issues#551 hdos/issues#643)
+- ~131 **cave goblins** have been restored (fixes hdos/issues#1378)
+- **Locust**'s have been restored and should now properly animate (fixes hdos/issues#1088)
+  - *This one was a little tricky to test thoroughly. Please create an issue if you still encounter any problems with them*
 ### Fixed
 - The following improvements have been made to **Castle Wars**:
   - Several staircases have been remodeled to accommodate for their OS clickbox (fixes hdos/issues#756)
@@ -32,6 +38,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - The sources of the point lights have been corrected, so they come from the torches instead of the stones
   - Torches have been upgraded to druid's circle torches
   - The Altar of Guthix model has been adjusted slightly to accommodate for Oldschool's collision (fixes hdos/issues#583)
+- Broken shorelines by **Corsair Cove** have been removed until its remaster (fixes hdos/issues#83)
+- Some collision with the cow fencing by the waterwheel in **Lumbridge** has been fixed (fixes hdos/issues#731)
+- The barn north-west of **Lumbridge** has had its walls corrected (fixes hdos/issues#513)
+- Some drawers in **Catherby** have been shrunk slightly to prevent them from Z-Fighting (fixes hdos/issues#556)
+- The staircase going down to the **dwarven tunnel** underneath White Wolf Mountain has been corrected
+- **Yt-HurKots**' (Jad's healers) animations have been fixed (fixes hdos/issues#659)
+- **Grubfoot**'s animations have been fixed (fixes hdos/issues#1027)
+- **Fluff's kitten** should no longer appear as a book of law (fixes hdos/issues#774)
 
 ## [321] 2023-14-1
 ### Changed
