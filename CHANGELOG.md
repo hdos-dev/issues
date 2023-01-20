@@ -17,10 +17,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Added the new shortcut in Weiss to the agility plugin
 - The Witch's hut in **Taverley** has been upgraded
 - **Taverley druids** have been restored (fixes hdos/issues#551 hdos/issues#643)
-- ~131 **cave goblins** have been restored (fixes hdos/issues#1378)
+- ~131 **cave goblins** have been restored and should no longer go stiff (fixes hdos/issues#1378)
 - **Locust**'s have been restored and should now properly animate (fixes hdos/issues#1088)
   - *This one was a little tricky to test thoroughly. Please create an issue if you still encounter any problems with them*
+- The Pharaoh's sceptre has been restored once again
 ### Fixed
+- Significantly improved the click-boxes of the caves in the **Asgarnian Ice Dungeon**, making it harder to mis-click them whilst trying to move to the wyvern safespot on the floor above them (fixes hdos/issues#1424)
 - The following improvements have been made to **Castle Wars**:
   - Several staircases have been remodeled to accommodate for their OS clickbox (fixes hdos/issues#756)
   - Battlements can once again be interacted with (fixes hdos/issues#528)
