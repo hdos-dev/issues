@@ -58,6 +58,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - Drawer south of the Ranging Guild, by the windmill
   - A chest in Hemenster
   - Wooden gate in Taverley Dungeon
+  - Coffins in Taverley Dungeon
 
 ## [321] 2023-14-1
 ### Changed
