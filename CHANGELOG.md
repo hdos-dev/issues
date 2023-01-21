@@ -15,7 +15,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - The grappling hook agility shortcut has also been remastered
 - **Rick** in the Wizard's tower has been restored with Wizard Korvak from the RuneCrafting Guild (fixes hdos/issues#1463)
 - Added the new shortcut in Weiss to the agility plugin
-- The Witch's hut in **Taverley** has been upgraded
+- The Witch's shed in **Taverley** has been upgraded
 - **Taverley druids** have been restored (fixes hdos/issues#551 hdos/issues#643)
 - ~131 **cave goblins** have been restored and should no longer go stiff (fixes hdos/issues#1378)
 - **Locust**'s have been restored and should now properly animate (fixes hdos/issues#1088)
