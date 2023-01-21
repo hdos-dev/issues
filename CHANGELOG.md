@@ -21,6 +21,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - **Locust**'s have been restored and should now properly animate (fixes hdos/issues#1088)
   - *This one was a little tricky to test thoroughly. Please create an issue if you still encounter any problems with them*
 - The Pharaoh's sceptre has been restored once again
+- Some newer versions of **Elena** have been restored
 ### Fixed
 - Significantly improved the click-boxes of the caves in the **Asgarnian Ice Dungeon**, making it harder to mis-click them whilst trying to move to the wyvern safespot on the floor above them (fixes hdos/issues#1424)
 - The following improvements have been made to **Castle Wars**:
@@ -35,6 +36,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - A custom model has been created for the diagonal Ardougne Door, and as such has now been restored
     - This also allowed regular (non-diagonal) doors to be upgraded to its original counterpart
   - A cabinet in the Ardougne Mansion has been counterfeited with a smaller variant to prevent it from clipping into the wall
+  - Some generic drawers have had their model rotation adjusted which should fix some interaction issues in Ardougne and Falador
 - The rotation of the drawers in **Taverley** has been corrected (fixes hdos/issues#1437)
 - The **Druids Circle** has been improved with the following fixes:
   - The sources of the point lights have been corrected, so they come from the torches instead of the stones
@@ -48,6 +50,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - **Yt-HurKots**' (Jad's healers) animations have been fixed (fixes hdos/issues#659)
 - **Grubfoot**'s animations have been fixed (fixes hdos/issues#1027)
 - **Fluff's kitten** should no longer appear as a book of law (fixes hdos/issues#774)
+- Snowy yew trees no longer turn into snowy willow trees after being chopped down
+- Several objects should no longer downgrade upon interaction (fixes hdos/issues#1474)
+  - A door in West-Ardougne
+  - Several doors in East-Ardougne
+  - Drawers in Falador
+  - Drawer south of the Ranging Guild, by the windmill
+  - A chest in Hemenster
+  - Wooden gate in Taverley Dungeon
 
 ## [321] 2023-14-1
 ### Changed
