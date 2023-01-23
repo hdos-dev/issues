@@ -7,7 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 
-## [321] 2023-23-1
+## [322] 2023-23-1
 ### Changed
 - The **Ourania Hunter and -ZMI caves** have been restored
   - Many NPCs have also been restored inside the ZMI caves
@@ -66,6 +66,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - Coffins in Taverley Dungeon
 - Some objects in the upstairs Black Dragon area in Taverley Dungeon will no longer be shown when downstairs
   - *Some objects still will be, this is intended*
+### Audio (thanks to `@RS Orchestra#9880`)
+#### Changed
+- Upgraded Secrets of the North music to HD soundset
+  - More Than Meets the Eye (Orchestrated Remix)
 
 ## [321] 2023-14-1
 ### Changed
