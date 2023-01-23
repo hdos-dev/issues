@@ -23,6 +23,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - The Pharaoh's sceptre has been restored once again
 - Some newer versions of **Elena** have been restored
 ### Fixed
+- Fixed scaled NPC clickboxes (fixes hdos/issues#1444 fixes hdos/issues#1472)
 - Significantly improved the click-boxes of the caves in the **Asgarnian Ice Dungeon**, making it harder to mis-click them whilst trying to move to the wyvern safespot on the floor above them (fixes hdos/issues#1424)
 - The following improvements have been made to **Castle Wars**:
   - Several staircases have been remodeled to accommodate for their OS clickbox (fixes hdos/issues#756)
@@ -59,6 +60,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - A chest in Hemenster
   - Wooden gate in Taverley Dungeon
   - Coffins in Taverley Dungeon
+- Some objects in the upstairs Black Dragon area in Taverley Dungeon will no longer be shown when downstairs
+  - *Some objects still will be, this is intended*
 
 ## [321] 2023-14-1
 ### Changed
