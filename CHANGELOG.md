@@ -4,7 +4,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-
+### Fixed
+- **Ket-Zek**'s on wave 62 of the Fight Caves once again has one red and one orange variant to indicate where TzTok-Jad spawns (fixes hdos/issues#660)
 
 
 ## [322] 2023-23-1
