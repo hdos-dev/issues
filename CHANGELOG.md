@@ -9,7 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - The snow has melted in the affected Christmas event areas
 ### Fixed
 - **Ket-Zek**'s on wave 62 of the Fight Caves once again has one red and one orange variant to indicate where TzTok-Jad spawns (fixes hdos/issues#660)
-- Construction contract furniture should now become transparent whilst on a contract
+- Construction contract furniture in Varrock should now become transparent whilst on a contract
 
 
 ## [322] 2023-23-1
