@@ -4,12 +4,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
-
+### Changed
+- **The Kraken**'s (boss) whirlpools' visibility has been increased similar to the other cave kraken whirlpools
+### Fixed
+- A debug (rapier) animation that would play whilst wearing a **rune pickaxe** has been disabled, and should now be back to normal
 
 
 ## [323] 2023-25-1
 ### Changed
-- Restored the Voidwaker as Korasi's sword
+- Restored the **Voidwaker** as Korasi's sword
 - The snow has melted in the affected Christmas event areas
 ### Fixed
 - **Ket-Zek**'s on wave 62 of the Fight Caves once again has one red and one orange variant to indicate where TzTok-Jad spawns (fixes hdos/issues#660)
