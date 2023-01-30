@@ -8,6 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - **The Kraken**'s (boss) whirlpools' visibility has been increased similar to the other cave kraken whirlpools
 ### Fixed
 - A debug (rapier) animation that would play whilst wearing a **rune pickaxe** has been disabled, and should now be back to normal
+- Furniture will once again indicate that something can be built when on a construction contract in Falador (fixes hdos/issues#1481)
 
 
 ## [323] 2023-25-1
